@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications & Presentations
-permalink: /Publications & Presentations/
+permalink: /Publications-Presentations/
 order: 2
 ---
 
