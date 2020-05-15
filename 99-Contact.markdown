@@ -1,0 +1,21 @@
+---
+layout: page
+title: Contact
+permalink: /Contact/
+order: 3
+---
+
+<img src="/images/LAL_Portrait.JPG" style="float: left;" height=250 style="border:25px solid white; float: left;">
+
+<br>
+
+<br><br> 
+Email: [laura.logozzo@yale.edu](mailto:laura.logozzo@yale.edu) <br> 
+Office: 21 Sachem Street &middot; New Haven, CT <br>
+Phone: 203-432-0106
+<br> <br> 
+
+<a href="https://scholar.google.com/citations?user=_UCp1DgAAAAJ&hl=en" target="_blank"> <img src="/images/GoogleScholar.PNG" width = 25> </a>
+<a href="https://www.linkedin.com/in/lauralogozzo/" target="_blank"> <img src="/images/LinkedIn.PNG" width = 25> </a>
+<a href="https://www.researchgate.net/profile/Laura_Logozzo" target="_blank"> <img src="/images/ResearchGate.JPG" width = 25> </a>
+<a href="https://environment.yale.edu/profile/laura-logozzo" target="_blank"> <img src="/images/Yale.PNG" width = 25> </a>
