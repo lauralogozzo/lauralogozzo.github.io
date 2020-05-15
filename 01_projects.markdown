@@ -5,7 +5,7 @@ permalink: /Current-projects/
 order: 1
 ---
 
-<h2 style="float: center;"> The effects of iron on DOM <br> optical properties </h2>
+<h3 style="float: center;"> The effects of iron on DOM <br> optical properties </h3>
 <img src="/images/CT-THOM_across.jpg" width = 350 style="float: left;" />
 <img src="/images/CT-THOM_across.jpg" width = 350 style="float: right;" />
 

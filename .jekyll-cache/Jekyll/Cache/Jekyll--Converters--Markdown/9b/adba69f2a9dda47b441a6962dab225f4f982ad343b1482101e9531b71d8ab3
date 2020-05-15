@@ -1,0 +1,16 @@
+I"8<h3 style="float: center;"> The effects of iron on DOM <br /> optical properties &lt;/h2&gt;
+<img src="/images/CT-THOM_across.jpg" width="350" style="float: left;" />
+<img src="/images/CT-THOM_across.jpg" width="350" style="float: right;" />
+
+
+
+<div class="container">
+  <img src="/images/CT-THOM_across.jpg" alt="TesT!" style="width:100%;" />
+  <div class="bottom-left">Bottom Left</div>
+  <div class="top-left">Top Left</div>
+  <div class="top-right">Top Right</div>
+  <div class="bottom-right">Bottom Right</div>
+  <div class="centered">Centered</div>
+</div>
+</h3>
+:ET
