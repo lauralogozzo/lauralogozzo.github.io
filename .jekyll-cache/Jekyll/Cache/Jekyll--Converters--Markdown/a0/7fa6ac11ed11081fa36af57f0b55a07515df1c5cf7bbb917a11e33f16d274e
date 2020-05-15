@@ -1,19 +1,10 @@
----
-layout: page
-title: Current Projects
-permalink: /Current-projects/
-order: 1
----
-
-<h3 style="float: center;"> Ferric iron impacts dissolved organic matter UV absorption measurements 
+I"Å<h3 style="float: center;"> Ferric iron impacts dissolved organic matter UV absorption measurements 
 in natural waters </h3>
-<img src="/images/CT-THOM_across.jpg" width = 350 style="float: left;" />
-<img src="/images/CT-THOM_across.jpg" width = 350 style="float: right;" />
-
-
+<p><img src="/images/CT-THOM_across.jpg" width="350" style="float: left;" />
+<img src="/images/CT-THOM_across.jpg" width="350" style="float: right;" /></p>
 
 <div class="container">
-  <img src="/images/CT-THOM_across.jpg" alt="TesT!" style="width:100%;">
+  <img src="/images/CT-THOM_across.jpg" alt="TesT!" style="width:100%;" />
   <div class="bottom-left">Bottom Left</div>
   <div class="top-left">Top Left</div>
   <div class="top-right">Top Right</div>
@@ -34,3 +25,4 @@ in natural waters </h3>
     </p>
   </div>
 </section>
+:ET
