@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Current Projects
-permalink: /Current-projects/
+permalink: /Current-Projects/
 order: 1
 ---
 
