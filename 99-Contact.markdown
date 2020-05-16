@@ -19,5 +19,5 @@ Phone: 203-432-0106
 <a href="https://www.linkedin.com/in/lauralogozzo/" target="_blank"> <img src="/images/LinkedIn.png" width = "25" /> </a>
 <a href="https://www.researchgate.net/profile/Laura_Logozzo" target="_blank"> <img src="/images/ResearchGate.jpg" width = "25" /> </a>
 <a href="https://environment.yale.edu/profile/laura-logozzo" target="_blank"> <img src="/images/Yale.png" width = "25" /> </a>
-<a href="/assets/laura-logozzo-cv.pdf"> <img src="/images/CV-icon.png" target="blank" width = "25" /> </a>
+<a href="/assets/laura-logozzo-cv.pdf" target="blank"> <img src="/images/CV-icon.png" width = "25" /> </a>
 
