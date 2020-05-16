@@ -6,7 +6,7 @@ order: 2
 ---
 
 # Photochemical and microbial degradation of colored dissolved organic matter exported from tidal marshes
-**Logozzo, L.**, Tzortziou, M., Neale, P. *In prep.*
+**Logozzo, L.**, Tzortziou, M., Neale, P., Clark, B. *In prep.*
 
 ---
 
