@@ -5,7 +5,7 @@ permalink: /Contact/
 order: 3
 ---
 
-<img src = "/images/LauraPortrait.JPG" alt = "Portrait" height="250" style="border: 35px solid white; float: left;" />
+<img src = "/images/Laura_Portrait2.jpg" alt = "Portrait" height="250" style="border: 35px solid white; float: left;" />
 
 <br>
 
