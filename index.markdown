@@ -12,8 +12,9 @@ layout: page
 
 <p align = "justify">
 
-  I am a PhD Candidate in Dr. Peter Raymond's lab at the Yale School of Forestry 
-  and Environmental Studies. My research focuses on the biogeochemistry of large river
+  I am a PhD Candidate in Dr. Peter Raymond's lab at the Yale School of the Environment (YSE), formerly known as 
+  the Yale School of Forestry and Environmental Studies. 
+  My research focuses on the biogeochemistry of large river
   systems. In particular, I am interested in interactions between dissolved organic
   matter and iron.
   <br><br>
