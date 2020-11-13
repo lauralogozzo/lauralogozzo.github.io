@@ -1,12 +1,11 @@
 ---
 layout: page
-title: 
+title: Publications
 permalink: /Publications-Presentations/
 order: 2
 aside: false
 ---
 
-# Publications
 
 #### Ferric iron impacts SUVA254 measurements in natural waters
 **Logozzo, L.**, Martin, J., Raymond, P. *In review.*
