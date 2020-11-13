@@ -3,7 +3,7 @@ title:
 feature_text: |
   ## Laura Logozzo
   
-feature_image: "/images/ESSX-landscape.JPG"
+feature_image: "/images/ESSX-landscape-banner.png"
 excerpt: "Laura Logozzo is a PhD Candidate at Yale University School of the Environment"
 ---
 

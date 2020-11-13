@@ -3,9 +3,10 @@ layout: page
 title: Current Projects
 permalink: /Current-Projects/
 order: 1
+excerpt: "feature_text: ## Current Projects"
 feature_image: "/images/photoox.JPG"
----
 
+---
 
 #### Ferric iron impacts dissolved organic matter UV absorption measurements in natural waters
 <br>
