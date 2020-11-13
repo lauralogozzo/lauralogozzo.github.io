@@ -1,12 +1,12 @@
 ---
-layout: post
+layout: blog
 title:  "The Effects of Trace Narasin on the Biogeochemical N-Cycle in a Cultivated Sandy Loam"
 date:   May 10 2020
 categories: featured
 ---
 
-### DeVries, S., Loving, M.,  **Logozzo, L.**, Zhang, P., Block, K. <br>
-### May 2020 &middot; *Science of the Total Environment*
+##### DeVries, S., Loving, M.,  **Logozzo, L.**, Zhang, P., Block, K. <br>
+###### May 2020 &middot; *Science of the Total Environment*
 
 Narasin is an antibiotic administered to broiler chickens to prevent coccidiosis. 
 After storage, excreta containing parent narasin compounds is commonly spread as nitrogen fertilizer, 

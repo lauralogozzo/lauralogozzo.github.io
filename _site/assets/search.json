@@ -1,0 +1,33 @@
+
+
+[
+  
+  
+    
+    
+      {
+        "title": "The Effects of Trace Narasin on the Biogeochemical N-Cycle in a Cultivated Sandy Loam",
+        "excerpt": "DeVries, S., Loving, M.,  Logozzo, L., Zhang, P., Block, K. \nMay 2020 · Science of the Total Environment\n\nNarasin is an antibiotic administered to broiler chickens to prevent coccidiosis. \nAfter storage, excreta containing parent narasin compounds is commonly spread as nitrogen fertilizer, \nyielding initial soil concentrations in the low μg·kg−1 range. In soil, antibiotics have \nbeen found to modify one or more pathways in the biogeochemical nitrogen cycle. The concentrations \ntested are often too high to be considered environmentally relevant, despite evidence that \nsub-therapeutic doses may also be disruptive. We conducted soil mesocosm experiments to \ndetermine the overall impact of trace narasin on major nitrogen pools and fluxes in soils \ntreated with 0, 1, 10, 100, or 1000 ng·kg−1 narasin. Water content in the mesocosms varied \nfrom 40% to 80% water-filled pore space (WFPS), simulating a range of different redox \nconditions. Under aerobic conditions (40% WFPS), exposure to narasin inhibited nitrification, \nyielding increases in soil ammonium by up to 76%, perhaps by targeting nitrifying fungi. \nUnder the same conditions, narasin caused soil nitrate concentrations to decline 17–39%. \nWhen the soil was near saturation (80% WFPS), nitrate increased by an average of 30%. \nMass balances and isotopic enrichment of N2O indicate that NAR may also affect anammox and \nthe rate of nitrifier nitrification/denitrification. In aerobic soils, N2O flux increased \nwith antibiotic dose and the rise in flux strongly correlates to the N2O:N2 product ratio \nfrom dentification. This relationship suggests that N2O flux may increase in soils exposed \nto narasin even when total denitrification is modestly inhibited. We conclude that trace \nconcentrations of narasin can significantly modify biogeochemical activities in soil on \nshort timescales. Our results indicate the potential for extremely low concentrations of \nantibiotics to impact agricultural productivity, terrestrial N2O flux, and non-point source \nnitrogen pollution.\n\nRead more\n\n\n",
+        "content": "DeVries, S., Loving, M.,  Logozzo, L., Zhang, P., Block, K. \nMay 2020 · Science of the Total Environment\n\nNarasin is an antibiotic administered to broiler chickens to prevent coccidiosis. \nAfter storage, excreta containing parent narasin compounds is commonly spread as nitrogen fertilizer, \nyielding initial soil concentrations in the low μg·kg−1 range. In soil, antibiotics have \nbeen found to modify one or more pathways in the biogeochemical nitrogen cycle. The concentrations \ntested are often too high to be considered environmentally relevant, despite evidence that \nsub-therapeutic doses may also be disruptive. We conducted soil mesocosm experiments to \ndetermine the overall impact of trace narasin on major nitrogen pools and fluxes in soils \ntreated with 0, 1, 10, 100, or 1000 ng·kg−1 narasin. Water content in the mesocosms varied \nfrom 40% to 80% water-filled pore space (WFPS), simulating a range of different redox \nconditions. Under aerobic conditions (40% WFPS), exposure to narasin inhibited nitrification, \nyielding increases in soil ammonium by up to 76%, perhaps by targeting nitrifying fungi. \nUnder the same conditions, narasin caused soil nitrate concentrations to decline 17–39%. \nWhen the soil was near saturation (80% WFPS), nitrate increased by an average of 30%. \nMass balances and isotopic enrichment of N2O indicate that NAR may also affect anammox and \nthe rate of nitrifier nitrification/denitrification. In aerobic soils, N2O flux increased \nwith antibiotic dose and the rise in flux strongly correlates to the N2O:N2 product ratio \nfrom dentification. This relationship suggests that N2O flux may increase in soils exposed \nto narasin even when total denitrification is modestly inhibited. We conclude that trace \nconcentrations of narasin can significantly modify biogeochemical activities in soil on \nshort timescales. Our results indicate the potential for extremely low concentrations of \nantibiotics to impact agricultural productivity, terrestrial N2O flux, and non-point source \nnitrogen pollution.\n\nRead more\n\n\n",
+        "url": "/featured/2020/05/10/DeVries/"
+      },
+    
+  
+  
+  
+  {
+    "title": "Contact",
+    "excerpt": "\n",
+    "content": "\n\n\n  \n  \n\n\nEmail: laura.logozzo@yale.edu  \nOffice: 21 Sachem Street · New Haven, CT \nPhone: 203-432-0106\n\n\n  \n  \n  \n  \n  \n",
+    "url": "/Contact/"
+  },
+  
+  {
+    "title": "Search",
+    "excerpt": "Search for a page or post you’re looking for\n",
+    "content": "{% include site-search.html %}\n",
+    "url": "/search/"
+  }
+  
+]
+
