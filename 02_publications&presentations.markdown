@@ -2,6 +2,8 @@
 layout: page
 title: Publications
 permalink: /Publications-Presentations/
+feature_text: |
+feature_image: "/images/ESSX-winter-landscape.jpeg"
 order: 2
 aside: false
 ---
