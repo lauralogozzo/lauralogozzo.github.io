@@ -3,7 +3,7 @@ layout: page
 title: Current Projects
 permalink: /Current-Projects/
 order: 1
-feature_image: "/images/photoox.jpg"
+feature_image: "/images/photoox.JPG"
 ---
 
 
