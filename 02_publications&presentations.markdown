@@ -10,7 +10,7 @@ aside: false
 
 
 #### Ferric iron impacts SUVA254 measurements in natural waters
-**Logozzo, L.**, Martin, J., Raymond, P. *In review.*
+**Logozzo, L.**, Martin, J., Raymond, P. *In prep.*
 
 
 #### Photochemical and microbial degradation of colored dissolved organic matter exported from tidal marshes
