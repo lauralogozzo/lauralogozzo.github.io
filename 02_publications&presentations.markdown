@@ -9,12 +9,13 @@ aside: false
 ---
 
 
-#### Ferric iron impacts SUVA254 measurements in natural waters
+#### Contributions of ferric iron and dissolved organic matter to light absorption in natural waters
 **Logozzo, L.**, Martin, J., Raymond, P. *In prep.*
 
 
 #### Photochemical and microbial degradation of colored dissolved organic matter exported from tidal marshes
-**Logozzo, L.**, Tzortziou, M., Neale, P., Clark, B. *In review.*
+**Logozzo, L.**, Tzortziou, M., Neale, P., Clark, B. <br>
+Accepted &middot; *Journal of Geophysical Research: Biogeosciences*
 
 
 <h4><a href="https://www.sciencedirect.com/science/article/pii/S0048969720305416?via%3Dihub" target="_blank">The Effects of Trace Narasin on the Biogeochemical N-Cycle in a Cultivated Sandy Loam.</a></h4>
@@ -24,6 +25,18 @@ May 2020 &middot; *Science of the Total Environment*
 <br>
 
 # Presentations
+
+#### Disolved Organic Carbon Cycling in Rivers and Estuaries
+**Logozzo, L.** <br>
+2021 &middot; *Talk* &middot; CUNY City College, Earth & Environmental Science Seminar
+
+#### Seasonal variability in dissolved iron and dissolved organic matter in the Connecticut River
+**Logozzo, L.**, Raymond, P. <br>
+2020 &middot; *Talk* &middot; YSE Research Conference
+
+#### The Coupled Cycling of Dissolved Iron and Dissolved Organic Matter in the Connecticut River
+**Logozzo, L.**, Raymond, P. <br>
+2019 &middot; *Poster* &middot; YSE Research Conference &middot; **Best poster award winner**
 
 #### The Coupled Cycling of Dissolved Iron and Dissolved Organic Matter in the Connecticut River
 **Logozzo, L.**, Raymond, P. <br>
