@@ -28,15 +28,15 @@ May 2020 &middot; *Science of the Total Environment*
 
 #### Disolved Organic Carbon Cycling in Rivers and Estuaries
 **Logozzo, L.** <br>
-2021 &middot; *Talk* &middot; CUNY City College, Earth & Environmental Science Seminar
+2021 &middot; *Talk* &middot; CUNY City College, Earth & Environmental Science Seminar &middot; Zoom
 
 #### Seasonal variability in dissolved iron and dissolved organic matter in the Connecticut River
 **Logozzo, L.**, Raymond, P. <br>
-2020 &middot; *Talk* &middot; YSE Research Conference
+2020 &middot; *Talk* &middot; YSE Research Conference &middot; Zoom
 
 #### The Coupled Cycling of Dissolved Iron and Dissolved Organic Matter in the Connecticut River
 **Logozzo, L.**, Raymond, P. <br>
-2019 &middot; *Poster* &middot; YSE Research Conference &middot; **Best poster award winner**
+2019 &middot; *Poster* &middot; YSE Research Conference &middot; New Haven, CT &middot; **Best poster award winner**
 
 #### The Coupled Cycling of Dissolved Iron and Dissolved Organic Matter in the Connecticut River
 **Logozzo, L.**, Raymond, P. <br>
@@ -44,7 +44,7 @@ May 2020 &middot; *Science of the Total Environment*
 
 #### Dissolved Organic Matter Fate in Estuaries: Spatial Variations in Bioavailability and Photoreactivity
 **Logozzo, L.**, Tzortziou, M., Neale, P. <br>
-2017 &middot; *Poster* ASLO Aquatic Sciences Meeting. Honolulu, HI
+2017 &middot; *Poster* ASLO Aquatic Sciences Meeting &middot; Honolulu, HI
 
 #### Tidal Marshes as Pulsing Systems: New Estimates of Marsh-Carbon Export and Fate
 **Logozzo, L.**, Neale, P., Tzortziou, M., Nelson, N., Megonigal, P. <br>
