@@ -44,7 +44,7 @@ May 2020 &middot; *Science of the Total Environment*
 
 #### Dissolved Organic Matter Fate in Estuaries: Spatial Variations in Bioavailability and Photoreactivity
 **Logozzo, L.**, Tzortziou, M., Neale, P. <br>
-2017 &middot; *Poster* ASLO Aquatic Sciences Meeting &middot; Honolulu, HI
+2017 &middot; *Poster* &middot; ASLO Aquatic Sciences Meeting &middot; Honolulu, HI
 
 #### Tidal Marshes as Pulsing Systems: New Estimates of Marsh-Carbon Export and Fate
 **Logozzo, L.**, Neale, P., Tzortziou, M., Nelson, N., Megonigal, P. <br>
