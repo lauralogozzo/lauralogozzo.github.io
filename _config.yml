@@ -98,7 +98,7 @@ url: "lauralogozzo.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/lauralogozzo/lauralogozzo.github.io"
 email: "laura.logozzo@yale.edu"
-google_analytics: 'G-Q3EBD3LCDR'
+google_analytics: 'UA-Q3EBD3LCDR-1'
 # google_analytics_anonymize_ip: ''
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 # service_worker: false # Will turn off the service worker if set to false
