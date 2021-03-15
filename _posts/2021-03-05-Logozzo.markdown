@@ -8,7 +8,7 @@ categories: Publications
 ##### **Logozzo, L.**, Tzortziou, M., Neale, P., Clark, B. <br>
 ###### March 2021 &middot; *Journal of Geophysical Research: Biogeosciences*
 <br>
-{% include figure.html image="/images/GCReW.jpg" caption="" position="center"%}
+{% include figure.html image="/images/GCReW.png" caption="" position="center"%}
 <p align = "justify">
 Wetlands export chromophoric dissolved organic matter (CDOM) to estuaries, 
 where CDOM is removed and transformed through biotic and abiotic process, subsequently 
