@@ -25,7 +25,7 @@ I am a PhD Candidate in Dr. Peter Raymond's lab at the Yale School of the Enviro
 
 ## Featured Publications
 
-{% include figure.html image="/images/GCReW.jpg" caption="" position="left" width="200" height="800" %}
+{% include figure.html image="/images/GCReW.png" caption="" position="left" width="200" height="800" %}
 #### [Photochemical and Microbial Degradation of Chromophoric Dissolved Organic Matter Exported from Tidal Marshes]({% post_url 2021-03-09-Logozzo %})
 <br>
 
