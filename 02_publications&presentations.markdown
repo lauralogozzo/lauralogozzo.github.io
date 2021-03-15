@@ -13,7 +13,7 @@ aside: false
 **Logozzo, L.**, Martin, J., Raymond, P. *In prep.*
 
 
-#### Photochemical and microbial degradation of colored dissolved organic matter exported from tidal marshes
+<h4> <a href="https://doi.org/10.1029/2020JG005744" target="_blank"> Photochemical and microbial degradation of colored dissolved organic matter exported from tidal marshes. </a></h4>
 **Logozzo, L.**, Tzortziou, M., Neale, P., Clark, B. <br>
 Accepted &middot; *Journal of Geophysical Research: Biogeosciences*
 

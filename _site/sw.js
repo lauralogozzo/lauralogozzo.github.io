@@ -1,8 +1,8 @@
-const version = '20210315164825';
+const version = '20210315181023';
 const cacheName = `static::${version}`;
 
 const buildContentBlob = () => {
-  return ["/publications/2020/05/10/DeVries/","/Research/","/Publications-Presentations/","/Contact/","/categories/","/blog/","/","/manifest.json","/offline/","/assets/search.json","/search/","/assets/styles.css","/redirects.json","/sitemap.xml","/robots.txt","/feed.xml","/assets/styles.css.map","/assets/logos/laura-logo.svg", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
+  return ["/publications/2021/03/09/Logozzo/","/publications/2020/05/10/DeVries/","/Research/","/Publications-Presentations/","/Contact/","/categories/","/blog/","/","/manifest.json","/offline/","/assets/search.json","/search/","/assets/styles.css","/redirects.json","/sitemap.xml","/robots.txt","/feed.xml","/assets/styles.css.map","/assets/logos/laura-logo.svg", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
   ]
 }
 
