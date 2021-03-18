@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Contact
+title: 
+feature_image: "/images/Gunnison-Mtn.png"
 permalink: /Contact/
 order: 3
 ---
 
-<br>
 
 {% include figure.html image="/images/Laura_Portrait2.jpg" caption="" position="left" width="300" height="800" %}
 

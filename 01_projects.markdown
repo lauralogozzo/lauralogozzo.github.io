@@ -9,7 +9,7 @@ feature_image: "/images/photoox.JPG"
 
 #### Ferric iron impacts dissolved organic matter UV absorption measurements in natural waters
 <br>
-{% include figure.html image="/images/BUNN-storm.jpg" caption="" position="left" width="300" height="800" %}
+{% include figure.html image="/images/BUNN-storm.jpg" caption="" position="left" width="300" %}
 <p align = "justify">
 Dissolved organic matter (DOM) UV-vis measurements have been widely used as a cost-efficient and less time-consuming method of estimating DOM composition. However, the presence of ferric iron in filtered water samples results in overestimations of DOM UV-vis absorption. Despite the development of correction factors for ferric iron, they are rarely applied. I address the implications of failing to correct for dissolved ferric iron by examining the impacts on two commonly measured DOM UV-vis parameters (DOM absorption at 254 nm and the specific UV absorption at 254 nm) at 5 sites along the Connecticut River over a 1.5 year period starting in July 2018 and for 7 smaller tributaries in the Connecticut River watershed in the summer 2019.
 </p>

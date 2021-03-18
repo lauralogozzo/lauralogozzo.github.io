@@ -7,15 +7,15 @@ $accentColour: #05bf85 !default;
 // Text colours
 $headingColour: #242e2b !default;
 $bodyColour: #090909 !default;
-$linkColour: #05bf85 !default;
+$linkColour: #242e2b !default;
 $hoverColour: #008000 !default;
-$focusColour: #fa407a !default;
-$captionColour: #355A44 !default;
+$focusColour: !default;
+$captionColour: #008000 !default;
 $white: #ffffff !default;
 
 // Typography
 $bodytype: (
-  font-family: "'Calibri', sans-serif",
+  font-family: "'Times New Roman', serif",
   regular: 100,
   bold: 550,
   italic: italic,
@@ -23,7 +23,7 @@ $bodytype: (
 ) !default;
 
 $headingtype: (
-  font-family: '"Helvetica", sans-serif',
+  font-family: '"Times New Roman", serif',
   font-stretch: ultra-expanded,
   regular: 100,
   bold: 300,
