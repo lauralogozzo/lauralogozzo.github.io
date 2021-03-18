@@ -22,7 +22,7 @@ Accepted &middot; *Journal of Geophysical Research: Biogeosciences*
 DeVries, S., Loving, M.,  **Logozzo, L.**, Zhang, P., Block, K. <br>
 May 2020 &middot; *Science of the Total Environment*
 
----
+<br>
 
 # Presentations
 

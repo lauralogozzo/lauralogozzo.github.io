@@ -2,7 +2,7 @@
 title: Current Research
 permalink: /Research/
 order: 1
-feature_text: |
+feature_text:
 feature_image: "/images/photoox.JPG"
 
 ---

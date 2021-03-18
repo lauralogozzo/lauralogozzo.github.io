@@ -1,3 +1,4 @@
+
 // Background colours
 $backgroundColour: #ffffff !default;
 $codeBackgroundColour: #fafafa !default;
@@ -11,23 +12,21 @@ $linkColour: #006600 !default;
 $hoverColour: #05bf85 !default;
 $focusColour: !default;
 $captionColour: #242e2b !default;
-$white: #ffffff !default;
 
 // Typography
 $bodytype: (
-  font-family: "'Times New Roman', serif",
+  font-family: "Times New Roman, serif",
   regular: 100,
-  bold: 550,
+  bold: 500,
   italic: italic,
-  cap-height: 0.75,
+  cap-height: 0.75
 ) !default;
 
 $headingtype: (
   font-family: '"Times New Roman", serif',
-  font-stretch: ultra-expanded,
   regular: 100,
-  bold: 300,
-  cap-height: 0.25
+  bold: 500,
+  cap-height: 0.75
 ) !default;
 
 $monospacetype: (

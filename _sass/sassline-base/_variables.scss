@@ -28,11 +28,11 @@ $rootsizes: (
 // ! Make sure to have as many widths as breakpoints above.
 // Note: this was 'maxwidths' in previous versions.
 $measures: (
-  measure-0: 450,  // 500px wide
-  measure-1: 500,  // 550px wide
-  measure-2: 550,  // 600px wide
-  measure-3: 630,  // 680px wide
-  measure-4: 700   // 750px wide
+  measure-0: 500,  // 500px wide
+  measure-1: 550,  // 550px wide
+  measure-2: 600,  // 600px wide
+  measure-3: 680,  // 680px wide
+  measure-4: 750   // 750px wide
 ) !default;
 
 // Set the max-widths for containers (based on design).
