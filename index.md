@@ -21,7 +21,7 @@ I am a PhD Candidate in Dr. Peter Raymond's lab at the Yale School of the Enviro
   organic matter from Chesapeake Bay tidal marshes, and its subsequent photochemical and microbial degradation in estuaries.
 </p>
 
-<p align = "center"> {% include button.html text="Read my CV" link="/assets/laura-logozzo-cv.pdf" color = "#7C7CD8" %} </p>
+{% include button.html text="Read my CV" icon="" link="/assets/laura-logozzo-cv.pdf" color = "#7C7CD8" %}
 
 ## Featured Publications
 

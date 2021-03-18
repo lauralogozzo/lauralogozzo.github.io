@@ -1,8 +1,7 @@
 ---
 layout: page
-title: 
+title: Contact
 permalink: /Contact/
-feature_image: "/images/Gunnison-Mtns.jpg"
 order: 3
 ---
 
