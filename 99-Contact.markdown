@@ -2,7 +2,7 @@
 layout: page
 title: 
 permalink: /Contact/
-feature_text: <h1> Contact </h1>
+feature_text: <h1 style="color:#FFFFFF; font-family:sans-serif; font-weight:bold"> Contact </h1>
 feature_image: "/images/Gunnison-Mtns.JPG"
 order: 3
 ---

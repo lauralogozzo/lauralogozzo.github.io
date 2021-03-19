@@ -2,7 +2,7 @@
 title:
 permalink: /Research/
 order: 1
-feature_text: <h1 style="color:#FFFFFF;"> Current Projects </h1>
+feature_text: <h1 style="color:#FFFFFF; font-family:sans-serif; font-weight:bold"> Current Projects </h1>
 feature_image: "/images/photoox.JPG"
 
 ---
