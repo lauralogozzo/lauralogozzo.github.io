@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publications
+title: 
 permalink: /Publications-Presentations/
 feature_text: |
 feature_image: "/images/ESSX-winter-landscape.jpeg"
@@ -8,6 +8,7 @@ order: 2
 aside: false
 ---
 
+<h1 align = "center"> Publications </h1>
 
 #### Contributions of ferric iron and dissolved organic matter to light absorption in natural waters
 **Logozzo, L.**, Martin, J., Raymond, P. *In prep.*
@@ -24,7 +25,7 @@ May 2020 &middot; *Science of the Total Environment*
 
 ---
 
-# Presentations
+<h1 align = "center"> Presentations </h1>
 
 #### Disolved Organic Carbon Cycling in Rivers and Estuaries
 **Logozzo, L.** <br>

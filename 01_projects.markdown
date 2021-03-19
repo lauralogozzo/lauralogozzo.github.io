@@ -1,11 +1,13 @@
 ---
-title: Current Research
+title:
 permalink: /Research/
 order: 1
-feature_text: |
+feature_text: <h1 style="color:#FFFFFF;"> Current Projects </h1>
 feature_image: "/images/photoox.JPG"
 
 ---
+
+
 
 <br> 
 <h4 align = "center"> Ferric iron impacts dissolved organic matter UV absorption measurements in natural waters </h4>

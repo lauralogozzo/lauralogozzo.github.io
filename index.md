@@ -7,14 +7,14 @@ feature_image: "/images/ESSX-landscape.JPG"
 excerpt: "Laura Logozzo is a PhD Candidate at Yale University School of the Environment"
 ---
 
-<p align = "justify">
+<p align = "center">
 I am a PhD Candidate in Dr. Peter Raymond's lab at the Yale School of the Environment (YSE), formerly known as 
   the Yale School of Forestry and Environmental Studies. 
   My research focuses on the biogeochemistry of large river
   systems. In particular, I am interested in interactions between dissolved organic
   matter and iron.
 </p>
-<p align = "justify">
+<p align = "center">
   Originally from Brooklyn, NY, I attended Fiorello H. LaGuardia High School, majoring in fine arts.
   I received my B.S. and M.S. from CUNY City College of New York, where I studied Earth 
   and Atmospheric Sciences. My Master's thesis examined the export of colored dissolved 
@@ -31,6 +31,7 @@ I am a PhD Candidate in Dr. Peter Raymond's lab at the Yale School of the Enviro
 <br>
 {% include figure.html image="https://ars.els-cdn.com/content/image/1-s2.0-S0048969720305416-ga1.jpg" caption="" position="left" width="200" height="800" %}
 #### [The Effects of Trace Narasin on the Biogeochemical N-Cycle in a Cultivated Sandy Loam]({% post_url 2020-05-10-DeVries %})
+<br>
 <br>
 
 ## News

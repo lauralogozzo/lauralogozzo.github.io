@@ -2,12 +2,13 @@
 layout: page
 title: 
 permalink: /Contact/
+feature_text: <h1> Contact </h1>
 feature_image: "/images/Gunnison-Mtns.JPG"
 order: 3
 ---
 
 
-{% include figure.html image="/images/Laura_Portrait2.jpg" caption="" position="left" width="300" height="800" %}
+{% include figure.html image="/images/Laura_Portrait2.jpg" caption="" position="left" width="320" height="800" %}
 
 Email: [laura.logozzo@yale.edu](mailto:laura.logozzo@yale.edu) <br> 
 Office: 21 Sachem Street &middot; New Haven, CT <br>
