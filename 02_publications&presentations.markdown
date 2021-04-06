@@ -10,13 +10,13 @@ aside: false
 
 <h1 align="center" style="font-family:'Helvetica',sans-serif; font-weight:bold"> Publications </h1>
 
-#### Contributions of ferric iron and dissolved organic matter to light absorption in natural waters
+#### Variability in the contributions of ferric iron and chromophoric dissolved organic matter to UV-vis absorption in natural waters
 **Logozzo, L.**, Martin, J., Raymond, P. *In prep.*
 
 
 <h4> <a href="https://doi.org/10.1029/2020JG005744" target="_blank"> Photochemical and microbial degradation of colored dissolved organic matter exported from tidal marshes. </a></h4>
 **Logozzo, L.**, Tzortziou, M., Neale, P., Clark, B. <br>
-Accepted &middot; *Journal of Geophysical Research: Biogeosciences*
+March 2021 &middot; *Journal of Geophysical Research: Biogeosciences*
 
 
 <h4><a href="https://www.sciencedirect.com/science/article/pii/S0048969720305416?via%3Dihub" target="_blank">The Effects of Trace Narasin on the Biogeochemical N-Cycle in a Cultivated Sandy Loam.</a></h4>
