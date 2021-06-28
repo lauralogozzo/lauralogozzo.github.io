@@ -10,8 +10,13 @@ aside: false
 
 <h1 align="center" style="font-family:'Helvetica',sans-serif; font-weight:bold"> Publications </h1>
 
-#### Variability in the contributions of ferric iron and chromophoric dissolved organic matter to UV-vis absorption in natural waters
+#### Variability in the contributions of ferric iron and chromophoric dissolved organic matter to UV-vis absorption in a large temperate watershed
 **Logozzo, L.**, Martin, J., Raymond, P. *In prep.*
+
+
+<h4> <a href="https://doi.org/10.1002/lol2.10195" target="_blank"> Highest rates of gross primary productivity maintained despite CO2 depletion in a temperate river network. </a></h4>
+Aho, K., Hosen, J., **Logozzo, L.**, McGillis, W., Raymond, P. <br>
+May 2021 &middot; *Limnology and Oceanography Letters*
 
 
 <h4> <a href="https://doi.org/10.1029/2020JG005744" target="_blank"> Photochemical and microbial degradation of colored dissolved organic matter exported from tidal marshes. </a></h4>

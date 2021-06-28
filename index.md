@@ -27,12 +27,12 @@ I am a PhD Candidate in Dr. Peter Raymond's lab at the Yale School of the Enviro
 ---
 <h2 align="center" style="font-family:'Helvetica',sans-serif; font-weight:bold"> Featured Publications </h2>
 
+{% include figure.html image="/images/THOM-thumbnail.PNG" caption="" position="left" width="200" height="800" %}
+#### [Highest rates of gross primary productivity maintained despite CO2 depletion in a temperate river network]({% post_url 2021-05-05-Aho %})
+<br>
+<br>
 {% include figure.html image="/images/GCReW.png" caption="" position="left" width="200" height="800" %}
-#### [Photochemical and Microbial Degradation of Chromophoric Dissolved Organic Matter Exported from Tidal Marshes]({% post_url 2021-03-09-Logozzo %})
-<br>
-<br>
-{% include figure.html image="https://ars.els-cdn.com/content/image/1-s2.0-S0048969720305416-ga1.jpg" caption="" position="left" width="200" height="800" %}
-#### [The Effects of Trace Narasin on the Biogeochemical N-Cycle in a Cultivated Sandy Loam]({% post_url 2020-05-10-DeVries %})
+#### [Photochemical and microbial degradation of colored dissolved organic matter exported from tidal marshes]({% post_url 2021-03-09-Logozzo %})
 <br>
 
 ---
