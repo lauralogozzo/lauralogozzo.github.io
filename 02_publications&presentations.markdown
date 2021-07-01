@@ -11,7 +11,12 @@ aside: false
 <h1 align="center" style="font-family:'Helvetica',sans-serif; font-weight:bold"> Publications </h1>
 
 #### Variability in the contributions of ferric iron and chromophoric dissolved organic matter to UV-vis absorption in a large temperate watershed
-**Logozzo, L.**, Martin, J., Raymond, P. *In prep.*
+**Logozzo, L.**, Martin, J., McArthur, J., Raymond, P. *In prep.*
+
+
+<h4> Does photomineralization of dissolved organics matter in temperate rivers? </h4>
+Maavara, T., **Logozzo, L.**, Stubbins, A., Aho, K., Brinkerhoff, C., Hosen, J., Raymond, P. <br>
+Accepted &middot; *Journal of Geophysical Research: Biogeosciences*
 
 
 <h4> <a href="https://doi.org/10.1002/lol2.10195" target="_blank"> Highest rates of gross primary productivity maintained despite CO2 depletion in a temperate river network. </a></h4>
