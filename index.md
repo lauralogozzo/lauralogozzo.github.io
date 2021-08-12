@@ -28,7 +28,8 @@ I am a PhD Candidate in Dr. Peter Raymond's lab at the Yale School of the Enviro
 <h2 align="center" style="font-family:'Helvetica',sans-serif; font-weight:bold"> Featured Publications </h2>
 
 {% include figure.html image="/images/THOM-thumbnail.PNG" caption="" position="left" width="200" height="800" %}
-#### [Highest rates of gross primary productivity maintained despite CO2 depletion in a temperate river network]({% post_url 2021-05-05-Aho %})
+#### [Does photomineralization of dissolved organics matter in temperate rivers?]({% post_url 2021-07-05-Maavara %})
+<br>
 <br>
 <br>
 {% include figure.html image="/images/GCReW.png" caption="" position="left" width="200" height="800" %}
