@@ -15,6 +15,10 @@ aside: false
 In Review &middot; *Limnology and Oceanography*
 
 
+#### Distinct concentration-discharge dynamics in temperate streams and rivers: CO2 exhibits chemostasis while CH4 exhibits source limitation due to temperature control
+Aho, K.S., Fair, J.H., Hosen, J.D., Kyzivat, E.D., **Logozzo, L.**, Rocher-Ros, G., Weber, L.C., Yoon, B., Raymond, P.A. <br>
+Accepted &middot; *Limnology and Oceanography*
+
 <h4> <a href="https://doi.org/10.1029/2021JG006402" target="_blank"> Does photomineralization of dissolved organics matter in temperate rivers? </a> </h4>
 Maavara, T., **Logozzo, L.**, Stubbins, A., Aho, K., Brinkerhoff, C., Hosen, J., Raymond, P. <br>
 July 2021 &middot; *Journal of Geophysical Research: Biogeosciences*
