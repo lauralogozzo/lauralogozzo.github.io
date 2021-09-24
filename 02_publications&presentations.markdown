@@ -10,9 +10,9 @@ aside: false
 
 <h1 align="center" style="font-family:'Helvetica',sans-serif; font-weight:bold"> Publications </h1>
 
-#### Variability in the contributions of ferric iron and chromophoric dissolved organic matter to UV-vis absorption in a large temperate watershed
+#### Contributions of Fe(III) to UV-vis absorbance in river water: A case study on the Connecticut River and argument for the systematic tandem measurement of Fe(III) and CDOM
 **Logozzo, L.**, Martin, J., McArthur, J., Raymond, P. <br>
-In Review &middot; *Limnology and Oceanography*
+Submitted &middot; *Biogeochemistry*
 
 
 #### Distinct concentration-discharge dynamics in temperate streams and rivers: CO2 exhibits chemostasis while CH4 exhibits source limitation due to temperature control
@@ -41,6 +41,10 @@ May 2020 &middot; *Science of the Total Environment*
 ---
 
 <h1 align="center" style="font-family:'Helvetica',sans-serif; font-weight:bold"> Presentations </h1>
+
+#### The mobilization of aged dissolved organic carbon in a large temperate estuary
+**Logozzo, L.** <br>
+2021 (planned) &middot; *Talk* &middot; ETH Zürich, LIP AMS Seminar &middot; Zoom
 
 #### Disolved Organic Carbon Cycling in Rivers and Estuaries
 **Logozzo, L.** <br>
