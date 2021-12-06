@@ -40,5 +40,5 @@ I am a PhD Candidate in Dr. Peter Raymond's lab at the Yale School of the Enviro
 
 <h2 align="center" style="font-family:'Helvetica',sans-serif; font-weight:bold"> News </h2>
 
-{% include figure.html image="https://environment.yale.edu/content/images/00014003/new-haven-promise-2.jpg?1537875431" caption="" position="left" width="200" height="800" %}
+{% include figure.html image="https://environment.yale.edu/sites/default/files/styles/large/public/content/images/4136/new-haven-promise-2.jpg?itok=Xdd3SHxl" caption="" position="left" width="200" height="800" %}
 #### <a href = "https://environment.yale.edu/news/article/new-haven-promise-introduces-students-to-environmental-studies/" target="_blank"> New Haven Promise Inspires New ‘Champions’ for the Environment</a>

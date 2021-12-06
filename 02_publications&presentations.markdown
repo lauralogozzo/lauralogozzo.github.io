@@ -11,13 +11,16 @@ aside: false
 <h1 align="center" style="font-family:'Helvetica',sans-serif; font-weight:bold"> Publications </h1>
 
 #### Contributions of Fe(III) to UV-vis absorbance in river water: A case study on the Connecticut River and argument for the systematic tandem measurement of Fe(III) and CDOM
-**Logozzo, L.**, Martin, J., McArthur, J., Raymond, P. <br>
-Submitted &middot; *Biogeochemistry*
+**Logozzo, L.**, Martin, J., McArthur, J., Raymond, P.A. <br>
+In revision &middot; *Biogeochemistry*
 
-
-#### Distinct concentration-discharge dynamics in temperate streams and rivers: CO2 exhibits chemostasis while CH4 exhibits source limitation due to temperature control
-Aho, K.S., Fair, J.H., Hosen, J.D., Kyzivat, E.D., **Logozzo, L.**, Rocher-Ros, G., Weber, L.C., Yoon, B., Raymond, P.A. <br>
+#### An intense precipitation event causes a temperate forested drainage network to shift from N2O source to sink
+Aho, K.S., Fair, J.H., Hosen, J.D., Kyzivat E.D., **Logozzo, L.**, Weber, L.C., Yoon, B., Zarnetske, J., Raymond, P.A.
 Accepted &middot; *Limnology and Oceanography*
+
+<h4> <a href="https://doi.org/10.1002/lno.11906" target="_blank_"> Distinct concentration-discharge dynamics in temperate streams and rivers: CO2 exhibits chemostasis while CH4 exhibits source limitation due to temperature control </a> </h4>
+Aho, K.S., Fair, J.H., Hosen, J.D., Kyzivat, E.D., **Logozzo, L.**, Rocher-Ros, G., Weber, L.C., Yoon, B., Raymond, P.A. <br>
+Aug 2021 &middot; *Limnology and Oceanography*
 
 <h4> <a href="https://doi.org/10.1029/2021JG006402" target="_blank"> Does photomineralization of dissolved organics matter in temperate rivers? </a> </h4>
 Maavara, T., **Logozzo, L.**, Stubbins, A., Aho, K., Brinkerhoff, C., Hosen, J., Raymond, P. <br>
@@ -42,9 +45,13 @@ May 2020 &middot; *Science of the Total Environment*
 
 <h1 align="center" style="font-family:'Helvetica',sans-serif; font-weight:bold"> Presentations </h1>
 
+#### Dissolved organic carbon and iron dynamics in the Connecticut River. 
+**Logozzo, L.** <br>
+2021 &middot; *Talk* &middot; YSE First Year Doctoral Seminar &middot; New Haven, CT.
+
 #### The mobilization of aged dissolved organic carbon in a large temperate estuary
 **Logozzo, L.** <br>
-2021 (planned) &middot; *Talk* &middot; ETH Zürich, LIP AMS Seminar &middot; Zoom
+2021 &middot; *Talk* &middot; ETH Zürich, LIP AMS Seminar &middot; Zoom
 
 #### Disolved Organic Carbon Cycling in Rivers and Estuaries
 **Logozzo, L.** <br>
