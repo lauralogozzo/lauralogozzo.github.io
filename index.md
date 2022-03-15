@@ -8,11 +8,11 @@ excerpt: "Laura Logozzo is a PhD Candidate at Yale University School of the Envi
 ---
 
 <p align = "center">
-I am a PhD Candidate in Dr. Peter Raymond's lab at the Yale School of the Environment (YSE), formerly known as 
-  the Yale School of Forestry and Environmental Studies. 
-  My research focuses on the biogeochemistry of large river
-  systems. In particular, I am interested in interactions between dissolved organic
-  matter and iron.
+I am a PhD Candidate in Dr. Peter Raymond's lab at the Yale School of the Environment (YSE), 
+formerly known as the Yale School of Forestry and Environmental Studies. My research focuses 
+on the biogeochemistry of large river systems. In particular, I am interested in  
+dissolved organic matter and iron cycling from the perspective of understanding the carbon 
+cycle.
 </p>
 <p align = "center">
   Originally from Brooklyn, NY, I attended Fiorello H. LaGuardia High School, majoring in fine arts.

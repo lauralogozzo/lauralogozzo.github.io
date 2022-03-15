@@ -1,19 +1,12 @@
----
-title:
-permalink: /Research/
-order: 1
-feature_text: <h1 style="color:#FFFFFF; font-family:sans-serif; font-weight:bold"> Current Projects </h1>
-feature_image: "/images/photoox.JPG"
+I"�<p><br /></p>
+<h4 align="center"> Ferric iron impacts dissolved organic matter UV-vis absorbance in natural waters </h4>
+<p><br /></p>
+<figure class="figure  figure--left">
+  <img class="image" src="/images/BUNN-storm.jpg" alt="" width="320" height="" />
+  <figcaption class="caption"></figcaption>
+</figure>
 
----
-
-
-
-<br> 
-<h4 align = "center"> Ferric iron impacts dissolved organic matter UV-vis absorbance in natural waters </h4>
-<br>
-{% include figure.html image="/images/BUNN-storm.jpg" caption="" position="left" width="320" %}
-<p align = "justify">
+<p align="justify">
 Dissolved organic matter (DOM) composition and amount impacts the functioning of aquatic 
 ecosystems by limiting the amount of UV and visible light (UV-vis), controlling nutrient 
 cycling and trace metal speciation and fate, and by supporting heterotrophy. Because DOM 
@@ -26,14 +19,18 @@ watershed over 1.5 years. Further, I evaluate how ferric iron interference in UV
 absorbance measurements contributes to systematic biases in the interpretation of DOM 
 composition and amount by land-use, season, and hydrology.
 </p>
----
-<h4 align = "center"> The coupling of dissolved iron and dissolved organic matter </h4>
-<br>
-{% include figure.html image="/images/ESSX-winter.JPG" caption="" position="left" width="320" %}
-<p align = "justify">
+<hr />
+<h4 align="center"> The coupling of dissolved iron and dissolved organic matter </h4>
+<p><br /></p>
+<figure class="figure  figure--left">
+  <img class="image" src="/images/ESSX-winter.JPG" alt="" width="320" height="" />
+  <figcaption class="caption"></figcaption>
+</figure>
+
+<p align="justify">
 In rivers, iron speciation and concentration contribute to water color, affect the cycling 
 of nutrients such as phosphorous, and support downstream (i.e., coastal and ocean) aquatic 
-productivity and CO<font size=2><sub>2</sub></font> uptake. This is because iron is often a limiting nutrient in the coastal 
+productivity and CO<font size="2"><sub>2</sub></font> uptake. This is because iron is often a limiting nutrient in the coastal 
 and open ocean due to the loss of iron in estuaries. Significant riverine export of iron to 
 coastal zones is largely dependent on interactions with dissolved organic matter (DOM), often 
 sourced from terrestrial environments; thus, the cycling of DOM and iron vary temporally, 
@@ -42,26 +39,30 @@ I evaluate the concentrations and downstream fluxes of two size fractions of dis
 in relation to water temperature, river discharge, and DOM composition using long-term frequent 
 monitoring on the Connecticut River mainstem. This approach allows us to establish how the 
 timing of the downstream export of iron might impact coastal and ocean productivity and 
-CO<font size=2><sub>2</sub></font> uptake and determine the mechanistic drivers behind changing iron concentrations.
+CO<font size="2"><sub>2</sub></font> uptake and determine the mechanistic drivers behind changing iron concentrations.
 </p>
----
-<h4 align = "center"> Illuminating riverine dissolved organic carbon dynamics using carbon age </h4>
-<br>
-{% include figure.html image="/images/STIL-summer.JPG" caption="" position="left" width="320" %}
-<p align = "justify">
+<hr />
+<h4 align="center"> Illuminating riverine dissolved organic carbon dynamics using carbon age </h4>
+<p><br /></p>
+<figure class="figure  figure--left">
+  <img class="image" src="/images/STIL-summer.JPG" alt="" width="320" height="" />
+  <figcaption class="caption"></figcaption>
+</figure>
+
+<p align="justify">
 Understanding the global carbon cycle is essential to predicting future climate change. 
 Dissolved organic carbon (DOC) is one of the largest carbon reservoirs globally; 
-the amount of carbon stored in oceans alone as DOC exceeds the amount of CO<font size=2><sub>2</sub></font> in the atmosphere. 
+the amount of carbon stored in oceans alone as DOC exceeds the amount of CO<font size="2"><sub>2</sub></font> in the atmosphere. 
 Despite being one of the largest carbon reservoirs globally, riverine dissolved organic 
-carbon (DOC) sources are poorly quantified. Radiocarbon (<font size=2><sup>14</sup></font>C) can provide 
+carbon (DOC) sources are poorly quantified. Radiocarbon (<font size="2"><sup>14</sup></font>C) can provide 
 important information on riverine DOC age. An increase in DOC age in rivers over time suggests 
 the mobilization of once-sequestered terrestrial carbon stocks in rivers, potentially from 
 direct or indirect anthropogenic activity. DOC that was once “removed” 
 from the global carbon cycle (e.g., stored in terrestrial soils) that is laterally exported 
 to rivers could potentially be respired or photochemically oxidized and evaded to the 
-atmosphere, thus contributing to global carbon dioxide emissions. I measure 
-<font size=2><sup>14</sup></font>C-DOC on the Connecticut River seasonally and long-term 
-to address if and when aged DOC is mobilized in rivers. This is necessary to predict 
-anthropogenic perturbations to terrestrial carbon storage. This work is funded by the
-NASA Connecticut Space Grant.
+atmosphere, thus contributing to global carbon dioxide emissions. I measure DOC radiocarbon 
+on the Connecticut River seasonally and long-term to address if and when aged 
+DOC is mobilized in rivers. This is necessary to predict anthropogenic perturbations to 
+terrestrial carbon storage.
 </p>
+:ET
