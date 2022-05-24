@@ -3,6 +3,8 @@ layout: blog
 title:  "Does photomineralization of dissolved organics matter in temperate rivers?"
 date:   July 5 2021
 categories: Publications
+tag: sticky
+image: "/images/THOM-thumbnail.PNG"
 ---
 
 ##### Maavara, T., Logozzo, L., Stubbins, A., Aho, K., Brinkerhoff, C., Hosen, J., Raymond, P. <br>

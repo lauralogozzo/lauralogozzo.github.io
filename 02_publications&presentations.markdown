@@ -10,13 +10,13 @@ aside: false
 
 <h1 align="center" style="font-family:'Helvetica',sans-serif; font-weight:bold"> Publications </h1>
 
-#### Contributions of Fe(III) to UV-vis absorbance in river water: A case study on the Connecticut River and argument for the systematic tandem measurement of Fe(III) and CDOM
+<h4> <a href="https://doi.org/10.1007/s10533-022-00937-5" target="_blank_"> Contributions of Fe(III) to UV-Vis absorbance in river water: A case study on the Connecticut River and argument for the systematic tandem measurement of Fe(III) and CDOM </a> </h4>
 **Logozzo, L.**, Martin, J., McArthur, J., Raymond, P.A. <br>
-In revision &middot; *Biogeochemistry*
+May 2022 &middot; *Biogeochemistry*
 
-<h4> An intense precipitation event causes a temperate forested drainage network to shift from N<font size=4><sub>2</sub></font>O source to sink </h4>
-Aho, K.S., Fair, J.H., Hosen, J.D., Kyzivat E.D., **Logozzo, L.**, Weber, L.C., Yoon, B., Zarnetske, J., Raymond, P.A.
-Accepted &middot; *Limnology and Oceanography*
+<h4> <a href="https://doi.org/10.1002/lno.12006" target="_blank_"> An intense precipitation event causes a temperate forested drainage network to shift from N<font size=4><sub>2</sub></font>O source to sink </a> </h4>
+Aho, K.S., Fair, J.H., Hosen, J.D., Kyzivat E.D., **Logozzo, L.**, Weber, L.C., Yoon, B., Zarnetske, J., Raymond, P.A. <br>
+Jan 2022 &middot; *Limnology and Oceanography*
 
 <h4> <a href="https://doi.org/10.1002/lno.11906" target="_blank_"> Distinct concentration-discharge dynamics in temperate streams and rivers: CO<font size=4><sub>2</sub></font> exhibits chemostasis while CH<font size=4><sub>4</sub></font> exhibits source limitation due to temperature control </a> </h4>
 Aho, K.S., Fair, J.H., Hosen, J.D., Kyzivat, E.D., **Logozzo, L.**, Rocher-Ros, G., Weber, L.C., Yoon, B., Raymond, P.A. <br>

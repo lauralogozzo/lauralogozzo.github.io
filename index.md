@@ -11,34 +11,50 @@ excerpt: "Laura Logozzo is a PhD Candidate at Yale University School of the Envi
 I am a PhD Candidate in Dr. Peter Raymond's lab at the Yale School of the Environment (YSE), 
 formerly known as the Yale School of Forestry and Environmental Studies. My research focuses 
 on the biogeochemistry of large river systems. In particular, I am interested in  
-dissolved organic matter and iron cycling from the perspective of understanding the carbon 
-cycle.
+dissolved organic matter and iron cycling.
 </p>
 <p align = "center">
   Originally from Brooklyn, NY, I attended Fiorello H. LaGuardia High School, majoring in fine arts.
   I received my B.S. and M.S. from CUNY City College of New York, where I studied Earth 
   and Atmospheric Sciences. My Master's thesis examined the export of colored dissolved 
-  organic matter from Chesapeake Bay tidal marshes, and its subsequent photochemical and microbial degradation in estuaries.
+  organic matter from Chesapeake Bay tidal marshes, and its subsequent photochemical and 
+  microbial degradation in estuaries.
 </p>
 
 <p align="center" style ="font-family:'Helvetica',sans-serif;"> {% include button.html text="Read my CV" link="/assets/laura-logozzo-cv.pdf" color = "#7C7CD8" %} </p>
 
-
 ---
 <h2 align="center" style="font-family:'Helvetica',sans-serif; font-weight:bold"> Featured Publications </h2>
 
-{% include figure.html image="/images/THOM-thumbnail.PNG" caption="" position="left" width="200" height="800" %}
-#### [Does photomineralization of dissolved organics matter in temperate rivers?]({% post_url 2021-07-05-Maavara %})
-<br>
-<br>
-<br>
-{% include figure.html image="/images/GCReW.png" caption="" position="left" width="200" height="800" %}
-#### [Photochemical and microbial degradation of colored dissolved organic matter exported from tidal marshes]({% post_url 2021-03-09-Logozzo %})
-<br>
+    
+<!-- Sticky - add sticky tag to the post you want to highlight here - tags: [sticky] -->
+{% for post in site.posts %} 
+{% if post.tags contains "sticky" %}
+<div class="jumbotron">
+    <div class="pl-4 pr-0 h-100 tofront">
+    <img src="{{ post.image }}" caption="" position="left" align="left" width="300" height="800" style="padding:10px">
+
+        <div class="row justify-content-between">
+            <div class="col-md-6 pt-6 pb-6 pr-lg-4 align-self-center">
+                <h4 class="mb-3"> <a href="{{site.baseurl}}{{post.url}}" class="btn btn-dark"> {{post.title}} </a> </h4>
+                <p class="mb-3 lead">
+                    {{ post.excerpt | strip_html | strip_newlines | truncate: 140 }}
+                </p>
+            </div>
+            <div class="col-md-6 d-none d-md-block pr-0" style="background-size:cover;background-image:{{ post.image }};">	
+
+            </div>
+        </div>
+    </div>
+</div> 
+{% endif %}
+{% endfor %}
 
 ---
 
+
+
 <h2 align="center" style="font-family:'Helvetica',sans-serif; font-weight:bold"> News </h2>
 
-{% include figure.html image="https://environment.yale.edu/sites/default/files/styles/large/public/content/images/4136/new-haven-promise-2.jpg?itok=Xdd3SHxl" caption="" position="left" width="200" height="800" %}
+{% include figure.html image="https://environment.yale.edu/sites/default/files/styles/large/public/content/images/4136/new-haven-promise-2.jpg?itok=Xdd3SHxl" caption="" position="left" width="300" height="800" %}
 #### <a href = "https://environment.yale.edu/news/article/new-haven-promise-introduces-students-to-environmental-studies/" target="_blank"> New Haven Promise Inspires New ‘Champions’ for the Environment</a>
