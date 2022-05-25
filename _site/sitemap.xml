@@ -24,7 +24,10 @@
 <loc>http://localhost:4000/Research/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/Publications-Presentations/</loc>
+<loc>http://localhost:4000/Publications/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Data/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/Contact/</loc>

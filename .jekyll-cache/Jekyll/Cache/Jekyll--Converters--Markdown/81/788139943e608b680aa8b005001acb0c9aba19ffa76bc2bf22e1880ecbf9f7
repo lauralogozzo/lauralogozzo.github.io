@@ -1,0 +1,40 @@
+I"3	<h1 align="center" style="font-family:'Helvetica',sans-serif; font-weight:bold"> Open Access Data </h1>
+
+<div class="jumbotron">
+    <div class="pl-4 pr-0 h-100 tofront">
+    <img src="/images/GCREW.png" caption="" position="left" align="left" width="300" height="800" style="padding:10px" />
+
+        <div class="row justify-content-between">
+            <div class="col-md-6 pt-6 pb-6 pr-lg-4 align-self-center">
+                <h4 class="mb-3"> <a href="https://doi.org/10.5281/zenodo.4542308" class="btn btn-dark"> Chesapeake Bay marsh-exported CDOM photo- and bio-degradation experiments </a> </h4>
+                <p class="mb-3 lead">
+                    Data include seasonal differences in photochemical and microbial degradation of CDOM across four Chesapeake Bay marshes.
+                </p>
+            </div>
+            <div class="col-md-6 d-none d-md-block pr-0" style="background-size:cover;background-image:;">	
+
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="jumbotron">
+    <div class="pl-4 pr-0 h-100 tofront">
+    <img src="https://link.springer.com/article/10.1007/s10533-022-00937-5/figures/1" caption="" position="left" align="left" width="300" height="800" style="padding:10px" />
+
+        <div class="row justify-content-between">
+            <div class="col-md-6 pt-6 pb-6 pr-lg-4 align-self-center">
+                <h4 class="mb-3"> <a href="https://doi.org/10.5281/zenodo.6092728" class="btn btn-dark"> Chesapeake Bay marsh-exported CDOM photo- and bio-degradation experiments </a> </h4>
+                <p class="mb-3 lead">
+                    This dataset includes concentrations of Fe(III) and DOC along with UV-vis absorbance at 254 nm and 412 nm on the operationally dissolved size fraction (&lt;0.22 μm), as well as the truly dissolved (&lt;0.02 μm) and colloidal (0.02-0.22 μm) size fractions. Samples were collected every 2 weeks at 5 sites along the Connecticut River mainstem from 2018 to 2020 and at 7 sites in the Connecticut River watershed sampled once synoptically during the summer 2019.
+                </p>
+            </div>
+            <div class="col-md-6 d-none d-md-block pr-0" style="background-size:cover;background-image:;">	
+
+            </div>
+        </div>
+    </div>
+</div>
+
+<h1 align="center" style="font-family:'Helvetica',sans-serif; font-weight:bold"> R Code </h1>
+:ET

@@ -24,7 +24,8 @@ dissolved organic matter and iron cycling.
 <p align="center" style ="font-family:'Helvetica',sans-serif;"> {% include button.html text="Read my CV" link="/assets/laura-logozzo-cv.pdf" color = "#7C7CD8" %} </p>
 
 ---
-<h2 align="center" style="font-family:'Helvetica',sans-serif; font-weight:bold"> Featured Publications </h2>
+<h2 align="center" style="font-family:'Helvetica',sans-serif; font-weight:normal"> Featured Publications </h2>
+
 
     
 <!-- Sticky - add sticky tag to the post you want to highlight here - tags: [sticky] -->
@@ -54,7 +55,23 @@ dissolved organic matter and iron cycling.
 
 
 
-<h2 align="center" style="font-family:'Helvetica',sans-serif; font-weight:bold"> News </h2>
+<h2 align="center" style="font-family:'Helvetica',sans-serif; font-weight:normal"> News </h2>
 
-{% include figure.html image="https://environment.yale.edu/sites/default/files/styles/large/public/content/images/4136/new-haven-promise-2.jpg?itok=Xdd3SHxl" caption="" position="left" width="300" height="800" %}
-#### <a href = "https://environment.yale.edu/news/article/new-haven-promise-introduces-students-to-environmental-studies/" target="_blank"> New Haven Promise Inspires New ‘Champions’ for the Environment</a>
+<div class="jumbotron">
+    <div class="pl-4 pr-0 h-100 tofront">
+    <img src="https://environment.yale.edu/sites/default/files/styles/large/public/content/images/4136/new-haven-promise-2.jpg?itok=Xdd3SHxl" caption="" position="left" align="left" width="300" height="800" style="padding:10px">
+
+        <div class="row justify-content-between">
+            <div class="col-md-6 pt-6 pb-6 pr-lg-4 align-self-center">
+                <h4 class="mb-3"> <a href="https://environment.yale.edu/news/article/new-haven-promise-introduces-students-to-environmental-studies/" class="btn btn-dark"> New Haven Promise Inspires New 'Champions' for the Environment </a> </h4>
+                <p class="mb-3 lead">
+                    {{ "For Johnae McArthur, a University of Connecticut undergraduate and one of five New Haven Promise interns at F&ES this past summer, the experience was more than just a crash course in biogeochemistry or a chance to explore the woods near her hometown. It also set her on a new career path."
+ | strip_html | strip_newlines | truncate: 140 }}
+                </p>
+            </div>
+            <div class="col-md-6 d-none d-md-block pr-0" style="background-size:cover;background-image:{{ post.image }};">	
+
+            </div>
+        </div>
+    </div>
+</div> 

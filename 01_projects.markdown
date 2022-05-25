@@ -2,7 +2,7 @@
 title:
 permalink: /Research/
 order: 1
-feature_text: <h1 style="color:#FFFFFF; font-family:sans-serif; font-weight:bold"> Current Projects </h1>
+feature_text: <h1 style="color:#FFFFFF; font-family:sans-serif; font-weight:normal"> Current Projects </h1>
 feature_image: "/images/photoox.JPG"
 
 ---
@@ -26,6 +26,8 @@ watershed over 1.5 years. Further, I evaluate how ferric iron interference in UV
 absorbance measurements contributes to systematic biases in the interpretation of DOM 
 composition and amount by land-use, season, and hydrology.
 </p>
+
+<p> <a href="/publications/2022/05/16/Logozzo/"> Associated Publication </a> </p>
 ---
 <h4 align = "center"> The coupling of dissolved iron and dissolved organic matter </h4>
 <br>
@@ -44,6 +46,7 @@ monitoring on the Connecticut River mainstem. This approach allows us to establi
 timing of the downstream export of iron might impact coastal and ocean productivity and 
 CO<font size=2><sub>2</sub></font> uptake and determine the mechanistic drivers behind changing iron concentrations.
 </p>
+
 ---
 <h4 align = "center"> Illuminating riverine dissolved organic carbon dynamics using carbon age </h4>
 <br>
