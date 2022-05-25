@@ -60,10 +60,9 @@ dissolved organic matter and iron cycling.
 <div class="jumbotron">
     <div class="pl-4 pr-0 h-100 tofront">
     <img src="https://environment.yale.edu/sites/default/files/styles/large/public/content/images/4136/new-haven-promise-2.jpg?itok=Xdd3SHxl" caption="" position="left" align="left" width="300" height="800" style="padding:10px">
-
         <div class="row justify-content-between">
             <div class="col-md-6 pt-6 pb-6 pr-lg-4 align-self-center">
-                <h4 class="mb-3"> <a href="https://environment.yale.edu/news/article/new-haven-promise-introduces-students-to-environmental-studies/" class="btn btn-dark"> New Haven Promise Inspires New 'Champions' for the Environment </a> </h4>
+                <h4 class="mb-3"> <a href="https://environment.yale.edu/news/article/new-haven-promise-introduces-students-to-environmental-studies/" class="btn btn-dark" target = "_blank_"> New Haven Promise Inspires New 'Champions' for the Environment </a> </h4>
                 <p class="mb-3 lead">
                     {{ "For Johnae McArthur, a University of Connecticut undergraduate and one of five New Haven Promise interns at F&ES this past summer, the experience was more than just a crash course in biogeochemistry or a chance to explore the woods near her hometown. It also set her on a new career path."
  | strip_html | strip_newlines | truncate: 140 }}

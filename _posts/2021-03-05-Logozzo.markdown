@@ -3,6 +3,8 @@ layout: blog
 title:  "Photochemical and Microbial Degradation of Chromophoric Dissolved Organic Matter Exported from Tidal Marshes"
 date:   Mar 9 2021
 categories: Publications
+image: "/images/GCReW.png"
+tag: 
 ---
 
 ##### **Logozzo, L.**, Tzortziou, M., Neale, P., Clark, B. <br>
