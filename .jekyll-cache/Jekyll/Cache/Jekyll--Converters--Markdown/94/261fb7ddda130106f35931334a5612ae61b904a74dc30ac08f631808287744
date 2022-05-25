@@ -1,0 +1,150 @@
+I")<h1 align="center" style="font-family:'Helvetica',sans-serif; font-weight:normal"> Open Access Data </h1>
+<p>      </p>
+
+<div class="jumbotron">
+    <div class="pl-4 pr-0 h-100 tofront">
+    <img src="https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs10533-022-00937-5/MediaObjects/10533_2022_937_Fig1_HTML.png?as=webp" caption="" position="left" align="left" width="300" height="800" style="padding:10px" />
+
+        <div class="row justify-content-between">
+            <div class="col-md-6 pt-6 pb-6 pr-lg-4 align-self-center">
+                <h4 class="mb-3"> <a href="https://doi.org/10.5281/zenodo.6092728" class="btn btn-dark" target="_blank_"> 
+                Riverine truly dissolved, colloidal, and operationally dissolved Fe(III), DOC, a<font size="2"><sub>254</sub></font>, a<font size="2"><sub>412</sub></font>, and SUVA<font size="2"><sub>254</sub></font>
+                </a> </h4>
+                <p class="mb-3 lead">
+                This dataset includes concentrations of Fe(III) and DOC along with UV-Vis
+                 absorption coefficients at 254 nm and 412 nm on the operationally dissolved size 
+                 fraction (&lt;0.22 μm), as well as the truly dissolved (&lt;0.02 μm) and 
+                 colloidal (0.02-0.22 μm) size fractions. Samples were collected every 
+                 2 weeks at 5 sites along the Connecticut River mainstem from 2018 to 2020 
+                 and at 7 sites in the Connecticut River watershed sampled once synoptically 
+                 during the summer 2019.
+                </p>
+            </div>
+            <div class="col-md-6 d-none d-md-block pr-0" style="background-size:cover;background-image:;">	
+
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="jumbotron">
+    <div class="pl-4 pr-0 h-100 tofront">
+    <img src="/images/GCReW.png" caption="" position="left" align="left" width="300" height="800" style="padding:10px" />
+
+        <div class="row justify-content-between">
+            <div class="col-md-6 pt-6 pb-6 pr-lg-4 align-self-center">
+                <h4 class="mb-3"> <a href="https://doi.org/10.5281/zenodo.4542308" class="btn btn-dark" target="_blank_"> Chesapeake Bay marsh-exported CDOM photo- and bio-degradation incubations </a> </h4>
+                <p class="mb-3 lead">
+            	This dataset includes seasonal measurements of photochemical and microbial 
+            	degradation incubation experiments conducted on CDOM collected draining four Chesapeake Bay marshes
+            	from 2016 to 2017. Dataset includes incubation starting and ending DOC concentrations, PARAFAC
+            	components, a<font size="2"><sub>300</sub></font>, S<font size="2"><sub>R</sub></font>,
+            	S<font size="2"><sub>275-295</sub></font>, and S<font size="2"><sub>350-400</sub></font>.
+            	Dataset also includes microbial counts for 0.2 µm and GF/F (0.7 µm nominal pore size)
+            	for a light and dark incubation.
+                </p>
+            </div>
+            <div class="col-md-6 d-none d-md-block pr-0" style="background-size:cover;background-image:;">	
+
+            </div>
+        </div>
+    </div>
+</div>
+
+<hr />
+<h1 align="center" style="font-family:'Helvetica',sans-serif; font-weight:normal"> R Code </h1>
+<p><em>Coming soon!</em></p>
+
+<h3 align="center"> <a href="/Color-Palette/"> Color Palette </a></h3>
+<figure class="figure  figure--center"> 
+  <a href="/Color-Palette/">
+  <img class="image" src="/images/myCols-Scale.svg" alt="" width="500" height="800" />
+  </a>
+  <figcaption class="caption"></figcaption>
+</figure>
+
+<pre>
+  <code>
+plotCols &lt;- function(group = ""){
+  muted_rain &lt;- c("#f94144","#f3722c","#f8961e","#f9c74f","#90be6d","#43aa8b","#577590")
+  summer &lt;- c("#95BDDC","#c2d1e5","#fe793d","#fb4c1f","#fbc6d0","#D9BBF9","#FCC856")
+  pastel_rain &lt;- c("#FD9193","#FAAC82","#FCC37D","#FCDE97","#BEE4A1","#80DEC2","#88B0D3")
+  dune &lt;- c("darkred","firebrick3","navajowhite","sandybrown","darkorange4","powderblue","dodgerblue4")
+  midnight &lt;- c('midnightblue',"slateblue4","mediumpurple3","thistle3","mistyrose","linen")
+  sunset &lt;- c("red4","red3","red","orangered","chocolate1","tan1","burlywood1")
+  tides &lt;- c("springgreen4","mediumseagreen","palegreen3","darkseagreen3","honeydew3")
+  waves &lt;- c("darkblue","blue3","blue1","dodgerblue2","steelblue2","skyblue","lightblue1")
+  dusk &lt;- c("navy","dodgerblue4","steelblue3","slategray2","whitesmoke","papayawhip","burlywood1","tan1","orangered")
+  cantaloupe &lt;- c("tomato","coral","lightsalmon1","peachpuff1","blanchedalmond")
+  margarita &lt;- c("#DAF7A6", "#FFC300", "#FF5733", "#C70039", "#900C3F", "#581845")
+  seasnail &lt;- c("#D4C5E2","#C9D7F8","#A7E2E3","#80CFA9","#4C6663")
+  nausicaa &lt;- c("#EA9272","#EAC1A3","#7A8C96","#9D8084","#A39BA7","#3F5149","#0F171E")
+  candy &lt;- c("#F6BD60","#F7EDE2","#F5CAC3","#84A59D","#F28482")
+  seasons &lt;- c("#f9393c","#FFA73C","#ADE57D","#94C1E9")
+  if(group == "ramp"){
+    par(mfrow = c(10,1), mar = c(0.5,8,0,0), ask = FALSE)
+    barplot(rep(1,7),col = muted_rain,border = NA,space = 0,axes = F, cex.lab = 1.5); mtext(side = 2, "muted_rain", las = 2)
+    barplot(rep(1,7),col = pastel_rain,border = NA,space = 0,axes = F, cex.lab = 1.5); mtext(side = 2, "pastel_rain", las = 2)
+    barplot(rep(1,7),col = sunset,border = NA,space = 0,axes = F, cex.lab = 1.5); mtext(side = 2, "sunset", las = 2)
+    barplot(rep(1,7),col = waves,border = NA,space = 0,axes = F, cex.lab = 1.5); mtext(side = 2, "waves", las = 2)
+    barplot(rep(1,9),col = dusk,border = NA,space = 0,axes = F, cex.lab = 1.5); mtext(side = 2, "dusk", las = 2)
+    barplot(rep(1,6),col = midnight,border = NA,space = 0,axes = F, cex.lab = 1.5); mtext(side = 2, "midnight", las = 2)
+    barplot(rep(1,5),col = tides,border = NA,space = 0,axes = F, cex.lab = 1.5); mtext(side = 2, "tides", las = 2)
+    barplot(rep(1,5),col = cantaloupe,border = NA,space = 0,axes = F, cex.lab = 1.5); mtext(side = 2, "cantaloupe", las = 2)
+    barplot(rep(1,6),col = margarita,border = NA,space = 0,axes = F, cex.lab = 1.5); mtext(side = 2, "margarita", las = 2)
+  }
+  if(group == "categorical"){
+    par(mfrow = c(10,1), mar = c(0.5,8,0,0), ask = FALSE)
+    barplot(rep(1,7),col = summer,border = NA,space = 0, axes = F, cex.lab = 1.5); mtext(side = 2, "summer", las = 2)
+    barplot(rep(1,7),col = dune,border = NA,space = 0, axes = F, cex.lab = 1.5); mtext(side = 2, "dune", las = 2)
+    barplot(rep(1,length(seasnail)),col = seasnail, border = NA,space = 0,axes = F, cex.lab = 1.5); mtext(side = 2, "seasnail", las = 2)
+    barplot(rep(1,length(nausicaa)),col = nausicaa, border = NA,space = 0,axes = F, cex.lab = 1.5); mtext(side = 2, "nausicaa", las = 2)
+    barplot(rep(1,length(candy)),col = candy, border = NA,space = 0,axes = F, cex.lab = 1.5); mtext(side = 2, "candy", las = 2)
+    barplot(rep(1,length(seasons)),col = seasons, border = NA,space = 0,axes = F, cex.lab = 1.5); mtext(side = 2, "seasons", las = 2)
+  }
+  if(group == ""){
+    par(mfrow = c(10,1), mar = c(0.5,8,0,0), ask = FALSE)
+    barplot(rep(1,7),col = muted_rain,border = NA,space = 0,axes = F, cex.lab = 1.5); mtext(side = 2, "muted_rain", las = 2)
+    barplot(rep(1,7),col = pastel_rain,border = NA,space = 0,axes = F, cex.lab = 1.5); mtext(side = 2, "pastel_rain", las = 2)
+    barplot(rep(1,7),col = sunset,border = NA,space = 0,axes = F, cex.lab = 1.5); mtext(side = 2, "sunset", las = 2)
+    barplot(rep(1,7),col = waves,border = NA,space = 0,axes = F, cex.lab = 1.5); mtext(side = 2, "waves", las = 2)
+    barplot(rep(1,9),col = dusk,border = NA,space = 0,axes = F, cex.lab = 1.5); mtext(side = 2, "dusk", las = 2)
+    barplot(rep(1,6),col = midnight, border = NA,space = 0,axes = F, cex.lab = 1.5); mtext(side = 2, "midnight", las = 2)
+    barplot(rep(1,5),col = tides,border = NA,space = 0,axes = F, cex.lab = 1.5); mtext(side = 2, "tides", las = 2)
+    barplot(rep(1,5),col = cantaloupe, border = NA,space = 0,axes = F, cex.lab = 1.5); mtext(side = 2, "cantaloupe", las = 2)
+    barplot(rep(1,6),col = margarita, border = NA,space = 0,axes = F, cex.lab = 1.5); mtext(side = 2, "margarita", las = 2)
+    # Categorical
+    par(mfrow = c(10,1), mar = c(0.5,8,0,0), ask = TRUE)
+    barplot(rep(1,7),col = summer,border = NA,space = 0,axes = F, cex.lab = 1.5); mtext(side = 2, "summer", las = 2)
+    barplot(rep(1,7),col = dune,border = NA,space = 0, axes = F, cex.lab = 1.5); mtext(side = 2, "dune", las = 2)
+    barplot(rep(1,length(seasnail)),col = seasnail,border = NA,space = 0,axes = F, cex.lab = 1.5); mtext(side = 2, "seasnail", las = 2)
+    barplot(rep(1,length(nausicaa)),col = nausicaa,border = NA,space = 0,axes = F, cex.lab = 1.5); mtext(side = 2, "nausicaa", las = 2)
+    barplot(rep(1,length(candy)),col = candy, border = NA,space = 0,axes = F, cex.lab = 1.5); mtext(side = 2, "candy", las = 2)
+    barplot(rep(1,length(seasons)),col = seasons, border = NA,space = 0,axes = F, cex.lab = 1.5); mtext(side = 2, "seasons", las = 2)
+    par(ask = FALSE)
+  }
+par(ask = FALSE)
+}
+
+# Pull out Colors
+getCols &lt;- function(x,num=length(eval(parse(text=x)))){
+  muted_rain &lt;- c("#f94144","#f3722c","#f8961e","#f9c74f","#90be6d","#43aa8b","#577590")
+  summer &lt;- c("#95BDDC","#c2d1e5","#fe793d","#fb4c1f","#fbc6d0","#D9BBF9","#FCC856")
+  pastel_rain &lt;- c("#FD9193","#FAAC82","#FCC37D","#FCDE97","#BEE4A1","#80DEC2","#88B0D3")
+  dune &lt;- c("darkred","firebrick3","navajowhite","sandybrown","darkorange4","powderblue","dodgerblue4")
+  midnight &lt;- c('midnightblue',"slateblue4","mediumpurple3","thistle3","mistyrose","linen")
+  sunset &lt;- c("red4","red3","red","orangered","chocolate1","tan1","burlywood1")
+  tides &lt;- c("springgreen4","mediumseagreen","palegreen3","darkseagreen3","honeydew3")
+  waves &lt;- c("darkblue","blue3","blue1","dodgerblue2","steelblue2","skyblue","lightblue1")
+  dusk &lt;- c("navy","dodgerblue4","steelblue3","slategray2","whitesmoke","papayawhip","burlywood1","tan1","orangered")
+  cantaloupe &lt;- c("tomato","coral","lightsalmon1","peachpuff1","blanchedalmond")
+  margarita &lt;- c("#DAF7A6", "#FFC300", "#FF5733", "#C70039", "#900C3F", "#581845")
+  seasnail &lt;- c("#D4C5E2","#C9D7F8","#A7E2E3","#80CFA9","#4C6663")
+  nausicaa &lt;- c("#EA9272","#EAC1A3","#7A8C96","#9D8084","#A39BA7","#3F5149","#0F171E")
+  candy &lt;- c("#F6BD60","#F7EDE2","#F5CAC3","#84A59D","#F28482")
+  seasons &lt;- c("#f9393c","#FFA73C","#ADE57D","#94C1E9")
+  myCols &lt;&lt;- eval(parse(text = x))[1:num]
+}
+  </code>
+</pre>
+:ET

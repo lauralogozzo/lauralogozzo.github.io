@@ -1,0 +1,39 @@
+I"X<pre>
+  <code>
+plotCols()
+  </code>
+</pre>
+<figure class="figure  figure--center"> 
+  <a href="">
+  <img class="image" src="/images/myCols-Scale.svg" alt="Color Scale Palettes" width="500" height="800" />
+  </a>
+  <figcaption class="caption">Color Scale Palettes</figcaption>
+</figure>
+
+<figure class="figure  figure--center"> 
+  <a href="">
+  <img class="image" src="/images/myCols-Discrete.svg" alt="Discrete Color Palettes" width="500" height="800" />
+  </a>
+  <figcaption class="caption">Discrete Color Palettes</figcaption>
+</figure>
+
+<pre>
+  <code>
+# Create an Global Environment object called 'myCols' with the color palette
+getCols("seasnail") 
+
+# Get iris data
+data(iris)
+
+# Plot iris data, colored by species using the color palette
+plot(Sepal.Length~Petal.Length, data=iris, col=myCols[Species], pch = 19)
+  </code>
+</pre>
+<figure class="figure  figure--center"> 
+  <a href="">
+  <img class="image" src="/images/Iris-Example.svg" alt="Plot colored using the chosen palette" width="500" height="800" />
+  </a>
+  <figcaption class="caption">Plot colored using the chosen palette</figcaption>
+</figure>
+
+:ET

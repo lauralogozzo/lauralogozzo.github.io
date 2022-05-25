@@ -1,0 +1,71 @@
+I"�<h1 align="center" style="font-family:'Helvetica',sans-serif; font-weight:normal"> Open Access Data </h1>
+<p>      </p>
+
+<div class="jumbotron">
+    <div class="pl-4 pr-0 h-100 tofront">
+    <img src="https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs10533-022-00937-5/MediaObjects/10533_2022_937_Fig1_HTML.png?as=webp" caption="" position="left" align="left" width="300" height="800" style="padding:10px" />
+
+        <div class="row justify-content-between">
+            <div class="col-md-6 pt-6 pb-6 pr-lg-4 align-self-center">
+                <h4 class="mb-3"> <a href="https://doi.org/10.5281/zenodo.6092728" class="btn btn-dark" target="_blank_"> 
+                Riverine truly dissolved, colloidal, and operationally dissolved Fe(III), DOC, a<font size="2"><sub>254</sub></font>, a<font size="2"><sub>412</sub></font>, and SUVA<font size="2"><sub>254</sub></font>
+                </a> </h4>
+                <p class="mb-3 lead">
+                This dataset includes concentrations of Fe(III) and DOC along with UV-Vis
+                 absorption coefficients at 254 nm and 412 nm on the operationally dissolved size 
+                 fraction (&lt;0.22 μm), as well as the truly dissolved (&lt;0.02 μm) and 
+                 colloidal (0.02-0.22 μm) size fractions. Samples were collected every 
+                 2 weeks at 5 sites along the Connecticut River mainstem from 2018 to 2020 
+                 and at 7 sites in the Connecticut River watershed sampled once synoptically 
+                 during the summer 2019.
+                </p>
+            </div>
+            <div class="col-md-6 d-none d-md-block pr-0" style="background-size:cover;background-image:;">	
+
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="jumbotron">
+    <div class="pl-4 pr-0 h-100 tofront">
+    <img src="/images/GCReW.png" caption="" position="left" align="left" width="300" height="800" style="padding:10px" />
+
+        <div class="row justify-content-between">
+            <div class="col-md-6 pt-6 pb-6 pr-lg-4 align-self-center">
+                <h4 class="mb-3"> <a href="https://doi.org/10.5281/zenodo.4542308" class="btn btn-dark" target="_blank_"> Chesapeake Bay marsh-exported CDOM photo- and bio-degradation incubations </a> </h4>
+                <p class="mb-3 lead">
+            	This dataset includes seasonal measurements of photochemical and microbial 
+            	degradation incubation experiments conducted on CDOM collected draining four Chesapeake Bay marshes
+            	from 2016 to 2017. Dataset includes incubation starting and ending DOC concentrations, PARAFAC
+            	components, a<font size="2"><sub>300</sub></font>, S<font size="2"><sub>R</sub></font>,
+            	S<font size="2"><sub>275-295</sub></font>, and S<font size="2"><sub>350-400</sub></font>.
+            	Dataset also includes microbial counts for 0.2 µm and GF/F (0.7 µm nominal pore size)
+            	for a light and dark incubation.
+                </p>
+            </div>
+            <div class="col-md-6 d-none d-md-block pr-0" style="background-size:cover;background-image:;">	
+
+            </div>
+        </div>
+    </div>
+</div>
+
+<hr />
+<h1 align="center" style="font-family:'Helvetica',sans-serif; font-weight:normal"> R Code </h1>
+<p><em>Coming soon!</em>
+<!-- Coolors Palette Widget -->
+      <script src="https://coolors.co/palette-widget/widget.js"></script>
+      <script data-id="041640881125076246">new CoolorsPaletteWidget("041640881125076246", ["f94144","f3722c","f8961e","f9c74f","90be6d","43aa8b","577590"]); </script></p>
+
+<figure class="figure  figure--center">
+  <img class="image" src="/images/myCols-Scale.svg" alt="Image with caption" width="300" height="800" />
+  <figcaption class="caption">Image with caption</figcaption>
+</figure>
+
+<figure class="figure  figure--center">
+  <img class="image" src="/images/myCols-Discrete.svg" alt="Image with caption" width="300" height="800" />
+  <figcaption class="caption">Image with caption</figcaption>
+</figure>
+
+:ET

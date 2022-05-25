@@ -64,5 +64,7 @@ aside: false
 
 
 ---
-<h1 align="center" style="font-family:'Helvetica',sans-serif; font-weight:normal"> R Code </h1>
-*Coming soon!*
+<h1 align="center" style="font-family:'Helvetica',sans-serif; font-weight:normal"> R Codes (work in progress!) </h1>
+ 
+ <h3 align="center"> <a href="/Color-Palette/"> Color Palette </a></h3>
+{% include figure.html image="/images/myCols-All.svg" caption="" width="500" height="800" href="/Color-Palette/" %}

@@ -1,0 +1,20 @@
+I":<pre>
+  <code>
+plotCols()
+  </code>
+</pre>
+<figure class="figure  figure--center"> 
+  <a href="/Color-Palette/">
+  <img class="image" src="/images/myCols-Scale.svg" alt="Color Scale Palettes" width="500" height="800" />
+  </a>
+  <figcaption class="caption">Color Scale Palettes</figcaption>
+</figure>
+
+<figure class="figure  figure--center"> 
+  <a href="/Color-Palette/">
+  <img class="image" src="/images/myCols-Discrete.svg" alt="Discrete Color Palettes" width="500" height="800" />
+  </a>
+  <figcaption class="caption">Discrete Color Palettes</figcaption>
+</figure>
+
+:ET

@@ -1,0 +1,84 @@
+I"a	<p>A set of functions to plot the available color palettes (see plotCols) and to load a color
+palette into your global environment (see getCols). Load these functions into R using:</p>
+<pre>
+  <code>
+source("https://lauralogozzo.github.io/assets/myCols.R.txt")
+  </code>
+</pre>
+
+<h3> Functions and Examples </h3>
+
+<p>Function to display all available color palettes, and their names:</p>
+<pre>
+  <code>
+plotCols()
+  </code>
+</pre>
+<figure class="figure  figure--center"> 
+  
+  <img class="image" src="/images/myCols-Scale.svg" alt="Color Scale Palettes" width="500" height="800" />
+  
+  <figcaption class="caption">Color Scale Palettes</figcaption>
+</figure>
+
+<figure class="figure  figure--center"> 
+  
+  <img class="image" src="/images/myCols-Discrete.svg" alt="Discrete Color Palettes" width="500" height="800" />
+  
+  <figcaption class="caption">Discrete Color Palettes</figcaption>
+</figure>
+
+<p>Function to create color palette by name, and a plotting example using ggplot</p>
+<pre>
+  <code>
+# Load ggplot
+library('ggplot2')
+
+# Creates a global environment object named 'myCols' that contains the chosen palette
+getCols("nausicaa")
+
+# Get iris data
+data(iris)
+
+# Ggplot example
+ggplot(data=iris, aes(Petal.Length,Sepal.Length, color = Species)) +
+  geom_point(size = 2)+
+  scale_color_manual(values = myCols) +
+  theme_classic()
+
+  </code>
+</pre>
+
+<figure class="figure  figure--center"> 
+  
+  <img class="image" src="/images/ggplot-Example.svg" alt="Plotted species (categorical) by color using the chosen palette - ggplot" width="500" height="800" />
+  
+  <figcaption class="caption">Plotted species (categorical) by color using the chosen palette - ggplot</figcaption>
+</figure>
+
+<p>Example with ggplot using a color gradient for continuous data</p>
+<pre>
+  <code>
+# Load ggplot
+library('ggplot2')
+
+# Get color palette
+getCols("sunset")
+
+# Plot continuous scale
+ggplot(data=iris, aes(Petal.Length,Sepal.Length, color = Petal.Width)) +
+  geom_point(size = 2) +
+  scale_color_gradientn(colors = rev(myCols)) +
+  theme_classic()
+
+  </code>
+</pre>
+
+<figure class="figure  figure--center"> 
+  
+  <img class="image" src="/images/ggplot-Scale-Example.svg" alt="Plotted petal width (continuous) by color using the chosen palette - ggplot" width="500" height="800" />
+  
+  <figcaption class="caption">Plotted petal width (continuous) by color using the chosen palette - ggplot</figcaption>
+</figure>
+
+:ET
