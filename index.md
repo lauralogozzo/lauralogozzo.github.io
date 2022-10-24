@@ -59,7 +59,7 @@ dissolved organic matter and iron cycling.
 
 <div class="jumbotron">
     <div class="pl-4 pr-0 h-100 tofront">
-    <img src="/images/Laura-BUNN-winter.JPG" caption="" position="left" align="left" width="300" height="800" style="padding:10px">
+    <img src="/images/Laura-BUNN-Winter.JPG" caption="" position="left" align="left" width="300" height="800" style="padding:10px">
         <div class="row justify-content-between">
             <div class="col-md-6 pt-6 pb-6 pr-lg-4 align-self-center">
                 <h4 class="mb-3"> <a href="https://environment.yale.edu/sites/default/files/2022-07/2022CanopySpring_ForWeb.pdf" class="btn btn-dark" target = "_blank_"> Exploring the Depths of Water's Role in Climate Change </a> </h4>
