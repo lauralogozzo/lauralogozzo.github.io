@@ -8,20 +8,21 @@ excerpt: "Laura Logozzo is a PhD Candidate at Yale University School of the Envi
 ---
 
 <p align = "center">
-I am a PhD Candidate in Dr. Peter Raymond's lab at the Yale School of the Environment (YSE), 
-formerly known as the Yale School of Forestry and Environmental Studies. My research focuses 
-on the biogeochemistry of large river systems. In particular, I am interested in  
-dissolved organic matter and iron cycling.
+I am a post-doctoral fellow in Dr. Matt Bogard's lab at the University of Lethbridge. Broadly, 
+I am interested in carbon cycling in aquatic systems using field- and lab-based approaches. 
+
 </p>
 <p align = "center">
   Originally from Brooklyn, NY, I attended Fiorello H. LaGuardia High School, majoring in fine arts.
+  I did my PhD with Dr. Pete Raymond at the Yale School of the Environment (YSE), 
+  where I studied dissolved organic matter and iron cycling in large rivers.
   I received my B.S. and M.S. from CUNY City College of New York, where I studied Earth 
   and Atmospheric Sciences. My Master's thesis examined the export of colored dissolved 
   organic matter from Chesapeake Bay tidal marshes, and its subsequent photochemical and 
   microbial degradation in estuaries.
 </p>
 
-<p align="center" style ="font-family:'Helvetica',sans-serif;"> {% include button.html text="Read my CV" link="/assets/laura-logozzo-cv.pdf" color = "#7C7CD8" %} </p>
+<p align="center" style ="font-family:'Helvetica',sans-serif;"> {% include button.html target="_blank" text="Read my CV" link="/assets/laura-logozzo-cv.pdf" color = "#7C7CD8" %} </p>
 
 ---
 <h2 align="center" style="font-family:'Helvetica',sans-serif; font-weight:normal"> Featured Publications </h2>

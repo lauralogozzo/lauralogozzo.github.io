@@ -10,8 +10,8 @@ order: 4
 
 {% include figure.html image="/images/Laura-Field.jpg" caption="" position="left" width="320" height="800" %}
 
-Email: [laura.logozzo@yale.edu](mailto:laura.logozzo@yale.edu) <br> 
-Office: 21 Sachem Street &middot; New Haven, CT <br>
+Email: [laura.logozzo@uleth.ca](mailto:laura.logozzo@uleth.ca) <br> 
+Office: 4401 University Dr W &middot; Lethbridge, AB <br>
 <br>
 
 <a href="https://scholar.google.com/citations?user=_UCp1DgAAAAJ&hl=en" target="_blank"> <img src="/images/GoogleScholar.png" width = "25" /> </a>
