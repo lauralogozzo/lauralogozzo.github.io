@@ -8,8 +8,12 @@ excerpt: "Laura Logozzo is a PhD Candidate at Yale University School of the Envi
 ---
 
 <p align = "center">
-I am a post-doctoral fellow in Dr. Matt Bogard's lab at the University of Lethbridge. Broadly, 
-I am interested in carbon cycling in aquatic systems using field- and lab-based approaches. 
+I am currently a post-doctoral fellow in Dr. Matt Bogard's lab at the University of Lethbridge. Broadly, 
+my research focuses on carbon cycling in freshwater and coastal ecosystems. I am particularly 
+interested in characterizing dissolved organic matter (DOM) cycling and transport between terrestrial 
+and aquatic pools and its linkages to greenhouse gas fluxes. To do so, I utilize a combination of 
+field- and lab-based methodologies, such as DOM optical measurements, PARAFAC modelling, 
+and radiocarbon.
 
 </p>
 <p align = "center">
