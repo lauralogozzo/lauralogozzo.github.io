@@ -22,8 +22,8 @@ Function to display all available color palettes, and their names:
 plotCols()
   </code>
 </pre>
-{% include figure.html image="/images/myCols-Scale.svg" caption="Color Scale Palettes" width="500" height="800" %}
-{% include figure.html image="/images/myCols-Discrete.svg" caption="Discrete Color Palettes" width="500" height="800"%}
+{% include figure.html image="/images/myCols-ramp.svg" caption="Ramped Color Palettes" width="500" height="800" %}
+{% include figure.html image="/images/myCols-categorical.svg" caption="Categorical Color Palettes" width="500" height="800"%}
 
 Function to create color palette by palette name, and a plotting example using ggplot:
 <pre>

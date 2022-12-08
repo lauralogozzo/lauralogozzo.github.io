@@ -1,4 +1,4 @@
-I"k	<p>A set of functions to plot the available color palettes (see plotCols) and to load a color
+I"<p>A set of functions to plot the available color palettes (see plotCols) and to load a color
 palette into your global environment (see getCols). Load these functions into R using:</p>
 <pre>
   <code>
@@ -16,16 +16,29 @@ plotCols()
 </pre>
 <figure class="figure  figure--center"> 
   
-  <img class="image" src="/images/myCols-Scale.svg" alt="Color Scale Palettes" width="500" height="800" />
+  <img class="image" src="/images/myCols-ramp.svg" alt="Ramped Color Palettes" width="500" height="800" />
   
-  <figcaption class="caption">Color Scale Palettes</figcaption>
+  <figcaption class="caption">Ramped Color Palettes</figcaption>
 </figure>
 
 <figure class="figure  figure--center"> 
   
-  <img class="image" src="/images/myCols-Discrete.svg" alt="Discrete Color Palettes" width="500" height="800" />
+  <img class="image" src="/images/myCols-categorical.svg" alt="Categorical Color Palettes" width="500" height="800" />
   
-  <figcaption class="caption">Discrete Color Palettes</figcaption>
+  <figcaption class="caption">Categorical Color Palettes</figcaption>
+</figure>
+
+<p>Function to display colorblind-friendly color palettes, and their names:</p>
+<pre>
+  <code>
+plotCols("colorblind")
+  </code>
+</pre>
+<figure class="figure  figure--center"> 
+  
+  <img class="image" src="/images/myCols-colorblind.svg" alt="Colorblind-Friendly Color Palettes" width="500" height="800" />
+  
+  <figcaption class="caption">Colorblind-Friendly Color Palettes</figcaption>
 </figure>
 
 <p>Function to create color palette by palette name, and a plotting example using ggplot:</p>
