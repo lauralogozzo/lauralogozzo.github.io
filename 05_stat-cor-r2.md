@@ -2,7 +2,7 @@
 title:
 permalink: /stat-cor-r2/
 order: 
-feature_text: <h1 style="color:#FFFFFF; font-family:sans-serif; font-weight:normal"> stat-cor-r2 </h1>
+feature_text: <h1 style="color:#FFFFFF; font-family:sans-serif; font-weight:normal"> stat_cor_r2 </h1>
 feature_image: "/assets/orange-color.svg"
 
 ---
