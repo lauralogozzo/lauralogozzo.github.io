@@ -1,24 +1,16 @@
----
-title:
-permalink: /Color-Palette/
-order: 
-feature_text: <h1 style="color:#FFFFFF; font-family:sans-serif; font-weight:normal"> Color Palette </h1>
-feature_image: "/images/myCols-All.svg"
-
----
-A set of functions to display the available color palettes (see plotCols) and to load a color
-palette into your global environment (see getCols).
+I"ß<p>A set of functions to display the available color palettes (see plotCols) and to load a color
+palette into your global environment (see getCols).</p>
 
 <h3> Load Functions into Global Environment </h3>
 <pre>
   <code>
 source("https://lauralogozzo.github.io/assets/myCols.R.txt")
   </code>
-</pre>	
+</pre>
 
 <h3> Documentation </h3>
 
-Function to display the available color palettes, and their names:
+<p>Function to display the available color palettes, and their names:</p>
 <pre>
   <code>
 plotCols(
@@ -40,22 +32,33 @@ th, td {
 </head>
 <body>
 
-<table style="width:700px" padding = "3px">
+<table style="width:700px" padding="3px">
   <tr>
-    <td><b><font size = 2 style="font-family: Menlo">
+    <td><b><font size="2" style="font-family: Menlo">
     group
     </font></b></td>
     
-    <td><font size = 2 style="font-family: Menlo">
+    <td><font size="2" style="font-family: Menlo">
     "categorical" or "ramp" specifies the available color palettes in that type to display.
     Defaults to "", which displays both types of color palettes.
     </font></td>
   </tr>
 </table>
 
-<br>
-{% include figure.html image="/images/myCols-ramp.svg" caption="Ramped Color Palettes" width="500" height="800" %}
-{% include figure.html image="/images/myCols-categorical.svg" caption="Categorical Color Palettes" width="500" height="800"%}
+<figure class="figure  figure--center"> 
+  
+  <img class="image" src="/images/myCols-ramp.svg" alt="Ramped Color Palettes" width="500" height="800" />
+  
+  <figcaption class="caption">Ramped Color Palettes</figcaption>
+</figure>
+
+<figure class="figure  figure--center"> 
+  
+  <img class="image" src="/images/myCols-categorical.svg" alt="Categorical Color Palettes" width="500" height="800" />
+  
+  <figcaption class="caption">Categorical Color Palettes</figcaption>
+</figure>
+
 
 Function to pull the desired color palette by name:
 <pre>
@@ -81,23 +84,23 @@ th, td {
 </head>
 <body>
 
-<table style="width:700px" padding = "3px">
+<table style="width:700px" padding="3px">
   <tr>
-    <td><b><font size = 2 style="font-family: Menlo">
+    <td><b><font size="2" style="font-family: Menlo">
     x
     </font></b></td>
     
-    <td><font size = 2 style="font-family: Menlo">
+    <td><font size="2" style="font-family: Menlo">
     The color palette name to pull. See plotCols() for available palettes.
     </font></td>
   </tr>
   
   <tr>
-    <td><b><font size = 2 style="font-family: Menlo">
+    <td><b><font size="2" style="font-family: Menlo">
     num 
     </font></b></td>
     
-    <td><font size = 2 style="font-family: Menlo">
+    <td><font size="2" style="font-family: Menlo">
     The number of colors to pull from the desired palette. Defaults to the entire palette.
     </font></td>
   </tr>
@@ -111,7 +114,7 @@ Function to create color palette by palette name, and a plotting example using <
 library('ggplot2')
 
 # Creates a global environment object named 'myCols' that contains the chosen palette
-myCols <- getCols("nausicaa")
+myCols &lt;- getCols("nausicaa")
 
 # Get iris data
 data(iris)
@@ -125,7 +128,13 @@ ggplot(data=iris, aes(Petal.Length,Sepal.Length, color = Species)) +
   </code>
 </pre>
 
-{% include figure.html image="/images/ggplot-Example.svg" caption="Plotted species (categorical) by color using the chosen palette - ggplot" width="500" height="800" %}
+<figure class="figure  figure--center"> 
+  
+  <img class="image" src="/images/ggplot-Example.svg" alt="Plotted species (categorical) by color using the chosen palette - ggplot" width="500" height="800" />
+  
+  <figcaption class="caption">Plotted species (categorical) by color using the chosen palette - ggplot</figcaption>
+</figure>
+
 
 An example of a gradient palette for continuous data in <em>ggplot</em>:
 <pre>
@@ -134,7 +143,7 @@ An example of a gradient palette for continuous data in <em>ggplot</em>:
 library('ggplot2')
 
 # Get color palette
-myCols <- getCols("sunset")
+myCols &lt;- getCols("sunset")
 
 # Plot continuous scale
 ggplot(data=iris, aes(Petal.Length,Sepal.Length, color = Petal.Width)) +
@@ -145,6 +154,14 @@ ggplot(data=iris, aes(Petal.Length,Sepal.Length, color = Petal.Width)) +
   </code>
 </pre>
 
-{% include figure.html image="/images/ggplot-Scale-Example.svg" caption="Plotted petal width (continuous) by color using the chosen palette - ggplot" width="500" height="800" %}
+<figure class="figure  figure--center"> 
+  
+  <img class="image" src="/images/ggplot-Scale-Example.svg" alt="Plotted petal width (continuous) by color using the chosen palette - ggplot" width="500" height="800" />
+  
+  <figcaption class="caption">Plotted petal width (continuous) by color using the chosen palette - ggplot</figcaption>
+</figure>
 
 
+
+</body></html></body></html>
+:ET
