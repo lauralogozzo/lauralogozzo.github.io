@@ -39,7 +39,7 @@ See documentation for stat_cor() from <em>ggpubr</em>.
 <h3> Load Function into Global Environment </h3>
 <pre>
   <code>
-source("https://lauralogozzo.github.io/assets/stat-cor-r2.R.txt")
+source("https://lauralogozzo.github.io/assets/stat_cor_r2.R.txt")
   </code>
 </pre>
 
