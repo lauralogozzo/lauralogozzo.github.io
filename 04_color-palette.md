@@ -18,7 +18,7 @@ source("https://lauralogozzo.github.io/assets/myCols.R.txt")
 
 <h3> Documentation </h3>
 
-Function that displays the available color palettes, and their names:
+Function to display the available color palettes, and their names:
 <pre>
   <code>
 plotCols(
@@ -104,7 +104,7 @@ th, td {
 </table>
 
 <h3> Examples </h3>
-Function to create color palette by palette name, and a plotting example using <em>ggplot</em>:
+An example of a palette for categorical data in <em>ggplot</em>:
 <pre>
   <code>
 # Load ggplot
