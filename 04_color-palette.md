@@ -63,7 +63,6 @@ Function to pull the desired color palette by name:
 getCols(
   x = NULL
   num = length(eval(parse(text=x)))
-  
 )
   </code>
 </pre>
