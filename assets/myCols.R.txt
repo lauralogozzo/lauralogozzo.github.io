@@ -82,6 +82,7 @@ getCols <- function(x,num=length(eval(parse(text=x)))){
   nausicaa <- c("#EA9272","#EAC1A3","#7A8C96","#9D8084","#A39BA7","#3F5149","#0F171E")
   candy <- c("#F6BD60","#F7EDE2","#F5CAC3","#84A59D","#F28482")
   seasons <- c("#f9393c","#FFA73C","#ADE57D","#94C1E9")
-  myCols <<- eval(parse(text = x))[1:num]
+  
+  myCols <- eval(parse(text = x))[1:num]
 }
 

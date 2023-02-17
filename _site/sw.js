@@ -1,8 +1,8 @@
-const version = '20221208230604';
+const version = '20230217162449';
 const cacheName = `static::${version}`;
 
 const buildContentBlob = () => {
-  return ["/publications/2022/05/16/Logozzo/","/publications/2021/07/05/Maavara/","/publications/2021/05/05/Aho/","/publications/2021/03/09/Logozzo/","/publications/2020/05/10/DeVries/","/Research/","/Publications/","/Data/","/Color-Palette/","/Contact/","/categories/","/blog/","/","/manifest.json","/offline/","/assets/search.json","/search/","/assets/styles.css","/redirects.json","/sitemap.xml","/robots.txt","/blog/page2/","/blog/page3/","/feed.xml","/assets/styles.css.map","/assets/logos/laura-logo.svg", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
+  return ["/publications/2023/01/30/Maavara/","/publications/2022/05/16/Logozzo/","/publications/2021/07/05/Maavara/","/publications/2021/05/05/Aho/","/publications/2021/03/09/Logozzo/","/publications/2020/05/10/DeVries/","/Research/","/Publications/","/Data/","/Color-Palette/","/stat-cor-r2/","/Contact/","/categories/","/blog/","/","/manifest.json","/offline/","/assets/search.json","/search/","/assets/styles.css","/redirects.json","/sitemap.xml","/robots.txt","/blog/page2/","/blog/page3/","/feed.xml","/assets/styles.css.map","/assets/logos/laura-logo.svg", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
   ]
 }
 

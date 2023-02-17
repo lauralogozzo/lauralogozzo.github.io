@@ -8,7 +8,7 @@ image: "/images/FARM-fall-cropped.JPG"
 
 ---
 
-##### Logozzo, L., Martin, J., McArthur, J., Raymond, P. <br>
+##### Logozzo, L., J. Martin, J. McArthur, P. Raymond <br>
 ###### May 2022 &middot; *Biogeochemistry*
 <br>
 {% include figure.html image="/images/FARM-fall-cropped.JPG" caption="" position="center"%}

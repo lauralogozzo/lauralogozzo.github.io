@@ -6,33 +6,111 @@ feature_text: <h1 style="color:#FFFFFF; font-family:sans-serif; font-weight:norm
 feature_image: "/images/myCols-All.svg"
 
 ---
-A set of functions to plot the available color palettes (see plotCols) and to load a color
-palette into your global environment (see getCols). Load these functions into R using:
+A set of functions to display the available color palettes (see plotCols) and to load a color
+palette into your global environment (see getCols).
+
+<h3> Documentation </h3>
+
+Function to display the available color palettes, and their names:
+<pre>
+  <code>
+plotCols(
+  group = ""
+)
+  </code>
+</pre>
+
+<html>
+<head>
+<style>
+table, th, td {
+}
+
+th, td {
+  padding: 20px;
+}
+</style>
+</head>
+<body>
+
+<table style="width:700px" padding = "3px">
+  <tr>
+    <td><b><font size = 2 style="font-family: Menlo">
+    group
+    </font></b></td>
+    
+    <td><font size = 2 style="font-family: Menlo">
+    "categorical" or "ramp" specifies the available color palettes in that type to display.
+    Defaults to "", which displays both types of color palettes.
+    </font></td>
+  </tr>
+</table>
+
+{% include figure.html image="/images/myCols-ramp.svg" caption="Ramped Color Palettes" width="500" height="800" %}
+{% include figure.html image="/images/myCols-categorical.svg" caption="Categorical Color Palettes" width="500" height="800"%}
+
+Function to pull the desired color palette by name:
+<pre>
+  <code>
+getCols(
+  x = NULL
+  num = length(eval(parse(text=x)))
+  
+)
+  </code>
+</pre>
+
+<html>
+<head>
+<style>
+table, th, td {
+}
+
+th, td {
+  padding: 20px;
+}
+</style>
+</head>
+<body>
+
+<table style="width:700px" padding = "3px">
+  <tr>
+    <td><b><font size = 2 style="font-family: Menlo">
+    x
+    </font></b></td>
+    
+    <td><font size = 2 style="font-family: Menlo">
+    The color palette name to pull. See plotCols() for available palettes.
+    </font></td>
+  </tr>
+  
+  <tr>
+    <td><b><font size = 2 style="font-family: Menlo">
+    num 
+    </font></b></td>
+    
+    <td><font size = 2 style="font-family: Menlo">
+    The number of colors to pull from the desired palette. Defaults to the entire palette.
+    </font></td>
+  </tr>
+</table>
+
+<h3> Load Functions into Global Environment </h3>
 <pre>
   <code>
 source("https://lauralogozzo.github.io/assets/myCols.R.txt")
   </code>
 </pre>
 
-<h3> Functions and Examples </h3>
-
-Function to display all available color palettes, and their names:
-<pre>
-  <code>
-plotCols()
-  </code>
-</pre>
-{% include figure.html image="/images/myCols-ramp.svg" caption="Ramped Color Palettes" width="500" height="800" %}
-{% include figure.html image="/images/myCols-categorical.svg" caption="Categorical Color Palettes" width="500" height="800"%}
-
-Function to create color palette by palette name, and a plotting example using ggplot:
+<h3> Examples </h3>
+Function to create color palette by palette name, and a plotting example using <em>ggplot</em>:
 <pre>
   <code>
 # Load ggplot
 library('ggplot2')
 
 # Creates a global environment object named 'myCols' that contains the chosen palette
-getCols("nausicaa")
+myCols <- getCols("nausicaa")
 
 # Get iris data
 data(iris)
@@ -48,14 +126,14 @@ ggplot(data=iris, aes(Petal.Length,Sepal.Length, color = Species)) +
 
 {% include figure.html image="/images/ggplot-Example.svg" caption="Plotted species (categorical) by color using the chosen palette - ggplot" width="500" height="800" %}
 
-An example of a gradient palette for continuous data in ggplot:
+An example of a gradient palette for continuous data in <em>ggplot</em>:
 <pre>
   <code>
 # Load ggplot
 library('ggplot2')
 
 # Get color palette
-getCols("sunset")
+myCols <- getCols("sunset")
 
 # Plot continuous scale
 ggplot(data=iris, aes(Petal.Length,Sepal.Length, color = Petal.Width)) +

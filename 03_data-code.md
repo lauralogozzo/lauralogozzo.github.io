@@ -64,7 +64,15 @@ aside: false
 
 
 ---
-<h1 align="center" style="font-family:'Helvetica',sans-serif; font-weight:normal"> R Codes (work in progress!) </h1>
+<h1 align="center" style="font-family:'Helvetica',sans-serif; font-weight:normal"> Custom R Functions </h1>
  
- <h3 align="center"> <a href="/Color-Palette/"> Color Palette </a></h3>
+<h3 align="center"> <a href="/Color-Palette/"> Color Palette </a></h3>
 {% include figure.html image="/images/myCols-All.svg" caption="" width="500" height="800" href="/Color-Palette/" %}
+
+<h3 align="center"> <a href="/stat-cor-r2/"> 
+Linear model R<sup><font size = 4>2</font></sup> and <em>p</em>-value for <em>ggplot</em>
+</a></h3>
+
+{% include figure.html image="/images/stat-cor-r2.svg" caption="" width="500" height="800" href="/stat-cor-r2/" %}
+
+
