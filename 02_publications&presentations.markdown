@@ -12,7 +12,7 @@ aside: false
 **Logozzo, L.A.**, J.D. Hosen, J. McArthur, P.A. Raymond <br>
 Accepted &middot; *Limnology and Oceanography*
 
-<h4> <a href="https://doi.org/10.1002/lno.12306" target="_blank"> Watershed DOC uptake occurs mostly in lakes in the summer and in rivers in the winter </a> </h4>
+<h4> <a href="https://onlinelibrary.wiley.com/share/author/CRSQVWIFP5K6RPGSKHSW?target=10.1002/lno.12306" target="_blank"> Watershed DOC uptake occurs mostly in lakes in the summer and in rivers in the winter </a> </h4>
 Maavara, T., C. Brinkerhoff, J. Hosen, K.S. Aho, **L.A. Logozzo**, J. Saiers, A. Stubbins, P.A. Raymond <br>
 Jan 2023 &middot; *Limnology and Oceanography*
 

@@ -10,6 +10,8 @@ A function modified from the stat_cor() function in <em>ggpubr</em> to add the
 R<font size = 2><sup>2</sup></font> value and <em>p</em>-value to <em>ggplot</em>
 for a linear model.
 
+Requires the packages <em>ggplot2</em>, <em>ggpubr</em>, and <em>finalfit</em>.
+
 <h3> Load Function into Global Environment </h3>
 <pre>
   <code>
@@ -48,6 +50,7 @@ See documentation for stat_cor() from <em>ggpubr</em>.
 # Load required packages
 library("ggplot2")
 library("ggpubr")
+library("finalfit")
 
 # Load iris data
 data(iris)
