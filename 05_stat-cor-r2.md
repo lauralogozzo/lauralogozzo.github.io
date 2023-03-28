@@ -82,7 +82,7 @@ ggplot(data = iris, aes(x = Sepal.Length, y = Sepal.Width)) +
   geom_point(size = 2) + 
   geom_smooth(method = "lm") + 
   theme_classic(base_size = 14) + 
-  stat_cor_r2(size = 6, label.x.npc = "center", p.digits = 3)
+  stat_cor_r2(size = 6, label.x.npc = "center", r.digits = 3)
 
   </code>
 </pre>
