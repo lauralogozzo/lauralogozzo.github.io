@@ -72,6 +72,7 @@ R<sup><font size = 1>2</font></sup> and <em>p</em>-value to the top-left" width=
 # Load ggplot
 library("ggplot2")
 library("ggpubr")
+library("finalfit")
 
 # Get iris data
 data(iris)
@@ -94,6 +95,7 @@ ggplot(data = iris, aes(x = Sepal.Length, y = Sepal.Width)) +
 # Load ggplot
 library("ggplot2")
 library("ggpubr")
+library("finalfit")
 
 # Get iris data
 data(iris)
