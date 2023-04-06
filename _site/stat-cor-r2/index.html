@@ -228,6 +228,8 @@
 R<font size="2"><sup>2</sup></font> value and <em>p</em>-value to <em>ggplot</em>
 for a linear model.</p>
 
+<p>Requires the packages <em>ggplot2</em>, <em>ggpubr</em>, and <em>finalfit</em>.</p>
+
 <h3> Load Function into Global Environment </h3>
 <pre>
   <code>
@@ -266,6 +268,7 @@ stat_cor_r2(
 # Load required packages
 library("ggplot2")
 library("ggpubr")
+library("finalfit")
 
 # Load iris data
 data(iris)
@@ -292,6 +295,7 @@ R<sup><font size="1">2</font></sup> and <em>p</em>-value to the top-left</figcap
 # Load ggplot
 library("ggplot2")
 library("ggpubr")
+library("finalfit")
 
 # Get iris data
 data(iris)
@@ -301,7 +305,7 @@ ggplot(data = iris, aes(x = Sepal.Length, y = Sepal.Width)) +
   geom_point(size = 2) + 
   geom_smooth(method = "lm") + 
   theme_classic(base_size = 14) + 
-  stat_cor_r2(size = 6, label.x.npc = "center", p.digits = 3)
+  stat_cor_r2(size = 6, label.x.npc = "center", r.digits = 3)
 
   </code>
 </pre>
@@ -318,6 +322,7 @@ ggplot(data = iris, aes(x = Sepal.Length, y = Sepal.Width)) +
 # Load ggplot
 library("ggplot2")
 library("ggpubr")
+library("finalfit")
 
 # Get iris data
 data(iris)

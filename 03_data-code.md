@@ -9,8 +9,42 @@ aside: false
 
 ---
 
+
+
 <h1 align="center" style="font-family:'Helvetica',sans-serif; font-weight:normal"> Open Access Data </h1>
 <p>      </p>
+
+<div class="jumbotron">
+    <div class="pl-4 pr-0 h-100 tofront">
+    <img src="/images/Figure1.png" caption="" position="left" align="left" width="300" height="800" style="padding:10px">
+
+        <div class="row justify-content-between">
+            <div class="col-md-6 pt-6 pb-6 pr-lg-4 align-self-center">
+                <h4 class="mb-3"> <a href="https://doi.org/10.5281/zenodo.7709028" class="btn btn-dark" target="_blank_"> 
+                Seasonal concentrations and fluxes of dissolved, soluble, and colloidal Fe and dissolved organic matter amount and composition (DOC and PARAFAC)
+                </a> </h4>
+                <p class="mb-3 lead">
+<br>
+1- Operationally dissolved (<0.22 µm), 
+colloidal (0.02-0.22 µm), and soluble (<0.02 µm) DOC concentrations, total Fe concentrations, 
+PARAFAC component scores <0.22 µm, and end-member mixing model scores <0.22 µm. 
+Samples were collected approximately bi-weekly from the Connecticut River at 
+Thompsonville from April 2018 to March 2020.
+<br>
+2- LOADEST-modeled daily-average and 
+monthly-average fluxes of operationally dissolved (<0.22 µm), colloidal (0.02-0.22 µm), 
+and soluble (<0.02 µm) Fe, DOC <0.22 µm, and allochthonous-like DOC <0.22 µm.
+
+                </p>
+            </div>
+            <div class="col-md-6 d-none d-md-block pr-0" style="background-size:cover;background-image:{{ post.image }};">	
+
+            </div>
+        </div>
+    </div>
+</div> 
+
+
 
 <div class="jumbotron">
     <div class="pl-4 pr-0 h-100 tofront">

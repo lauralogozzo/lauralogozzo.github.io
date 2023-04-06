@@ -67,8 +67,8 @@ and radiocarbon.
     <img src="/images/Laura-BUNN-Winter.JPG" caption="" position="left" align="left" width="300" height="800" style="padding:10px">
         <div class="row justify-content-between">
             <div class="col-md-6 pt-6 pb-6 pr-lg-4 align-self-center">
-                <h4 class="mb-3"> <a href="https://environment.yale.edu/sites/default/files/2022-07/2022CanopySpring_ForWeb.pdf" class="btn btn-dark" target = "_blank_"> Exploring the Depths of Water's Role in Climate Change </a> </h4>
-                <h5> <i> Canopy Magazine </i> &middot; Spring 2022 &middot; pp. 28-35 </h5>
+                <h4 class="mb-3"> <a href="https://environment.yale.edu/canopy/2022/feature/exploring-depths-waters-role-climate-change" class="btn btn-dark" target = "_blank_"> Exploring the Depths of Water's Role in Climate Change </a> </h4>
+                <h5> <i> Canopy Magazine </i> &middot; Spring 2022 </h5>
                 <p class="mb-3 lead">
                     {{ "Aquatic ecosystems play an essential role in the greenhouse gas emissions cycle. Water bodies can sequester carbon – and they can also release emissions. Reducing these emissions and exploring ways of increasing their potential for carbon uptake is at the center of new climate research at YSE."
  | strip_html | strip_newlines | truncate: 140 }}

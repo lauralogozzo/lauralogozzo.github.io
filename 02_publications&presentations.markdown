@@ -8,9 +8,9 @@ order: 2
 aside: false
 ---
 
-<h4> Distinct drivers of two size fractions of operationally dissolved Fe in a temperate river </h4>
+<h4> <a href="https://doi.org/10.1002/lno.12338" target="_blank"> Distinct drivers of two size fractions of operationally dissolved Fe in a temperate river </a> </h4>
 **Logozzo, L.A.**, J.D. Hosen, J. McArthur, P.A. Raymond <br>
-Accepted &middot; *Limnology and Oceanography*
+Accepted &middot; *Limnology and Oceanography* &middot; <font style ="color:#F9564F"> Open Access </font>
 
 <h4> <a href="https://onlinelibrary.wiley.com/share/author/CRSQVWIFP5K6RPGSKHSW?target=10.1002/lno.12306" target="_blank"> Watershed DOC uptake occurs mostly in lakes in the summer and in rivers in the winter </a> </h4>
 Maavara, T., C. Brinkerhoff, J. Hosen, K.S. Aho, **L.A. Logozzo**, J. Saiers, A. Stubbins, P.A. Raymond <br>
