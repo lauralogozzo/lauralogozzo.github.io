@@ -1,9 +1,13 @@
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-KYCFGSLF7L"></script>
+<!-- Google tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-KYCFGSLF7L');
+  gtag('config', 'UA-162475277-1'); <! -- old -->
+  gtag('config', '{{ site.google_analytics }}');
+  gtag('config', '{{ site.google_analytics }}', {
+  'anonymize_ip': {{ site.google_analytics_anonymize_ip | default: "true" }}});
+  
 </script>
