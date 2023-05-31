@@ -7,8 +7,9 @@ feature_image: "/images/photoox.JPG"
 
 ---
 
+
 <h4 align = "center"> Illuminating riverine dissolved organic carbon dynamics using carbon age </h4>
-<br>
+
 <div class="jumbotron">
     <div class="pl-4 pr-0 h-100 tofront">
     <img src="/images/STIL-summer.JPG" caption="" position="left" align="left" width="320" style="padding:15px">
@@ -40,11 +41,8 @@ NASA Connecticut Space Grant.
     </div>
 </div>
 
-
----
-
 <h4 align = "center"> The coupling of dissolved iron and dissolved organic matter </h4>
-<br>
+
 <div class="jumbotron">
     <div class="pl-4 pr-0 h-100 tofront">
     <img src="/images/ESSX-winter.JPG" caption="" position="left" align="left" width="320" style="padding:15px">
@@ -78,9 +76,9 @@ CO<font size=2><sub>2</sub></font> uptake and determine the mechanistic drivers 
 {% include button.html text="Data" link="https://doi.org/10.5281/zenodo.7709027" color = "#037458" target="_blank" %}
 </p>
 
----
+
 <h4 align = "center"> Ferric iron impacts dissolved organic matter UV-vis absorbance in natural waters </h4>
-<br>
+
 <div class="jumbotron">
     <div class="pl-4 pr-0 h-100 tofront">
     <img src="/images/BUNN-storm.jpg" caption="" position="left" align="left" width="320" style="padding:15px">
