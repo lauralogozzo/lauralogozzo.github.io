@@ -1,21 +1,11 @@
----
-title:
-permalink: /stat-cor-r2/
-order: 
-feature_text: <h1 style="color:#FFFFFF; font-family:sans-serif; font-weight:normal"> [DEPRECATED] stat_cor_r2 </h1>
-feature_image: "/assets/orange-color.svg"
+I"s<p><strong>NOTE (2023-10-17): To add R<sup>2</sup> and p values to ggplot,
+I recommend using the function stat_poly_eq() from the package <em>ggpmisc</em> instead.</strong></p>
 
----
+<p>A function modified from the stat_cor() function in <em>ggpubr</em> to add the 
+R<font size="2"><sup>2</sup></font> value and <em>p</em>-value to <em>ggplot</em>
+for a linear model.</p>
 
-**NOTE (2023-10-17): To add R<font size = 2><sup>2</sup></font> and *p*-values to ggplots,
-I recommend using the function stat_poly_eq() from the package *ggpmisc* instead. stat_cor_r2()
-will be removed from this site shortly.**
-
-A function modified from the stat_cor() function in <em>ggpubr</em> to add the 
-R<font size = 2><sup>2</sup></font> value and <em>p</em>-value to <em>ggplot</em>
-for a linear model.
-
-Requires the packages <em>ggplot2</em>, <em>ggpubr</em>, and <em>finalfit</em>.
+<p>Requires the packages <em>ggplot2</em>, <em>ggpubr</em>, and <em>finalfit</em>.</p>
 
 <h3> Load Function into Global Environment </h3>
 <pre>
@@ -47,7 +37,7 @@ stat_cor_r2(
   </code>
 </pre>
 
-See documentation for stat_cor() from <em>ggpubr</em>.
+<p>See documentation for stat_cor() from <em>ggpubr</em>.</p>
 
 <h3> Examples </h3>
 <pre>
@@ -68,9 +58,14 @@ ggplot(data = iris, aes(x = Sepal.Length, y = Petal.Length)) +
   stat_cor_r2(size = 5)
   </code>
 </pre>
-{% include figure.html image="/images/stat-cor-r2.svg" caption="Default is to add 
-R<sup><font size = 1>2</font></sup> and <em>p</em>-value to the top-left" width="500" height="800"%}
-
+<figure class="figure  figure--center"> 
+  
+  <img class="image" src="/images/stat-cor-r2.svg" alt="Default is to add 
+R&lt;sup&gt;&lt;font size = 1&gt;2&lt;/font&gt;&lt;/sup&gt; and &lt;em&gt;p&lt;/em&gt;-value to the top-left" width="500" height="800" />
+  
+  <figcaption class="caption">Default is to add 
+R<sup><font size="1">2</font></sup> and <em>p</em>-value to the top-left</figcaption>
+</figure>
 
 <pre>
   <code>
@@ -92,8 +87,12 @@ ggplot(data = iris, aes(x = Sepal.Length, y = Sepal.Width)) +
   </code>
 </pre>
 
-{% include figure.html image="/images/stat-cor-r2-v2.svg" caption="Move to top-right quadrant and change R<sup><font size = 1>2</font></sup> significant figures to three." width="500" height="800" %}
-
+<figure class="figure  figure--center"> 
+  
+  <img class="image" src="/images/stat-cor-r2-v2.svg" alt="Move to top-right quadrant and change R&lt;sup&gt;&lt;font size = 1&gt;2&lt;/font&gt;&lt;/sup&gt; significant figures to three." width="500" height="800" />
+  
+  <figcaption class="caption">Move to top-right quadrant and change R<sup><font size="1">2</font></sup> significant figures to three.</figcaption>
+</figure>
 
 <pre>
   <code>
@@ -114,4 +113,10 @@ ggplot(data = iris, aes(x = Sepal.Length, y = Sepal.Width, color = Species)) +
   </code>
 </pre>
 
-{% include figure.html image="/images/stat-cor-r2-species.svg" caption="" width="500" height="800" %}
+<figure class="figure  figure--center"> 
+  
+  <img class="image" src="/images/stat-cor-r2-species.svg" alt="" width="500" height="800" />
+  
+  <figcaption class="caption"></figcaption>
+</figure>
+:ET

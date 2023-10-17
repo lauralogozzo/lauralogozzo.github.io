@@ -104,7 +104,7 @@ and soluble (<0.02 µm) Fe, DOC <0.22 µm, and allochthonous-like DOC <0.22 µm.
 {% include figure.html image="/images/myCols-All.svg" caption="" width="500" height="800" href="/Color-Palette/" %}
 
 <h3 align="center"> <a href="/stat-cor-r2/"> 
-Linear model R<sup><font size = 4>2</font></sup> and <em>p</em>-value for <em>ggplot</em>
+[DEPRECATED]: Linear model R<sup><font size = 4>2</font></sup> and <em>p</em>-value for <em>ggplot</em>
 </a></h3>
 
 {% include figure.html image="/images/stat-cor-r2.svg" caption="" width="500" height="800" href="/stat-cor-r2/" %}

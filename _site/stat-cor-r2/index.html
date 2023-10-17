@@ -70,15 +70,15 @@
 
 
     <!-- Google tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-KYCFGSLF7L"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-GTB2T0HNYW"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
   gtag('config', 'UA-162475277-1');
-  gtag('config', 'G-KYCFGSLF7L');
-  gtag('config', 'G-KYCFGSLF7L', 
+  gtag('config', 'G-GTB2T0HNYW');
+  gtag('config', 'G-GTB2T0HNYW', 
   {'anonymize_ip': true});
   
 </script>
@@ -210,7 +210,7 @@
 
   <div class="feature" style="background-image: url(/assets/orange-color.svg)">
     <div class="container  typeset">
-      <h1 style="color:#FFFFFF; font-family:sans-serif; font-weight:normal"> stat_cor_r2 </h1>
+      <h1 style="color:#FFFFFF; font-family:sans-serif; font-weight:normal"> [DEPRECATED] stat_cor_r2 </h1>
 
     </div>
   </div>
@@ -226,7 +226,11 @@
 
     <h1></h1>
 
-    <p>A function modified from the stat_cor() function in <em>ggpubr</em> to add the 
+    <p><strong>NOTE (2023-10-17): To add R<font size="2"><sup>2</sup></font> and <em>p</em>-values to ggplots,
+I recommend using the function stat_poly_eq() from the package <em>ggpmisc</em> instead. stat_cor_r2()
+will be removed from this site shortly.</strong></p>
+
+<p>A function modified from the stat_cor() function in <em>ggpubr</em> to add the 
 R<font size="2"><sup>2</sup></font> value and <em>p</em>-value to <em>ggplot</em>
 for a linear model.</p>
 
