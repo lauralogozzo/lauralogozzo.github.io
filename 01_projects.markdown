@@ -6,6 +6,73 @@ feature_text: <h1 style="color:#FFFFFF; font-family:sans-serif; font-weight:norm
 feature_image: "/images/photoox.JPG"
 
 ---
+<h2 align="center" style="font-family:'Helvetica',sans-serif; font-weight:normal"> Current </h2>
+
+
+<h4 align = "center"> Is a wetland restored with wastewater effluent a carbon sink or source? </h4>
+
+<div class="jumbotron">
+    <div class="pl-4 pr-0 h-100 tofront">
+    <img src="/images/Frank Lake.jpg" caption="" position="left" align="left" width="320" style="padding:15px">
+
+        <div class="row justify-content-between">
+            <div class="col-md-6 pt-6 pb-6 pr-lg-4 align-self-center">
+                <p class="mb-3 lead" align="justify">
+
+Wetlands capture and store carbon, and so wetland restoration and preservation 
+are potentially effective nature-based climate solutions. Wetlands also provide additional 
+ecosystem services such as the treatment of municipal and industrial wastewater through 
+intense processing that removes nutrients and other pollutants. 
+The Frank Lake wetland complex in southern Alberta, Canada, represents a complicated 
+management scenario. Frank Lake is ecologically, economically, and culturally important, 
+as it was restored with inputs of agricultural and municipal wastewater beginning in 
+1989. While the wetland processes and removes wastewater-derived nutrients, 
+the impacts on net carbon storage here and in similar treatment wetlands is unclear. 
+To build a whole-ecosystem carbon budget for Frank Lake, we integrated techniques across the 
+terrestrial-aquatic boundary for the entire wetland using a combination of 
+eddy-covariance measurements, plant biomass sampling and remote sensing of  
+shoreline vegetation, water-air greenhouse gas emissions, and targeted sampling of 
+lateral carbon inputs and outputs.
+
+                </p>
+            </div>
+            <div class="col-md-6 d-none d-md-block pr-0" style="background-size:cover;background-image:{{ post.image }};">	
+
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<h4 align = "center"> Evaluating the effects of agricultural land use on wetland greenhouse gas emissions </h4>
+
+<div class="jumbotron">
+    <div class="pl-4 pr-0 h-100 tofront">
+    <img src="/images/PPR-Image.jpg" caption="" position="left" align="left" width="320" style="padding:15px">
+
+        <div class="row justify-content-between">
+            <div class="col-md-6 pt-6 pb-6 pr-lg-4 align-self-center">
+                <p class="mb-3 lead" align="justify">
+
+The Prairie Pothole Region (PPR) is the largest wetland complex in North America, with 
+millions of wetlands punctuating the landscapes of Canada and the United States. In this region, 
+wetlands have been dramatically impacted by agricultural land use, with unclear implications 
+for regional to global greenhouse gas emissions budgets. We surveyed wetlands across 
+all three Canadian prairie provinces in the PPR to determine whether greenhouse gas emissions patterns of carbon 
+dioxide (CO<font size=2><sub>2</sub></font>), methane (CH<font size=2><sub>4</sub></font>), 
+and nitrous oxide (N<font size=2><sub>2</sub></font>O) from aquatic habitats differed among 
+wetlands embedded in cropland versus grassland habitats. This is an important step toward 
+understanding wetland emissions responses to land use in the PPR and other wetland-rich 
+agricultural landscapes.
+
+                </p>
+            </div>
+            <div class="col-md-6 d-none d-md-block pr-0" style="background-size:cover;background-image:{{ post.image }};">	
+
+            </div>
+        </div>
+    </div>
+</div>
 
 
 <h4 align = "center"> Illuminating riverine dissolved organic carbon dynamics using carbon age </h4>
@@ -40,6 +107,9 @@ NASA Connecticut Space Grant.
         </div>
     </div>
 </div>
+
+---
+<h2 align="center" style="font-family:'Helvetica',sans-serif; font-weight:normal"> Previous </h2>
 
 <h4 align = "center"> The coupling of dissolved iron and dissolved organic matter </h4>
 

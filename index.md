@@ -9,17 +9,17 @@ excerpt: "Laura Logozzo is a PhD Candidate at Yale University School of the Envi
 
 <p align = "center">
 I am currently a post-doctoral fellow in Dr. Matt Bogard's lab at the University of Lethbridge. Broadly, 
-my research focuses on carbon cycling in freshwater and coastal ecosystems. I am particularly 
-interested in characterizing dissolved organic matter (DOM) cycling and transport between terrestrial 
-and aquatic pools and its linkages to greenhouse gas fluxes. I utilize a combination of 
-field- and lab-based methodologies, such as DOM optical measurements, PARAFAC modelling, 
-and radiocarbon.
+my research focuses on carbon cycling in freshwater and coastal ecosystems, using  
+a combination of field-, lab-, and modelling-based methods. I am particularly 
+interested in characterizing human impacts on aquatic ecosystems, especially as it relates to
+dissolved organic matter cycling, carbon transport between terrestrial and aquatic pools, 
+and greenhouse gas emissions.
 
 </p>
 <p align = "center">
   Originally from Brooklyn, NY, I attended Fiorello H. LaGuardia High School, majoring in fine arts.
-  I did my PhD with Dr. Pete Raymond at the Yale School of the Environment (YSE), 
-  where I studied dissolved organic matter and iron cycling in large rivers.
+  I completed my PhD at the Yale School of the Environment (YSE) in 2022, 
+  where I studied dissolved organic matter and iron cycling in the Connecticut River watershed.
   I received my B.S. and M.S. from CUNY City College of New York, where I studied Earth 
   and Atmospheric Sciences. My Master's thesis examined the export of colored dissolved 
   organic matter from Chesapeake Bay tidal marshes, and its subsequent photochemical and 
