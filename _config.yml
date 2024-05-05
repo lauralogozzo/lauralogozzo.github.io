@@ -99,7 +99,7 @@ baseurl: ""
 repo: "https://github.com/lauralogozzo/lauralogozzo.github.io"
 email: "laura.logozzo@uleth.ca"
 # Google Analytics
-google_analytics: 'G-GTB2T0HNYW'
+google_analytics: 'G-KYCFGSLF7L'
 # google_analytics_anonymize_ip: ''
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 # service_worker: false # Will turn off the service worker if set to false
