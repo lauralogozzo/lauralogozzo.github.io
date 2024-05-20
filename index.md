@@ -4,15 +4,15 @@ feature_text: |
  
   
 feature_image: "/images/ESSX-landscape.JPG"
-excerpt: "Laura Logozzo is a PhD Candidate at Yale University School of the Environment"
+excerpt: "Laura Logozzo is an Associate Scientist at the Hudson River Foundation"
 ---
 
 <p align = "center">
 I am currently an Associate Scientist at the Hudson River Foundation. 
 
-Previously, I was a post-doctoral fellow at the University of Lethbridge. Broadly, 
+Previously, I was a postdoctoral fellow at the University of Lethbridge. Broadly, 
 my research focused on carbon cycling in freshwater and coastal ecosystems, using  
-a combination of field-, lab-, and modelling-based methods. I am particularly 
+a combination of field-, lab-, and modeling-based methods. I am particularly 
 interested in characterizing human impacts on aquatic ecosystems, especially as it relates to
 dissolved organic matter cycling, carbon transport between terrestrial and aquatic pools, 
 and greenhouse gas emissions.

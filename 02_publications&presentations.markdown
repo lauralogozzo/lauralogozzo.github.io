@@ -8,6 +8,10 @@ order: 2
 aside: false
 ---
 
+<h4> <a href="https://doi.org/10.1021/acs.est.3c07520" target="_blank"> Experimental Ecosystem Eutrophication Causes Offsetting Effects on Emissions of CO<sub><font size = 4>2</font></sub>, CH<sub><font size = 4>4</font></sub>, and N<sub><font size = 4>2</font></sub>O from Agricultural Reservoirs </a> </h4>
+Chan, N.C., C.A.C. Gushulak, P.R. Leavitt, **L.A. Logozzo**, K. Finlay, M.J. Bogard <br>
+Apr 2024 &middot; *Environmental Science and Technology*
+
 <h4> <a href="https://doi.org/10.1002/lno.12338" target="_blank"> Distinct drivers of two size fractions of operationally dissolved Fe in a temperate river </a> </h4>
 **Logozzo, L.A.**, J.D. Hosen, J. McArthur, P.A. Raymond <br>
 Apr 2023 &middot; *Limnology and Oceanography* &middot; <font style ="color:#F9564F"> Open Access </font>
