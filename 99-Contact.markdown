@@ -11,7 +11,7 @@ order: 4
 {% include figure.html image="/images/Laura-Field.jpg" caption="" position="left" width="320" height="800" %}
 
 Email: [laura.ann.logozzo@gmail.com](mailto:laura.ann.logozzo@gmail.com) <br> 
-Office: 17 Battery Place, Suite 915, New York, NY 10004 <br>
+Office: 17 Battery Place, Suite 915, New York, NY <br>
 <br>
 
 <a href="https://scholar.google.com/citations?hl=en&user=J0n805cAAAAJ" target="_blank"> <img src="/images/GoogleScholar.png" width = "25" /> </a>
