@@ -10,7 +10,7 @@ aside: false
 
 <h4> <a href="https://doi.org/10.1029/2023JG007831" target="_blank"> Composition and Bioreactivity of Dissolved Organic Matter Leachates From End Members in a Mountain to Prairie Transitional River Valley </a> </h4>
 Zhou, X., **L.A. Logozzo**, S.E. Johnston, L. Zink, A.-L. Amerila, M.J. Bogard <br>
-Jun 2024 &middot; *Journal of Geophysical Research: Biogeosciences*
+Jun 2024 &middot; *Journal of Geophysical Research: Biogeosciences* &middot; <font style ="color:#F9564F"> Open Access </font>
 
 <h4> <a href="https://doi.org/10.1021/acs.est.3c07520" target="_blank"> Experimental Ecosystem Eutrophication Causes Offsetting Effects on Emissions of CO<sub><font size = 4>2</font></sub>, CH<sub><font size = 4>4</font></sub>, and N<sub><font size = 4>2</font></sub>O from Agricultural Reservoirs </a> </h4>
 Chan, N.C., C.A.C. Gushulak, P.R. Leavitt, **L.A. Logozzo**, K. Finlay, M.J. Bogard <br>
