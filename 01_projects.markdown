@@ -48,7 +48,7 @@ lateral carbon inputs and outputs.
 
 <div class="jumbotron">
     <div class="pl-4 pr-0 h-100 tofront">
-    <img src="/images/PPR-Image.jpg" caption="" position="left" align="left" width="320" style="padding:15px">
+    <img src="/images/ppr-cropped-wetland.png" caption="" position="left" align="left" width="320" style="padding:15px">
 
         <div class="row justify-content-between">
             <div class="col-md-6 pt-6 pb-6 pr-lg-4 align-self-center">
