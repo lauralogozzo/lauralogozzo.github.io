@@ -108,12 +108,6 @@ Workshop: Publication-ready figures in R <em>ggplot2</em>
 </a></h3>
 {% include figure.html image="/images/fig-illustration.svg" caption="" width="500" height="800" href="https://github.com/lauralogozzo/R-figures-tutorial/" %}
 
-<h3 align="center"> <a href="/stat-cor-r2/"> 
-[DEPRECATED] Linear model R<sup><font size = 4>2</font></sup> and <em>p</em>-value for <em>ggplot</em>
-</a></h3>
-
-{% include figure.html image="/images/stat-cor-r2.svg" caption="" width="500" height="800" href="/stat-cor-r2/" %}
-
 
 
 
