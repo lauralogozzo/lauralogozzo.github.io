@@ -97,7 +97,7 @@ description: "" # Site description and default description, also used in jekyll-
 url: "lauralogozzo.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/lauralogozzo/lauralogozzo.github.io"
-email: "laura.logozzo@uleth.ca"
+email: "laura.ann.logozzo@gmail.com"
 # Google Analytics
 google_analytics: 'G-KYCFGSLF7L'
 # google_analytics_anonymize_ip: ''

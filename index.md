@@ -28,7 +28,7 @@ and greenhouse gas emissions.
   microbial degradation in estuaries.
 </p>
 
-<p align="center" style ="font-family:'Helvetica',sans-serif;"> {% include button.html target="_blank" text="Read my CV" link="/assets/laura-logozzo-cv.pdf" color = "#7C7CD8" %} </p>
+<p align="center" style ="font-family:'Helvetica',sans-serif;"> {% include button.html target="_blank" text="Read my CV" link="/assets/laura-logozzo-cv2.pdf" color = "#7C7CD8" %} </p>
 
 ---
 <h2 align="center" style="font-family:'Helvetica',sans-serif; font-weight:normal"> Featured Publications </h2>
