@@ -5,8 +5,7 @@ Canadian Prairie Pothole Region"
 date:   Mar 15 2025
 categories: Publications
 tags: sticky
-image: "/images/Figure1.png"
-
+image: "/images/gcb graphical abstract.svg"
 ---
 
 ##### Logozzo, L., C. Soued, L.E. Bortolotti, P. Badiou, P. Kowal, B. Page, M.J. Bogard <br>
