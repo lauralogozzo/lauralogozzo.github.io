@@ -3,7 +3,7 @@ layout: blog
 title:  "Watershed DOC uptake occurs mostly in lakes in the summer and in rivers in the winter"
 date:   Jan 30 2023
 categories: Publications
-tags: sticky
+tags:
 image: "/images/THOM-thumbnail.PNG"
 
 ---
