@@ -43,38 +43,6 @@ lateral carbon inputs and outputs.
     </div>
 </div>
 
-
-<h4 align = "center"> Evaluating the effects of agricultural land use on wetland greenhouse gas emissions </h4>
-
-<div class="jumbotron">
-    <div class="pl-4 pr-0 h-100 tofront">
-    <img src="/images/ppr-cropped-wetland.png" caption="" position="left" align="left" width="320" style="padding:15px">
-
-        <div class="row justify-content-between">
-            <div class="col-md-6 pt-6 pb-6 pr-lg-4 align-self-center">
-                <p class="mb-3 lead" align="justify">
-
-The Prairie Pothole Region (PPR) is the largest wetland complex in North America, with 
-millions of wetlands punctuating the landscapes of Canada and the United States. In this region, 
-wetlands have been dramatically impacted by agricultural land use, with unclear implications 
-for regional to global greenhouse gas emissions budgets. To address this, we surveyed wetlands across 
-all three Canadian prairie provinces in the PPR to determine whether greenhouse gas emissions patterns of carbon 
-dioxide (CO<font size=2><sub>2</sub></font>), methane (CH<font size=2><sub>4</sub></font>), 
-and nitrous oxide (N<font size=2><sub>2</sub></font>O) from aquatic habitats differed among 
-wetlands embedded in cropland versus grassland habitats. This is an important step toward 
-understanding wetland emissions responses to land use in the PPR and other wetland-rich 
-agricultural landscapes.
-
-                </p>
-            </div>
-            <div class="col-md-6 d-none d-md-block pr-0" style="background-size:cover;background-image:{{ post.image }};">	
-
-            </div>
-        </div>
-    </div>
-</div>
-
-
 <h4 align = "center"> Illuminating riverine dissolved organic carbon dynamics using carbon age </h4>
 
 <div class="jumbotron">
@@ -110,6 +78,44 @@ NASA Connecticut Space Grant.
 
 ---
 <h2 align="center" style="font-family:'Helvetica',sans-serif; font-weight:normal"> Past </h2>
+
+
+<h4 align = "center"> Evaluating the effects of agricultural land use on wetland greenhouse gas emissions </h4>
+
+<div class="jumbotron">
+    <div class="pl-4 pr-0 h-100 tofront">
+    <img src="/images/ppr-cropped-wetland.png" caption="" position="left" align="left" width="320" style="padding:15px">
+
+        <div class="row justify-content-between">
+            <div class="col-md-6 pt-6 pb-6 pr-lg-4 align-self-center">
+                <p class="mb-3 lead" align="justify">
+
+The Prairie Pothole Region (PPR) is the largest wetland complex in North America, with 
+millions of wetlands punctuating the landscapes of Canada and the United States. In this region, 
+wetlands have been dramatically impacted by agricultural land use, with unclear implications 
+for regional to global greenhouse gas emissions budgets. To address this, we surveyed wetlands across 
+all three Canadian prairie provinces in the PPR to determine whether greenhouse gas emissions patterns of carbon 
+dioxide (CO<font size=2><sub>2</sub></font>), methane (CH<font size=2><sub>4</sub></font>), 
+and nitrous oxide (N<font size=2><sub>2</sub></font>O) from aquatic habitats differed among 
+wetlands embedded in cropland versus grassland habitats. This is an important step toward 
+understanding wetland emissions responses to land use in the PPR and other wetland-rich 
+agricultural landscapes.
+
+                </p>
+            </div>
+            <div class="col-md-6 d-none d-md-block pr-0" style="background-size:cover;background-image:{{ post.image }};">	
+
+            </div>
+        </div>
+    </div>
+</div>
+
+<p style ="font-family:'Helvetica',sans-serif;" align = "center"> 
+{% include button.html text="Publication" link="https://doi.org/10.1029/2024GB008209" color = "#EF5507" target="_blank_" %} 
+{% include button.html text="Data" link="https://doi.org/10.20383/103.01204" color = "#037458" target="_blank" %}
+</p>
+
+
 
 <h4 align = "center"> The coupling of dissolved iron and dissolved organic matter </h4>
 

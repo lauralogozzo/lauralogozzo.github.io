@@ -9,7 +9,7 @@ aside: false
 ---
 <h4> <a href="https://doi.org/10.1029/2024GB008209" target="_blank"> Agricultural land use impacts aquatic greenhouse gas emissions from Wetlands in the Canadian Prairie Pothole Region.</a> </h4>
 **Logozzo, L.A.**, C. Soued, L.E. Bortolotti, P. Badiou, P. Kowal, B. Page, M.J. Bogard <br>
-*In press* &middot; *Global Biogeochemical Cycles* &middot; <font style ="color:#F9564F"> Open Access </font>
+Mar 2025 &middot; *Global Biogeochemical Cycles* &middot; <font style ="color:#F9564F"> Open Access </font>
 
 <h4> <a href="https://doi.org/10.1029/2023JG007831" target="_blank"> Composition and Bioreactivity of Dissolved Organic Matter Leachates From End Members in a Mountain to Prairie Transitional River Valley </a> </h4>
 Zhou, X., **L.A. Logozzo**, S.E. Johnston, L. Zink, A.-L. Amerila, M.J. Bogard <br>
