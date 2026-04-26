@@ -134,6 +134,8 @@
 
 .archive {
   .grid__wrapper {
+  
+
     /* extend grid elements to the right */
 
     @include breakpoint($large) {
@@ -143,6 +145,7 @@
     @include breakpoint($x-large) {
       margin-inline-end: -1 * $right-sidebar-width;
     }
+    
   }
 }
 
@@ -241,13 +244,14 @@
 
   .archive__item-title {
     margin-bottom: 0;
+    font-size: 1em;
   }
 }
 
 .feature__item {
   position: relative;
   margin-bottom: 2em;
-  font-size: 1.125em;
+  font-size: 1em;
 
   @include breakpoint($small) {
     float: inline-start;

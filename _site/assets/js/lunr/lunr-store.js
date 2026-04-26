@@ -31,7 +31,7 @@ var store = [{
       },{
         "title": "Watershed DOC uptake occurs mostly in lakes in the summer and in rivers in the winter",
         "excerpt":"Maavara, T., C. Brinkerhoff, J.D. Hosen, K.S. Aho, L.A. Logozzo, J. Saiers, A. Stubbins, P.A. Raymond Jan 2023 · Limnology &amp; Oceanography River networks transport dissolved organic carbon (DOC) from terrestrial uplands to the coastal ocean. The extent to which a reach or lake within a river network uptakes DOC...","categories": ["Publications"],
-        "tags": [],
+        "tags": ["sticky"],
         "url": "/publications/Maavara2023lo/",
         "teaser": "/assets/images/THOM-thumbnail.PNG"
       },{
