@@ -1,146 +1,334 @@
-# Site configuration
-# 1. Files excluded from Jekyll builds
-# 2. Installed Gems
-# 3. Gem settings
-# 4. Jekyll settings
-# 5. Collections
-# 6. Jekyll collections settings
-# 7. Site settings
-# 8. Site favicons & manifest icons
-# 9. Site navigation
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your entire site, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# `jekyll serve`. If you change this file, please restart the server process.
 
-# 1. Files excluded from Jekyll builds
-exclude:
-- README.md
-- CODE_OF_CONDUCT.md
-- CONTRIBUTING.md
-- screenshot.png
-- LICENSE
-- CNAME
-- Gemfile
-- Gemfile.lock
-- alembic-jekyll-theme.gemspec
-- .jekyll-cache
+# Theme Settings
+#
+# Review documentation to determine if you should use `theme` or `remote_theme`
+# https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-# 2. Installed Gems
-plugins:
-- jekyll-sitemap
-- jekyll-mentions
-- jekyll-paginate
-- jekyll-seo-tag
-- jekyll-redirect-from
-- jekyll-feed
-- jekyll-commonmark
-- jekyll-include-cache
-- jemoji
+# theme                  : "minimal-mistakes-jekyll"
+# remote_theme           : "mmistakes/minimal-mistakes"
+minimal_mistakes_skin    : "custom" #default # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "catppuccin_latte", "catppuccin_mocha"
 
-# 3. Gem settings
-paginate: 2 # jekyll-paginate > items per page
-paginate_path: blog/page:num # jekyll-paginate > blog page
-jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
+# Site Settings
+locale                   : "en-US"
+direction                : # "ltr" (default), "rtl" # set the direction of the page
+title                    : "Laura Logozzo"
+title_separator          : "-"
+subtitle                 : # site tagline that appears below site title in masthead
+name                     : Laura Logozzo
+description              : "An amazing website."
+url                      : https://lauralogozzo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : # the subpath of your site, e.g. "/blog"
+repository               : lauralogozzo/lauralogozzo.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo                     : "/assets/images/watersample.png"
+masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+breadcrumbs              : # true, false (default)
+words_per_minute         : 200
+enable_copy_code_button  : # true, false (default)
+copyright                : # "copyright" name, defaults to site.title
+copyright_url            : # "copyright" URL, defaults to site.url
+comments:
+  provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
+  disqus:
+    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+  discourse:
+    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
+  facebook:
+    # https://developers.facebook.com/docs/plugins/comments
+    appid                :
+    num_posts            : # 5 (default)
+    colorscheme          : # "light" (default), "dark"
+  utterances:
+    theme                : # "github-light" (default), "github-dark"
+    issue_term           : # "pathname" (default)
+  giscus:
+    repo_id              : # Shown during giscus setup at https://giscus.app
+    category_name        : # Full text name of the category
+    category_id          : # Shown during giscus setup at https://giscus.app
+    discussion_term      : # "pathname" (default), "url", "title", "og:title"
+    reactions_enabled    : # '1' for enabled (default), '0' for disabled
+    theme                : # "light" (default), "dark", "dark_dimmed", "transparent_dark", "preferred_color_scheme"
+    strict               : # 1 for enabled, 0 for disabled (default)
+    input_position       : # "top", "bottom" # The comment input box will be placed above or below the comments
+    emit_metadata        : # 1 for enabled, 0 for disabled (default) # https://github.com/giscus/giscus/blob/main/ADVANCED-USAGE.md#imetadatamessage
+    lang                 : # "en" (default)
+    lazy                 : # true, false # Loading of the comments will be deferred until the user scrolls near the comments container.
+  staticman:
+    branch               : # "master"
+    endpoint             : # "https://{your Staticman v3 API}/v3/entry/github/"
+reCaptcha:
+  siteKey                :
+  secret                 :
+atom_feed:
+  path                   : # blank (default) uses feed.xml
+  hide                   : # true, false (default)
+search                   : # true, false (default)
+search_full_content      : # true, false (default)
+search_provider          : # lunr (default), algolia, google
+lunr:
+  search_within_pages    : # true, false (default)
+algolia:
+  application_id         : # YOUR_APPLICATION_ID
+  index_name             : # YOUR_INDEX_NAME
+  search_only_api_key    : # YOUR_SEARCH_ONLY_API_KEY
+  powered_by             : # true (default), false
+google:
+  search_engine_id       : # YOUR_SEARCH_ENGINE_ID
+  instant_search         : # false (default), true
+# SEO Related
+google_site_verification :
+bing_site_verification   :
+naver_site_verification  :
+yandex_site_verification :
+baidu_site_verification  :
+
+# Social Sharing
 twitter:
-  username: # jekyll-seo-tag > Owners twitter username
-author: lauralogozzo # jekyll-seo-tag > default author
-social: # jekyll-seo-tag > social overrides
-  name: Laura Logozzo # jekyll-seo-tag > real name
-  links:  # jekyll-seo-tag > social aliases (sameAs)
+  username               :
+facebook:
+  username               :
+  app_id                 :
+  publisher              :
+og_image                 : # Open Graph/Twitter default site image
+og_image_alt             : # Alt text for Open Graph/Twitter default site image
+# For specifying social profiles
+# - https://developers.google.com/structured-data/customize/social-profiles
+social:
+  type                   : # Person or Organization (defaults to Person)
+  name                   : # If the user or organization name differs from the site's name
+  links: # An array of links to social media profiles
     - https://www.linkedin.com/in/lauralogozzo
     - https://github.com/lauralogozzo
-# markdown: CommonMark # Markdown parse settings, CommonMark performs slightly better an others in build time
-# commonmark:
-  # options: ["SMART", "FOOTNOTES"]
-  # extensions: ["strikethrough", "autolink", "table"]
 
-# 4. Jekyll settings
+# Analytics
+analytics:
+  provider               : google-gtag # false (default), "google", "google-universal", "google-gtag", "custom"
+  google:
+    tracking_id          : 'G-KYCFGSLF7L'
+    anonymize_ip         : # true, false (default)
+
+
+# Site Author
+author:
+  name             : " "
+  avatar           : "/assets/images/Laura_Portrait2.jpg"
+  bio              : "**Laura Logozzo** is an Associate Scientist at the Hudson River Foundation."
+  location         : "New York, NY"
+  email            : "laura.ann.logozzo@gmail.com"
+  # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
+  links:
+    - label: "laura.ann.logozzo@gmail.com"
+      icon: "fas fa-fw fa-square-envelope"
+      # url: mailto:laura.ann.logozzo@gmail.com
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-square-linkedin"
+      url: https://linkedin.com/lauralogozzo
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-google-scholar"
+      url: https://scholar.google.com/lauralogozzo
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: https://github.com/lauralogozzo
+    - label: "Read my CV"
+      icon: "fa-solid fa-file"
+      url: /assets/laura-logozzo-cv2.pdf
+
+
+# Site Footer
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-square-x-twitter"
+      # url:
+      # rel: "me"  # optional: adds rel attribute (e.g. for IndieWeb web sign-in)
+    - label: "Facebook"
+      icon: "fab fa-fw fa-square-facebook"
+      # url:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: https://github.com/lauralogozzo
+    - label: "GitLab"
+      icon: "fab fa-fw fa-gitlab"
+      # url:
+    - label: "Bitbucket"
+      icon: "fab fa-fw fa-bitbucket"
+      # url:
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      # url:
+  since: "2020"
+
+# Reading Files
+include:
+  - .htaccess
+  - _pages
+exclude:
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - vendor
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - assets/js/plugins
+  - assets/js/_main.js
+  - assets/js/vendor
+  - Capfile
+  - CHANGELOG
+  - config
+  - Gemfile
+  - Gruntfile.js
+  - gulpfile.js
+  - LICENSE
+  - log
+  - minimal-mistakes-jekyll.gemspec
+  - node_modules
+  - package.json
+  - package-lock.json
+  - Rakefile
+  - README
+  - tmp
+  - /docs # ignore Minimal Mistakes /docs
+  - /test # ignore Minimal Mistakes /test
+keep_files:
+  - .git
+  - .svn
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
+
+# Conversion
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
+
+# Markdown Processing
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+
+# Sass/SCSS
 sass:
-  style: compressed # Style compression
-permalink: pretty  # Permalink style (/YYYY/MM/DD/page-name/)
-excerpt_separator: <!-- more --> # Marks end of excerpt in posts
-timezone: New York City # Timezone for blog posts and alike
+  sass_dir: _sass
+  style: compressed # https://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+  quiet_deps: true
+  silence_deprecations: ['import']
 
-# 5. Collections
-collections:
-  posts:
-    title: Posts # Needed for Siteleaf
-    output: true
-    description: "" # The post list page content
-    feature_text: |
-      
-    feature_image: ""
 
-# 6. Jekyll collections settings
+# Outputting
+permalink: /:categories/:title/
+timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+
+# Pagination with jekyll-paginate
+paginate: 2 # amount of posts to show
+paginate_path: /page:num/
+
+# Pagination with jekyll-paginate-v2
+# See https://github.com/sverrirs/jekyll-paginate-v2/blob/master/README-GENERATOR.md#site-configuration
+#   for configuration details
+pagination:
+  # Set enabled to true to use paginate v2
+  # enabled: true
+  debug: false
+  collection: 'posts'
+  per_page: 10
+  permalink: '/page/:num/'
+  title: ':title - page :num'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
+  category: 'posts'
+  tag: ''
+  locale: ''
+  trail:
+    before: 2
+    after: 2
+
+
+# Plugins (previously gems:)
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
+
+# mimic GitHub Pages with --safe
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
+
+
+# Archives
+#  Type
+#  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
+#  - Jekyll Archives plugin archive pages ~> type: jekyll-archives
+#  Path (examples)
+#  - Archive page should exist at path when using Liquid method or you can
+#    expect broken links (especially with breadcrumbs enabled)
+#  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
+#  - <base_path>/categories/my-awesome-category/index.html ~> path: /categories/
+#  - <base_path>/my-awesome-category/index.html ~> path: /
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
+show_taxonomy: false  # set to false to hide tag/category lists on posts
+# https://github.com/jekyll/jekyll-archives
+# jekyll-archives:
+#   enabled:
+#     - categories
+#     - tags
+#   layouts:
+#     category: archive-taxonomy
+#     tag: archive-taxonomy
+#   permalinks:
+#     category: /categories/:name/
+#     tag: /tags/:name/
+
+
+# HTML Compression
+# - https://jch.penibelst.de/
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
+
+
+# Defaults
 defaults:
-  -
-    scope:
+  # _posts
+  - scope:
       path: ""
+      type: posts
     values:
-      image: "/images/Laura_Portrait2.jpg" # Default image for sharing
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: post # Set the default layout for posts
-  -
-    scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: page # Set the default layout for pages
+      layout: single
+      author_profile: true
+      read_time: false
+      tags: false
+      comments: false
+      share: true
+      related: true
 
-# 7. Site settings
-encoding: utf-8 # Make sure the encoding is right
-lang: en-US # Set the site language
-title: "Laura Logozzo" # Site name or title, also used in jekyll-seo-tag
-logo: "/assets/logos/laura-logo.svg" # Site logo, also used in jekyll-seo-tag
-description: "" # Site description and default description, also used in jekyll-seo-tag
-url: "lauralogozzo.github.io" # Site url, also used in jekyll-seo-tag
-baseurl: ""
-repo: "https://github.com/lauralogozzo/lauralogozzo.github.io"
-email: "laura.ann.logozzo@gmail.com"
-# Google Analytics
-google_analytics: 'G-KYCFGSLF7L'
-# google_analytics_anonymize_ip: ''
-# disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
-# service_worker: false # Will turn off the service worker if set to false
-css_inline: true # Will insert all styles into a single <style> block in the <head> element and remove the style <link> reference
-
-# 8. Site favicons & manifest icons
-favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
-  16: '/assets/logos/watersample.png'
-  32: '/assets/logos/watersample.png'
-  96: '/assets/logos/watersample.png'
-  120: '/assets/logos/watersample.png'
-  144: '/assets/logos/watersample.png'
-  180: '/assets/logos/watersample.png'
-  512: '/assets/logos/watersample.png'
-  1024: '/assets/logos/watersample.png'
-
-# 9. Site navigation
-navigation_header:
-- title: Home
-  url: /
-- title: Research
-  url: /Research/
-- title: Publications
-  url: /Publications/
-- title: Data & Code
-  url: /Data/
-- title: Contact Me
-  url: /Contact/
-
-navigation_footer:
-- title: Site theme created by David Darnes
-  url: https://darn.es
-
-social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
-  Twitter: 
-  LinkedIn: https://www.linkedin.com/in/lauralogozzo
-  GitHub: https://github.com/lauralogozzo
-  link: 
-  RSS: 
-
-sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
-  Twitter: "#0d94e7"
-  facebook: "#3B5998"
-  Email: true

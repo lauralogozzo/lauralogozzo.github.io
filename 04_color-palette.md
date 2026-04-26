@@ -1,9 +1,9 @@
 ---
-title:
+layout: single
+title: Color Palette
 permalink: /Color-Palette/
-order: 
-feature_text: <h1 style="color:#FFFFFF; font-family:sans-serif; font-weight:normal"> Color Palette </h1>
-feature_image: "/images/myCols-All.svg"
+header:
+  overlay_image: "/assets/images/myCols-All.svg"
 
 ---
 A set of functions to display the available color palettes (see plotCols) and to load a color
@@ -54,8 +54,6 @@ th, td {
 </table>
 
 <br>
-{% include figure.html image="/images/myCols-ramp.svg" caption="Ramped Color Palettes" width="500" height="800" %}
-{% include figure.html image="/images/myCols-categorical.svg" caption="Categorical Color Palettes" width="500" height="800"%}
 
 Function to pull the desired color palette by name:
 <pre>
@@ -124,8 +122,6 @@ ggplot(data=iris, aes(Petal.Length,Sepal.Length, color = Species)) +
   </code>
 </pre>
 
-{% include figure.html image="/images/ggplot-Example.svg" caption="Plotted species (categorical) by color using the chosen palette - ggplot" width="500" height="800" %}
-
 An example of a gradient palette for continuous data in <em>ggplot</em>:
 <pre>
   <code>
@@ -143,7 +139,4 @@ ggplot(data=iris, aes(Petal.Length,Sepal.Length, color = Petal.Width)) +
 
   </code>
 </pre>
-
-{% include figure.html image="/images/ggplot-Scale-Example.svg" caption="Plotted petal width (continuous) by color using the chosen palette - ggplot" width="500" height="800" %}
-
 

@@ -1,12 +1,19 @@
 ---
-layout: page
-title: 
+layout: single
+title:  Publications
 permalink: /Publications/
-feature_text: <h1 style="color:#FFFFFF; font-family:sans-serif; font-weight:normal"> Publications </h1>
-feature_image: "/images/ESSX-winter-landscape.jpeg"
-order: 2
-aside: false
+header:
+  overlay_image: "/assets/images/ESSX-winter-landscape.jpeg"
 ---
+
+<h4> <a href = "https://doi.org/10.1126/science.adu9843" target = "_blank">River metabolism in the contiguous United States: A West of extremes</a></h4>
+Maavara, T., Z. Yuan, A.M. Johnson, S. Zhang, K.S. Aho, C. Brinkerhoff, **L.A. Logozzo**, P.A. Raymond <br>
+Nov 2025 &middot; *Science*
+
+<h4> <a href="https://pubs.acs.org/doi/10.1021/acsomega.5c01053" target="_blank">Extreme Sensitivity of Greenhouse Gas Production in Mineral Wetland Sediments under Multiple Salinization Regimes</a></h4>
+Valizadeh, S., **L.A. Logozzo**, N. Enayatizamir, M.J. Bogard
+Jul 2025 &middot; *ACS Omega* &middot; <font style ="color:#F9564F"> Open Access </font>
+
 <h4> <a href="https://doi.org/10.1029/2024GB008209" target="_blank"> Agricultural land use impacts aquatic greenhouse gas emissions from Wetlands in the Canadian Prairie Pothole Region.</a> </h4>
 **Logozzo, L.A.**, C. Soued, L.E. Bortolotti, P. Badiou, P. Kowal, B. Page, M.J. Bogard <br>
 Mar 2025 &middot; *Global Biogeochemical Cycles* &middot; <font style ="color:#F9564F"> Open Access </font>

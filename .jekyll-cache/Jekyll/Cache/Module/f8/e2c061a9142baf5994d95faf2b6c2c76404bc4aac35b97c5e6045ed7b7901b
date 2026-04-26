@@ -1,0 +1,50 @@
+I"C
+
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav" aria-label="Primary navigation">
+        
+          <a class="site-logo" href="/"><img src="/assets/images/watersample.png" alt="Laura Logozzo"></a>
+        
+        <a class="site-title" href="/">
+          Laura Logozzo
+          
+        </a>
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a
+                href="/"
+                
+                
+              >Home</a>
+            </li><li class="masthead__menu-item">
+              <a
+                href="/Research/"
+                
+                
+              >Research</a>
+            </li><li class="masthead__menu-item">
+              <a
+                href="/Publications/"
+                
+                
+              >Publications</a>
+            </li><li class="masthead__menu-item">
+              <a
+                href="/Data/"
+                
+                
+              >Data & Code</a>
+            </li></ul>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+:ET

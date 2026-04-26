@@ -1,62 +1,37 @@
-<!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
+---
+---
+{%- assign locale = page.locale | default: layout.locale | default: site.locale %}
 
+<!doctype html>
+{% include copyright.html %}
+<html lang="{{ locale | replace: '_', '-' | default: 'en' }}" class="no-js" dir="{{ page.direction | default: layout.direction | default: site.direction | default: 'ltr' }}">
   <head>
-    <!-- General meta -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
-    {% if page.indexing == false %}
-      <meta name="robots" content="noindex">
-    {% endif %}
-
-    {% if page.collectionpage %}
-      {% seo title=false %}
-
-      {% assign collectiondata = site.collections | where: "label", page.collectionpage | first %}
-      <title>{{ collectiondata.title }} - {{ site.title }}</title>
-      <meta property="og:title" content="{{ collectiondata.title }}">
-      <meta name="description" content="{{ collectiondata.description }}">
-      <meta property="og:description" content="{{ collectiondata.description }}">
-    {% else %}
-      {% seo %}
-    {% endif %}
-
-    <link rel="manifest" href="{{ "/manifest.json" | relative_url }}">
-    <meta name="theme-color" content="{{ site.manifest.theme_color | default: '#242e2b' }}"/>
-
-    {% if site.css_inline == true %}
-      {% include site-styles.html %}
-    {% else %}
-      <link rel="stylesheet" href="{{ "/assets/styles.css" | relative_url }}">
-    {% endif %}
-
-    {% if site.favicons or site.avatarurl %}{% include site-favicons.html %}{% endif %}
-
-    {% if site.google_analytics %}{% include site-analytics.html %}{% endif %}
-
-    {% include site-before-start.html %}
-    
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-KYCFGSLF7L"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-KYCFGSLF7L');
-</script>
-    
+    {% include head.html locale=locale %}
+    {% include head/custom.html %}
   </head>
 
-  <body class="layout-{{ page.layout }}{% if page.title %}  {{ page.title | slugify }}{% endif %}">
-    {% include site-icons.svg %}
+  <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
+    {% include_cached skip-links.html locale=locale %}
+    {% include_cached masthead.html locale=locale %}
 
-    {{ content }}
+    <div class="initial-content">
+      {{ content }}
+      {% include after-content.html %}
+    </div>
 
-    {% if site.service_worker != false %}{% include site-sw.html %}{% endif %}
+    {% if site.search == true %}
+      <div class="search-content">
+        {% include_cached search/search_form.html locale=locale %}
+      </div>
+    {% endif %}
 
-    {% include site-before-end.html %}
+    <div id="footer" class="page__footer">
+      <footer>
+        {% include footer/custom.html %}
+        {% include_cached footer.html locale=locale %}
+      </footer>
+    </div>
+
+    {% include scripts.html locale=locale %}
   </body>
-
 </html>

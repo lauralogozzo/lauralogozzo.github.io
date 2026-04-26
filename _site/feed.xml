@@ -1,241 +1,239 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2024-03-14T22:41:28+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Laura Logozzo</title><subtitle></subtitle><author><name>lauralogozzo</name></author><entry><title type="html">Distinct drivers of two fractions of operationally dissolved iron in a temperate river</title><link href="http://localhost:4000/publications/2023/04/05/Logozzo/" rel="alternate" type="text/html" title="Distinct drivers of two fractions of operationally dissolved iron in a temperate river" /><published>2023-04-05T00:00:00+00:00</published><updated>2023-04-05T00:00:00+00:00</updated><id>http://localhost:4000/publications/2023/04/05/Logozzo</id><content type="html" xml:base="http://localhost:4000/publications/2023/04/05/Logozzo/">&lt;h5 id=&quot;logozzo-l-jd-hosen-j-mcarthur-p-raymond-&quot;&gt;Logozzo, L., J.D. Hosen, J. McArthur, P. Raymond &lt;br /&gt;&lt;/h5&gt;
-&lt;h6 id=&quot;apr-2023--limnology--oceanography&quot;&gt;Apr 2023 · &lt;em&gt;Limnology &amp;amp; Oceanography&lt;/em&gt;&lt;/h6&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;figure class=&quot;figure  figure--center&quot;&gt; 
-  
-  &lt;img class=&quot;image&quot; src=&quot;/images/Figure1.png&quot; alt=&quot;&quot; width=&quot;&quot; height=&quot;&quot; /&gt;
-  
-  &lt;figcaption class=&quot;caption&quot;&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2026-04-26T11:33:40-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Laura Logozzo</title><subtitle>An amazing website.</subtitle><author><name> </name><email>laura.ann.logozzo@gmail.com</email></author><entry><title type="html">Agricultural land use impacts aquatic greenhouse gas emissions from wetlands in the Canadian Prairie Pothole Region</title><link href="http://localhost:4000/publications/Logozzo2025gbc/" rel="alternate" type="text/html" title="Agricultural land use impacts aquatic greenhouse gas emissions from wetlands in the Canadian Prairie Pothole Region" /><published>2025-03-15T00:00:00-04:00</published><updated>2025-03-15T00:00:00-04:00</updated><id>http://localhost:4000/publications/Logozzo2025gbc</id><content type="html" xml:base="http://localhost:4000/publications/Logozzo2025gbc/"><![CDATA[<p><strong>Logozzo, L.A.</strong>, C. Soued, L.E. Bortolotti, P. Badiou, P. Kowal, B. Page, M.J. Bogard
+<br />
+Mar 2025 · <em>Global Biogeochemical Cycles</em></p>
 
-&lt;p align=&quot;justify&quot;&gt;
-Riverine dissolved iron (Fe) affects water color, nutrients, and marine carbon cycling. 
-Fe size and coupling with dissolved organic matter (DOM), in part, modulates the 
-biogeochemical roles of riverine Fe. We used size fractionation to operationally define 
-dissolved Fe (&amp;lt; 0.22 μm) into soluble (&amp;lt; 0.02 μm) and colloidal (0.02–0.22 μm) fractions 
-in order to characterize the downstream drivers, concentrations, and fluxes of Fe across 
-season and hydrologic regime at the freshwater Connecticut River mainstem, which we 
-sampled bi-weekly for 2 yrs. Drivers of colloidal and soluble Fe concentrations were 
-markedly different. The response of colloidal Fe concentration to changes in discharge was 
-modulated by water temperature; colloidal Fe decreased with increasing discharge at 
-temperatures &amp;lt; 10.5°C, but increased with increasing discharge at temperatures &amp;gt; 10.5°C. 
-Conversely, soluble Fe concentrations were only positively correlated to discharge at high 
-temperatures (&amp;gt; 20°C). Soluble Fe was strongly positively correlated to a humic-like DOM 
-fluorescence component, suggesting coupling with DOM subsets, potentially through 
-complexation. While average colloidal Fe fluxes varied twofold seasonally, soluble Fe 
-fluxes varied ninefold; therefore, soluble Fe variability was more important to the 
-overall dissolved Fe variability than colloidal Fe, despite lower concentrations. Seasonal 
-Fe fluxes were decoupled from discharge: dissolved and soluble Fe fluxes were greatest in 
-the fall, whereas discharge was greatest in the spring. Fluxes of soluble Fe, which may be 
-more bioavailable and more likely to be exported to the ocean, were lowest in the summer 
-when downstream biological demand is high, having implications for primary productivity 
+<p><img src="/assets/images/gcb graphical abstract.svg" alt="" /></p>
+
+<p align="justify">
+The Prairie Pothole Region (PPR) is the largest wetland complex in North America, with
+millions of wetlands punctuating the landscapes of Canada and the United States. Here,
+wetlands have been dramatically impacted by agricultural land use, with unclear implications
+ for regional to global greenhouse gas (GHG) emissions budgets. By surveying wetlands
+ across all three Canadian prairie provinces in the PPR, we show that emissions patterns
+ of carbon dioxide (CO<sub>2</sub>), methane (CH<sub>4</sub>), and nitrous oxide (N<sub>2</sub>O) from aquatic habitats
+ differ among wetlands embedded in cropland versus perennial landcover. Wetlands in
+ cropped landscapes had double the aquatic diffusive emissions
+ (20.6 ± 31.5 vs. 9.4 ± 17.3 g CO<sub>2</sub>-eq m<sup>−2</sup> d<sup>−1</sup>) largely driven by CH<sub>4</sub>. Structural equation
+ modeling showed that all three GHGs responded differently to the surrounding landscape
+ properties. Emissions of CH<sub>4</sub> were the most sensitive to land use, responding positively
+ to the elevated phosphorus content and lower sulfate content in cropped settings, despite
+ higher organic matter content in wetlands in perennial landscapes. Aquatic N2O emissions
+ were negligible, while CO<sub>2</sub> emissions were high, but not strongly related to agricultural
+ land use. While our estimates of aquatic CH<sub>4</sub> emissions from PPR wetlands were high
+ (18.2 ± 41.4 mmol CH<sub>4</sub> m<sup>−2</sup> d<sup>−1</sup>), accounting for fluxes from vegetated and soil habitats
+ would lead to whole-wetland emissions rates that are lower and comparable to wetlands
+ in other biomes. Our study represents an important step toward understanding wetland
+ emission responses to land use in the PPR and other wetland-rich agricultural landscapes.
+</p>
+
+<p><a class="btn btn--primary" href="https://doi.org/10.1029/2024GB008209" target="_blank">Read more <i class="fa-solid fa-arrow-up-right-from-square"></i></a></p>
+
+<p><br /></p>]]></content><author><name> </name><email>laura.ann.logozzo@gmail.com</email></author><category term="Publications" /><category term="sticky" /><summary type="html"><![CDATA[Logozzo, L.A., C. Soued, L.E. Bortolotti, P. Badiou, P. Kowal, B. Page, M.J. Bogard Mar 2025 · Global Biogeochemical Cycles]]></summary></entry><entry><title type="html">Distinct drivers of two fractions of operationally dissolved iron in a temperate river</title><link href="http://localhost:4000/publications/Logozzo2023lo/" rel="alternate" type="text/html" title="Distinct drivers of two fractions of operationally dissolved iron in a temperate river" /><published>2023-04-05T00:00:00-04:00</published><updated>2023-04-05T00:00:00-04:00</updated><id>http://localhost:4000/publications/Logozzo2023lo</id><content type="html" xml:base="http://localhost:4000/publications/Logozzo2023lo/"><![CDATA[<p><strong>Logozzo, L.A.</strong>, J.D. Hosen, J. McArthur, P. Raymond <br />
+Apr 2023 · <em>Limnology &amp; Oceanography</em></p>
+
+<p><img src="/assets/images/Figure1.png" alt="" /></p>
+
+<p align="justify">
+Riverine dissolved iron (Fe) affects water color, nutrients, and marine carbon cycling.
+Fe size and coupling with dissolved organic matter (DOM), in part, modulates the
+biogeochemical roles of riverine Fe. We used size fractionation to operationally define
+dissolved Fe (&lt; 0.22 μm) into soluble (&lt; 0.02 μm) and colloidal (0.02–0.22 μm) fractions
+in order to characterize the downstream drivers, concentrations, and fluxes of Fe across
+season and hydrologic regime at the freshwater Connecticut River mainstem, which we
+sampled bi-weekly for 2 yrs. Drivers of colloidal and soluble Fe concentrations were
+markedly different. The response of colloidal Fe concentration to changes in discharge was
+modulated by water temperature; colloidal Fe decreased with increasing discharge at
+temperatures &lt; 10.5°C, but increased with increasing discharge at temperatures &gt; 10.5°C.
+Conversely, soluble Fe concentrations were only positively correlated to discharge at high
+temperatures (&gt; 20°C). Soluble Fe was strongly positively correlated to a humic-like DOM
+fluorescence component, suggesting coupling with DOM subsets, potentially through
+complexation. While average colloidal Fe fluxes varied twofold seasonally, soluble Fe
+fluxes varied ninefold; therefore, soluble Fe variability was more important to the
+overall dissolved Fe variability than colloidal Fe, despite lower concentrations. Seasonal
+Fe fluxes were decoupled from discharge: dissolved and soluble Fe fluxes were greatest in
+the fall, whereas discharge was greatest in the spring. Fluxes of soluble Fe, which may be
+more bioavailable and more likely to be exported to the ocean, were lowest in the summer
+when downstream biological demand is high, having implications for primary productivity
 and iron uptake.
-&lt;/p&gt;
+</p>
 
-&lt;p&gt;&lt;a href=&quot;https://doi.org/10.1002/lno.12338&quot; target=&quot;_blank&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+<p><a class="btn btn--primary" href="https://doi.org/10.1002/lno.12338" target="_blank">Read more <i class="fa-solid fa-arrow-up-right-from-square"></i></a></p>
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;</content><author><name>lauralogozzo</name></author><category term="Publications" /><category term="sticky" /><summary type="html">Logozzo, L., J.D. Hosen, J. McArthur, P. Raymond Apr 2023 · Limnology &amp;amp; Oceanography Riverine dissolved iron (Fe) affects water color, nutrients, and marine carbon cycling. Fe size and coupling with dissolved organic matter (DOM), in part, modulates the biogeochemical roles of riverine Fe. We used size fractionation to operationally define dissolved Fe (&amp;lt; 0.22 μm) into soluble (&amp;lt; 0.02 μm) and colloidal (0.02–0.22 μm) fractions in order to characterize the downstream drivers, concentrations, and fluxes of Fe across season and hydrologic regime at the freshwater Connecticut River mainstem, which we sampled bi-weekly for 2 yrs. Drivers of colloidal and soluble Fe concentrations were markedly different. The response of colloidal Fe concentration to changes in discharge was modulated by water temperature; colloidal Fe decreased with increasing discharge at temperatures &amp;lt; 10.5°C, but increased with increasing discharge at temperatures &amp;gt; 10.5°C. Conversely, soluble Fe concentrations were only positively correlated to discharge at high temperatures (&amp;gt; 20°C). Soluble Fe was strongly positively correlated to a humic-like DOM fluorescence component, suggesting coupling with DOM subsets, potentially through complexation. While average colloidal Fe fluxes varied twofold seasonally, soluble Fe fluxes varied ninefold; therefore, soluble Fe variability was more important to the overall dissolved Fe variability than colloidal Fe, despite lower concentrations. Seasonal Fe fluxes were decoupled from discharge: dissolved and soluble Fe fluxes were greatest in the fall, whereas discharge was greatest in the spring. Fluxes of soluble Fe, which may be more bioavailable and more likely to be exported to the ocean, were lowest in the summer when downstream biological demand is high, having implications for primary productivity and iron uptake. Read more</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/Figure1.png" /><media:content medium="image" url="http://localhost:4000/images/Figure1.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Watershed DOC uptake occurs mostly in lakes in the summer and in rivers in the winter</title><link href="http://localhost:4000/publications/2023/01/30/Maavara/" rel="alternate" type="text/html" title="Watershed DOC uptake occurs mostly in lakes in the summer and in rivers in the winter" /><published>2023-01-30T00:00:00+00:00</published><updated>2023-01-30T00:00:00+00:00</updated><id>http://localhost:4000/publications/2023/01/30/Maavara</id><content type="html" xml:base="http://localhost:4000/publications/2023/01/30/Maavara/">&lt;h5 id=&quot;maavara-t-c-brinkerhoff-j-hosen-k-aho-l-logozzo-j-saiers-a-stubbins-p-raymond-&quot;&gt;Maavara, T., C. Brinkerhoff, J. Hosen, K. Aho, L. Logozzo, J. Saiers, A. Stubbins, P. Raymond &lt;br /&gt;&lt;/h5&gt;
-&lt;h6 id=&quot;jan-2023--limnology--oceanography&quot;&gt;Jan 2023 · &lt;em&gt;Limnology &amp;amp; Oceanography&lt;/em&gt;&lt;/h6&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;figure class=&quot;figure  figure--center&quot;&gt; 
-  
-  &lt;img class=&quot;image&quot; src=&quot;/images/THOM-thumbnail.PNG&quot; alt=&quot;&quot; width=&quot;&quot; height=&quot;&quot; /&gt;
-  
-  &lt;figcaption class=&quot;caption&quot;&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
+<p><br /></p>]]></content><author><name> </name><email>laura.ann.logozzo@gmail.com</email></author><category term="Publications" /><category term="sticky" /><summary type="html"><![CDATA[Logozzo, L.A., J.D. Hosen, J. McArthur, P. Raymond Apr 2023 · Limnology &amp; Oceanography]]></summary></entry><entry><title type="html">Watershed DOC uptake occurs mostly in lakes in the summer and in rivers in the winter</title><link href="http://localhost:4000/publications/Maavara2023lo/" rel="alternate" type="text/html" title="Watershed DOC uptake occurs mostly in lakes in the summer and in rivers in the winter" /><published>2023-01-30T00:00:00-05:00</published><updated>2023-01-30T00:00:00-05:00</updated><id>http://localhost:4000/publications/Maavara2023lo</id><content type="html" xml:base="http://localhost:4000/publications/Maavara2023lo/"><![CDATA[<p>Maavara, T., C. Brinkerhoff, J.D. Hosen, K.S. Aho, <strong>L.A. Logozzo</strong>, J. Saiers, A. Stubbins, P.A. Raymond <br />
+Jan 2023 · <em>Limnology &amp; Oceanography</em></p>
 
-&lt;p align=&quot;justify&quot;&gt;
-River networks transport dissolved organic carbon (DOC) from terrestrial uplands to the 
-coastal ocean. The extent to which a reach or lake within a river network uptakes DOC 
-depends on the stream order, the seasonal conditions, and the flow. At the watershed 
-scale, it remains unclear whether DOC uptake is dominated by biological processes such as 
-respiration, or abiotic processes like photomineralization. The partitioning of DOC uptake 
-in lakes vs. rivers is also unclear. In this study, we present a new model that unifies 
-year-round controls on DOC cycling for an entire river network, including river–lake 
-connectivity, to elucidate the importance of biotic vs. abiotic controls on DOC uptake. 
-We present the Catchment UPtake and Sinks by Season, Order, and Flow for DOC (CUPS-OF-DOC) 
-model, which quantifies terrestrial DOC loading, gross primary productivity, and uptake 
-via microbes and photomineralization. The model is applied to the Connecticut River 
-Watershed, and accounts for cascading reach- and lake-scale DOC cycling across 98 scenarios 
-spanning combinations of flows, seasons, and stream orders. We show that riverine DOC uptake 
-is nearly constant with stream order, but the proportion of DOC uptake from photomineralization 
-varies. Photomineralization dominates in rivers in most flow conditions and stream orders, 
-especially in winter, accounting for at least half of whole-watershed DOC uptake in February 
-across all flows. Whole-watershed summer DOC uptake occurs mostly via biomineralization 
-in lakes, accounting for 80% of DOC uptake during the growing season, despite accounting 
+<p><img src="/assets/images/THOM-thumbnail.PNG" alt="" /></p>
+
+<p align="justify">
+River networks transport dissolved organic carbon (DOC) from terrestrial uplands to the
+coastal ocean. The extent to which a reach or lake within a river network uptakes DOC
+depends on the stream order, the seasonal conditions, and the flow. At the watershed
+scale, it remains unclear whether DOC uptake is dominated by biological processes such as
+respiration, or abiotic processes like photomineralization. The partitioning of DOC uptake
+in lakes vs. rivers is also unclear. In this study, we present a new model that unifies
+year-round controls on DOC cycling for an entire river network, including river–lake
+connectivity, to elucidate the importance of biotic vs. abiotic controls on DOC uptake.
+We present the Catchment UPtake and Sinks by Season, Order, and Flow for DOC (CUPS-OF-DOC)
+model, which quantifies terrestrial DOC loading, gross primary productivity, and uptake
+via microbes and photomineralization. The model is applied to the Connecticut River
+Watershed, and accounts for cascading reach- and lake-scale DOC cycling across 98 scenarios
+spanning combinations of flows, seasons, and stream orders. We show that riverine DOC uptake
+is nearly constant with stream order, but the proportion of DOC uptake from photomineralization
+varies. Photomineralization dominates in rivers in most flow conditions and stream orders,
+especially in winter, accounting for at least half of whole-watershed DOC uptake in February
+across all flows. Whole-watershed summer DOC uptake occurs mostly via biomineralization
+in lakes, accounting for 80% of DOC uptake during the growing season, despite accounting
 for less than 6% of watershed open water surface area.
-&lt;/p&gt;
+</p>
 
-&lt;p&gt;&lt;a href=&quot;https://doi.org/10.1002/lno.12306&quot; target=&quot;_blank&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+<p><a class="btn btn--primary" href="https://doi.org/10.1002/lno.12306" target="_blank">Read more <i class="fa-solid fa-arrow-up-right-from-square"></i></a></p>
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;</content><author><name>lauralogozzo</name></author><category term="Publications" /><category term="sticky" /><summary type="html">Maavara, T., C. Brinkerhoff, J. Hosen, K. Aho, L. Logozzo, J. Saiers, A. Stubbins, P. Raymond Jan 2023 · Limnology &amp;amp; Oceanography River networks transport dissolved organic carbon (DOC) from terrestrial uplands to the coastal ocean. The extent to which a reach or lake within a river network uptakes DOC depends on the stream order, the seasonal conditions, and the flow. At the watershed scale, it remains unclear whether DOC uptake is dominated by biological processes such as respiration, or abiotic processes like photomineralization. The partitioning of DOC uptake in lakes vs. rivers is also unclear. In this study, we present a new model that unifies year-round controls on DOC cycling for an entire river network, including river–lake connectivity, to elucidate the importance of biotic vs. abiotic controls on DOC uptake. We present the Catchment UPtake and Sinks by Season, Order, and Flow for DOC (CUPS-OF-DOC) model, which quantifies terrestrial DOC loading, gross primary productivity, and uptake via microbes and photomineralization. The model is applied to the Connecticut River Watershed, and accounts for cascading reach- and lake-scale DOC cycling across 98 scenarios spanning combinations of flows, seasons, and stream orders. We show that riverine DOC uptake is nearly constant with stream order, but the proportion of DOC uptake from photomineralization varies. Photomineralization dominates in rivers in most flow conditions and stream orders, especially in winter, accounting for at least half of whole-watershed DOC uptake in February across all flows. Whole-watershed summer DOC uptake occurs mostly via biomineralization in lakes, accounting for 80% of DOC uptake during the growing season, despite accounting for less than 6% of watershed open water surface area. Read more</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/THOM-thumbnail.PNG" /><media:content medium="image" url="http://localhost:4000/images/THOM-thumbnail.PNG" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Contributions of Fe(III) to UV–Vis absorbance in river water: a case study on the Connecticut River and argument for the systematic tandem measurement of Fe(III) and CDOM</title><link href="http://localhost:4000/publications/2022/05/16/Logozzo/" rel="alternate" type="text/html" title="Contributions of Fe(III) to UV–Vis absorbance in river water: a case study on the Connecticut River and argument for the systematic tandem measurement of Fe(III) and CDOM" /><published>2022-05-16T00:00:00+00:00</published><updated>2022-05-16T00:00:00+00:00</updated><id>http://localhost:4000/publications/2022/05/16/Logozzo</id><content type="html" xml:base="http://localhost:4000/publications/2022/05/16/Logozzo/">&lt;h5 id=&quot;logozzo-l-j-martin-j-mcarthur-p-raymond-&quot;&gt;Logozzo, L., J. Martin, J. McArthur, P. Raymond &lt;br /&gt;&lt;/h5&gt;
-&lt;h6 id=&quot;may-2022--biogeochemistry&quot;&gt;May 2022 · &lt;em&gt;Biogeochemistry&lt;/em&gt;&lt;/h6&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;figure class=&quot;figure  figure--center&quot;&gt; 
-  
-  &lt;img class=&quot;image&quot; src=&quot;/images/FARM-fall-cropped.JPG&quot; alt=&quot;&quot; width=&quot;&quot; height=&quot;&quot; /&gt;
-  
-  &lt;figcaption class=&quot;caption&quot;&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
+<p><br /></p>]]></content><author><name> </name><email>laura.ann.logozzo@gmail.com</email></author><category term="Publications" /><summary type="html"><![CDATA[Maavara, T., C. Brinkerhoff, J.D. Hosen, K.S. Aho, L.A. Logozzo, J. Saiers, A. Stubbins, P.A. Raymond Jan 2023 · Limnology &amp; Oceanography]]></summary></entry><entry><title type="html">Contributions of Fe(III) to UV–Vis absorbance in river water: a case study on the Connecticut River and argument for the systematic tandem measurement of Fe(III) and CDOM</title><link href="http://localhost:4000/publications/Logozzo2022bgc/" rel="alternate" type="text/html" title="Contributions of Fe(III) to UV–Vis absorbance in river water: a case study on the Connecticut River and argument for the systematic tandem measurement of Fe(III) and CDOM" /><published>2022-05-16T00:00:00-04:00</published><updated>2022-05-16T00:00:00-04:00</updated><id>http://localhost:4000/publications/Logozzo2022bgc</id><content type="html" xml:base="http://localhost:4000/publications/Logozzo2022bgc/"><![CDATA[<p><strong>Logozzo, L.A.</strong>, J. Martin, J. McArthur, P.A. Raymond
+<br />
+May 2022 · <em>Biogeochemistry</em></p>
 
-&lt;p align=&quot;justify&quot;&gt;
-Dissolved organic matter (DOM) impacts the structure and function of aquatic ecosystems. 
-DOM absorbs light in the UV and visible (UV–Vis) wavelengths, thus impacting light 
-attenuation. Because absorption by DOM depends on its composition, UV–Vis absorbance is 
-used to constrain DOM composition, source, and amount. Ferric iron, Fe(III), also absorbs 
-in the UV–Vis; when Fe(III) is present, DOM-attributed absorbance is overestimated. Here, 
-we explore how differing behavior of DOM and Fe(III) at the catchment scale impacts UV–Vis 
-absorbance and evaluate how system-specific variability impacts the effectiveness of 
-existing Fe(III) correction factors in a temperate watershed. We sampled five sites 
-in the Connecticut River mainstem bi-weekly for ~ 1.5 years, and seven sites in the 
-Connecticut River watershed once during the summer 2019. We utilized size fractionation 
-to isolate the impact of DOM and Fe(III) on absorbance and show that variable contributions 
-of Fe(III) to absorbance at 254 nm (a&lt;font size=&quot;2&quot;&gt;&lt;sub&gt;254&lt;/sub&gt;&lt;/font&gt;) and 412 nm 
-(a&lt;font size=&quot;2&quot;&gt;&lt;sub&gt;412&lt;/sub&gt;&lt;/font&gt;) by size fraction complicates 
+<p><img src="/assets/images/FARM-fall-cropped.JPG" alt="" /></p>
+
+<p align="justify">
+Dissolved organic matter (DOM) impacts the structure and function of aquatic ecosystems.
+DOM absorbs light in the UV and visible (UV–Vis) wavelengths, thus impacting light
+attenuation. Because absorption by DOM depends on its composition, UV–Vis absorbance is
+used to constrain DOM composition, source, and amount. Ferric iron, Fe(III), also absorbs
+in the UV–Vis; when Fe(III) is present, DOM-attributed absorbance is overestimated. Here,
+we explore how differing behavior of DOM and Fe(III) at the catchment scale impacts UV–Vis
+absorbance and evaluate how system-specific variability impacts the effectiveness of
+existing Fe(III) correction factors in a temperate watershed. We sampled five sites
+in the Connecticut River mainstem bi-weekly for ~ 1.5 years, and seven sites in the
+Connecticut River watershed once during the summer 2019. We utilized size fractionation
+to isolate the impact of DOM and Fe(III) on absorbance and show that variable contributions
+of Fe(III) to absorbance at 254 nm (a<font size="2"><sub>254</sub></font>) and 412 nm
+(a<font size="2"><sub>412</sub></font>) by size fraction complicates
 correction for Fe(III). We demonstrate that the overestimation of DOM-attributed absorbance
-by Fe(III) is correlated to the Fe(III):dissolved organic carbon concentration ratio; 
-thus, overestimation can be high even when Fe(III) is low. a&lt;font size=&quot;2&quot;&gt;&lt;sub&gt;254&lt;/sub&gt;&lt;/font&gt; overestimation is highly
-variable even within a single system, but can be as high as 53%. Finally, we illustrate 
+by Fe(III) is correlated to the Fe(III):dissolved organic carbon concentration ratio;
+thus, overestimation can be high even when Fe(III) is low. a<font size="2"><sub>254</sub></font> overestimation is highly
+variable even within a single system, but can be as high as 53%. Finally, we illustrate
 that UV-Vis overestimation might impart bias to seasonal, discharge, and land-use trends
 in DOM quality. Together, these findings argue that Fe(III) should be measured in tandem
 with UV–Vis absorbance for estimates of CDOM composition or amount.
-&lt;/p&gt;
+</p>
 
-&lt;p&gt;&lt;a href=&quot;https://doi.org/10.1007/s10533-022-00937-5&quot; target=&quot;_blank&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+<p><a class="btn btn--primary" href="https://doi.org/10.1007/s10533-022-00937-5" target="_blank">Read more <i class="fa-solid fa-arrow-up-right-from-square"></i> </a></p>
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;</content><author><name>lauralogozzo</name></author><category term="Publications" /><category term="sticky" /><summary type="html">Logozzo, L., J. Martin, J. McArthur, P. Raymond May 2022 · Biogeochemistry Dissolved organic matter (DOM) impacts the structure and function of aquatic ecosystems. DOM absorbs light in the UV and visible (UV–Vis) wavelengths, thus impacting light attenuation. Because absorption by DOM depends on its composition, UV–Vis absorbance is used to constrain DOM composition, source, and amount. Ferric iron, Fe(III), also absorbs in the UV–Vis; when Fe(III) is present, DOM-attributed absorbance is overestimated. Here, we explore how differing behavior of DOM and Fe(III) at the catchment scale impacts UV–Vis absorbance and evaluate how system-specific variability impacts the effectiveness of existing Fe(III) correction factors in a temperate watershed. We sampled five sites in the Connecticut River mainstem bi-weekly for ~ 1.5 years, and seven sites in the Connecticut River watershed once during the summer 2019. We utilized size fractionation to isolate the impact of DOM and Fe(III) on absorbance and show that variable contributions of Fe(III) to absorbance at 254 nm (a254) and 412 nm (a412) by size fraction complicates correction for Fe(III). We demonstrate that the overestimation of DOM-attributed absorbance by Fe(III) is correlated to the Fe(III):dissolved organic carbon concentration ratio; thus, overestimation can be high even when Fe(III) is low. a254 overestimation is highly variable even within a single system, but can be as high as 53%. Finally, we illustrate that UV-Vis overestimation might impart bias to seasonal, discharge, and land-use trends in DOM quality. Together, these findings argue that Fe(III) should be measured in tandem with UV–Vis absorbance for estimates of CDOM composition or amount. Read more</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/FARM-fall-cropped.JPG" /><media:content medium="image" url="http://localhost:4000/images/FARM-fall-cropped.JPG" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Does photomineralization of dissolved organics matter in temperate rivers?</title><link href="http://localhost:4000/publications/2021/07/05/Maavara/" rel="alternate" type="text/html" title="Does photomineralization of dissolved organics matter in temperate rivers?" /><published>2021-07-05T00:00:00+00:00</published><updated>2021-07-05T00:00:00+00:00</updated><id>http://localhost:4000/publications/2021/07/05/Maavara</id><content type="html" xml:base="http://localhost:4000/publications/2021/07/05/Maavara/">&lt;h5 id=&quot;maavara-t-logozzo-l-stubbins-a-aho-k-brinkerhoff-c-hosen-j-raymond-p-&quot;&gt;Maavara, T., Logozzo, L., Stubbins, A., Aho, K., Brinkerhoff, C., Hosen, J., Raymond, P. &lt;br /&gt;&lt;/h5&gt;
-&lt;h6 id=&quot;july-2021--journal-of-geophysical-research-biogeosciences&quot;&gt;July 2021 · &lt;em&gt;Journal of Geophysical Research: Biogeosciences&lt;/em&gt;&lt;/h6&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;figure class=&quot;figure  figure--center&quot;&gt; 
-  
-  &lt;img class=&quot;image&quot; src=&quot;/images/THOM-thumbnail.PNG&quot; alt=&quot;&quot; width=&quot;&quot; height=&quot;&quot; /&gt;
-  
-  &lt;figcaption class=&quot;caption&quot;&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
+<p><br /></p>]]></content><author><name> </name><email>laura.ann.logozzo@gmail.com</email></author><category term="Publications" /><category term="sticky" /><summary type="html"><![CDATA[Logozzo, L.A., J. Martin, J. McArthur, P.A. Raymond May 2022 · Biogeochemistry]]></summary></entry><entry><title type="html">Does photomineralization of dissolved organics matter in temperate rivers?</title><link href="http://localhost:4000/publications/Maavara2021jgrbgs/" rel="alternate" type="text/html" title="Does photomineralization of dissolved organics matter in temperate rivers?" /><published>2021-07-05T00:00:00-04:00</published><updated>2021-07-05T00:00:00-04:00</updated><id>http://localhost:4000/publications/Maavara2021jgrbgs</id><content type="html" xml:base="http://localhost:4000/publications/Maavara2021jgrbgs/"><![CDATA[<p>Maavara, T., <strong>L.A. Logozzo</strong>, A. Stubbins, K.S. Aho, C. Brinkerhoff, J.D. Hosen, P.A. Raymond
+<br />
+July 2021 · <em>Journal of Geophysical Research: Biogeosciences</em></p>
 
-&lt;p align=&quot;justify&quot;&gt;
-Sunlight can oxidize dissolved organic carbon (DOC) to dissolved inorganic carbon (DIC) 
-in freshwaters. The importance of complete photooxidation, or photomineralization, as a 
-sink for DOC remains unclear in temperate rivers, as most estimates are restricted to 
-lakes, high latitude rivers, and coastal river plumes. In this study, we construct a model 
-representing over 75,000 river reaches in the Connecticut River Watershed (CRW), USA, to 
-calculate spectrally resolved photomineralization. We test the hypothesis that 
-photomineralization is a negligible DOC sink across all reaches and flow conditions 
-relative to DOC fluxes. Our model quantifies reaction rates and transport drivers within 
-the river reaches for the ranges of flow conditions, incoming solar irradiance, and canopy 
-cover shading observed throughout the year. Our model predicts average daily areal 
-photomineralization rates ranging from 1.16 mg-C m−2 day−1 in low flow river reaches in 
-the winter, to 18.33 mg-C m−2 day−1 in high flow river reaches during the summer. Even for
- high photomineralization fluxes, corresponding photomineralization uptake velocities are 
- typically at least an order of magnitude smaller than those reported for other instream 
- processes. We calculate DOC elimination by photomineralization relative to DOC fluxes 
- through individual stream reaches as well as the entire riverine portion of the CRW. 
+<p><img src="/assets/images/THOM-thumbnail.PNG" alt="" /></p>
+
+<p align="justify">
+Sunlight can oxidize dissolved organic carbon (DOC) to dissolved inorganic carbon (DIC)
+in freshwaters. The importance of complete photooxidation, or photomineralization, as a
+sink for DOC remains unclear in temperate rivers, as most estimates are restricted to
+lakes, high latitude rivers, and coastal river plumes. In this study, we construct a model
+representing over 75,000 river reaches in the Connecticut River Watershed (CRW), USA, to
+calculate spectrally resolved photomineralization. We test the hypothesis that
+photomineralization is a negligible DOC sink across all reaches and flow conditions
+relative to DOC fluxes. Our model quantifies reaction rates and transport drivers within
+the river reaches for the ranges of flow conditions, incoming solar irradiance, and canopy
+cover shading observed throughout the year. Our model predicts average daily areal
+photomineralization rates ranging from 1.16 mg-C m<sup>−2</sup> day<sup>−1</sup> in low flow river reaches in
+the winter, to 18.33 mg-C m<sup>−2</sup> day<sup>−1</sup> in high flow river reaches during the summer. Even for
+ high photomineralization fluxes, corresponding photomineralization uptake velocities are
+ typically at least an order of magnitude smaller than those reported for other instream
+ processes. We calculate DOC elimination by photomineralization relative to DOC fluxes
+ through individual stream reaches as well as the entire riverine portion of the CRW.
  We find that relative photomineralization fluxes are highest in summer drought conditions
-  in low order streams. In median flows and mean light intensities, for an average 
-  watershed travel distance, 3%–5% of the DOC fluxes are eliminated, indicating that 
+  in low order streams. In median flows and mean light intensities, for an average
+  watershed travel distance, 3%–5% of the DOC fluxes are eliminated, indicating that
   photomineralization is a minor DOC sink in temperate rivers.
-&lt;/p&gt;
+</p>
 
-&lt;p&gt;&lt;a href=&quot;https://doi.org/10.1029/2021JG006402&quot; target=&quot;_blank&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+<p><a class="btn btn--primary" href="https://doi.org/10.1029/2021JG006402" target="_blank">Read more <i class="fa-solid fa-arrow-up-right-from-square"></i></a></p>
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;</content><author><name>lauralogozzo</name></author><category term="Publications" /><summary type="html">Maavara, T., Logozzo, L., Stubbins, A., Aho, K., Brinkerhoff, C., Hosen, J., Raymond, P. July 2021 · Journal of Geophysical Research: Biogeosciences Sunlight can oxidize dissolved organic carbon (DOC) to dissolved inorganic carbon (DIC) in freshwaters. The importance of complete photooxidation, or photomineralization, as a sink for DOC remains unclear in temperate rivers, as most estimates are restricted to lakes, high latitude rivers, and coastal river plumes. In this study, we construct a model representing over 75,000 river reaches in the Connecticut River Watershed (CRW), USA, to calculate spectrally resolved photomineralization. We test the hypothesis that photomineralization is a negligible DOC sink across all reaches and flow conditions relative to DOC fluxes. Our model quantifies reaction rates and transport drivers within the river reaches for the ranges of flow conditions, incoming solar irradiance, and canopy cover shading observed throughout the year. Our model predicts average daily areal photomineralization rates ranging from 1.16 mg-C m−2 day−1 in low flow river reaches in the winter, to 18.33 mg-C m−2 day−1 in high flow river reaches during the summer. Even for high photomineralization fluxes, corresponding photomineralization uptake velocities are typically at least an order of magnitude smaller than those reported for other instream processes. We calculate DOC elimination by photomineralization relative to DOC fluxes through individual stream reaches as well as the entire riverine portion of the CRW. We find that relative photomineralization fluxes are highest in summer drought conditions in low order streams. In median flows and mean light intensities, for an average watershed travel distance, 3%–5% of the DOC fluxes are eliminated, indicating that photomineralization is a minor DOC sink in temperate rivers. Read more</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/THOM-thumbnail.PNG" /><media:content medium="image" url="http://localhost:4000/images/THOM-thumbnail.PNG" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Highest rates of gross primary productivity maintained despite CO2 depletion in a temperate river network</title><link href="http://localhost:4000/publications/2021/05/05/Aho/" rel="alternate" type="text/html" title="Highest rates of gross primary productivity maintained despite CO2 depletion in a temperate river network" /><published>2021-05-05T00:00:00+00:00</published><updated>2021-05-05T00:00:00+00:00</updated><id>http://localhost:4000/publications/2021/05/05/Aho</id><content type="html" xml:base="http://localhost:4000/publications/2021/05/05/Aho/">&lt;h5 id=&quot;aho-k-hosen-j-logozzo-l-mcgillis-w-raymond-p-&quot;&gt;Aho, K., Hosen, J., &lt;strong&gt;Logozzo, L.&lt;/strong&gt;, McGillis, W., Raymond, P. &lt;br /&gt;&lt;/h5&gt;
-&lt;h6 id=&quot;may-2021--limnology-and-oceanography-letters&quot;&gt;May 2021 · &lt;em&gt;Limnology and Oceanography Letters&lt;/em&gt;&lt;/h6&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;figure class=&quot;figure  figure--center&quot;&gt; 
-  
-  &lt;img class=&quot;image&quot; src=&quot;/images/THOM-thumbnail.PNG&quot; alt=&quot;&quot; width=&quot;&quot; height=&quot;&quot; /&gt;
-  
-  &lt;figcaption class=&quot;caption&quot;&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
+<p><br /></p>]]></content><author><name> </name><email>laura.ann.logozzo@gmail.com</email></author><category term="Publications" /><summary type="html"><![CDATA[Maavara, T., L.A. Logozzo, A. Stubbins, K.S. Aho, C. Brinkerhoff, J.D. Hosen, P.A. Raymond July 2021 · Journal of Geophysical Research: Biogeosciences]]></summary></entry><entry><title type="html">Highest rates of gross primary productivity maintained despite CO2 depletion in a temperate river network</title><link href="http://localhost:4000/publications/Aho/" rel="alternate" type="text/html" title="Highest rates of gross primary productivity maintained despite CO2 depletion in a temperate river network" /><published>2021-05-05T00:00:00-04:00</published><updated>2021-05-05T00:00:00-04:00</updated><id>http://localhost:4000/publications/Aho</id><content type="html" xml:base="http://localhost:4000/publications/Aho/"><![CDATA[<p>Aho, K., J.D. Hosen, <strong>L.A. Logozzo</strong>, W. McGillis, P.A. Raymond
+<br />
+May 2021 · <em>Limnology and Oceanography Letters</em></p>
 
-&lt;p align=&quot;justify&quot;&gt;
-Aquatic primary productivity produces oxygen (O2) and consumes carbon dioxide (CO2) in a 
-ratio of ~1.2. However, in aquatic ecosystems, dissolved CO2 concentrations can be low, 
-potentially limiting primary productivity. Here, results show that a large drainage basin 
-maintains its highest levels of gross primary productivity (GPP) when dissolved CO2 is 
-diminished or undetectable due to photosynthetic uptake. Data show that, after CO2 is 
-depleted, bicarbonate, an ionized form of inorganic carbon, supports these high levels of 
-productivity. In fact, outputs from a process-based model suggest that bicarbonate can 
+<p><img src="/assets/images/THOM-thumbnail.PNG" alt="" /></p>
+
+<p align="justify">
+Aquatic primary productivity produces oxygen (O<sub>2</sub>) and consumes carbon dioxide (CO<sub>2</sub>) in a
+ratio of ~1.2. However, in aquatic ecosystems, dissolved CO<sub>2</sub> concentrations can be low,
+potentially limiting primary productivity. Here, results show that a large drainage basin
+maintains its highest levels of gross primary productivity (GPP) when dissolved CO<sub>2</sub> is
+diminished or undetectable due to photosynthetic uptake. Data show that, after CO<sub>2<sub> is
+depleted, bicarbonate, an ionized form of inorganic carbon, supports these high levels of
+productivity. In fact, outputs from a process-based model suggest that bicarbonate can
 support up to ~58% of GPP under the most productive conditions. This is the first evidence
- that high levels of aquatic GPP are sustained in a riverine drainage network despite CO2 
- depletion, which has implications for freshwater ecology, biogeochemistry, and isotopic 
+ that high levels of aquatic GPP are sustained in a riverine drainage network despite CO<sub>2</sub>
+ depletion, which has implications for freshwater ecology, biogeochemistry, and isotopic
  analysis.
 &lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://doi.org/10.1002/lol2.10195&quot; target=&quot;_blank&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+<a class="btn btn--primary" href="https://doi.org/10.1002/lol2.10195" target="_blank">Read more <i class="fa-solid fa-arrow-up-right-from-square"></i></a>
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;</content><author><name>lauralogozzo</name></author><category term="Publications" /><summary type="html">Aho, K., Hosen, J., Logozzo, L., McGillis, W., Raymond, P. May 2021 · Limnology and Oceanography Letters Aquatic primary productivity produces oxygen (O2) and consumes carbon dioxide (CO2) in a ratio of ~1.2. However, in aquatic ecosystems, dissolved CO2 concentrations can be low, potentially limiting primary productivity. Here, results show that a large drainage basin maintains its highest levels of gross primary productivity (GPP) when dissolved CO2 is diminished or undetectable due to photosynthetic uptake. Data show that, after CO2 is depleted, bicarbonate, an ionized form of inorganic carbon, supports these high levels of productivity. In fact, outputs from a process-based model suggest that bicarbonate can support up to ~58% of GPP under the most productive conditions. This is the first evidence that high levels of aquatic GPP are sustained in a riverine drainage network despite CO2 depletion, which has implications for freshwater ecology, biogeochemistry, and isotopic analysis. Read more</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/Laura_Portrait2.jpg" /><media:content medium="image" url="http://localhost:4000/images/Laura_Portrait2.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Photochemical and Microbial Degradation of Chromophoric Dissolved Organic Matter Exported from Tidal Marshes</title><link href="http://localhost:4000/publications/2021/03/09/Logozzo/" rel="alternate" type="text/html" title="Photochemical and Microbial Degradation of Chromophoric Dissolved Organic Matter Exported from Tidal Marshes" /><published>2021-03-09T00:00:00+00:00</published><updated>2021-03-09T00:00:00+00:00</updated><id>http://localhost:4000/publications/2021/03/09/Logozzo</id><content type="html" xml:base="http://localhost:4000/publications/2021/03/09/Logozzo/">&lt;h5 id=&quot;logozzo-l-tzortziou-m-neale-p-clark-b-&quot;&gt;&lt;strong&gt;Logozzo, L.&lt;/strong&gt;, Tzortziou, M., Neale, P., Clark, B. &lt;br /&gt;&lt;/h5&gt;
-&lt;h6 id=&quot;march-2021--journal-of-geophysical-research-biogeosciences&quot;&gt;March 2021 · &lt;em&gt;Journal of Geophysical Research: Biogeosciences&lt;/em&gt;&lt;/h6&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;figure class=&quot;figure  figure--center&quot;&gt; 
-  
-  &lt;img class=&quot;image&quot; src=&quot;/images/GCReW.png&quot; alt=&quot;&quot; width=&quot;&quot; height=&quot;&quot; /&gt;
-  
-  &lt;figcaption class=&quot;caption&quot;&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
+<br />
+</sub></sub></p>]]></content><author><name> </name><email>laura.ann.logozzo@gmail.com</email></author><category term="Publications" /><summary type="html"><![CDATA[Aho, K., J.D. Hosen, L.A. Logozzo, W. McGillis, P.A. Raymond May 2021 · Limnology and Oceanography Letters]]></summary></entry><entry><title type="html">Photochemical and Microbial Degradation of Chromophoric Dissolved Organic Matter Exported from Tidal Marshes</title><link href="http://localhost:4000/publications/Logozzo2021jgrbgs/" rel="alternate" type="text/html" title="Photochemical and Microbial Degradation of Chromophoric Dissolved Organic Matter Exported from Tidal Marshes" /><published>2021-03-09T00:00:00-05:00</published><updated>2021-03-09T00:00:00-05:00</updated><id>http://localhost:4000/publications/Logozzo2021jgrbgs</id><content type="html" xml:base="http://localhost:4000/publications/Logozzo2021jgrbgs/"><![CDATA[<p><strong>Logozzo, L.A.</strong>, M. Tzortziou, P.J. Neale, J.B. Clark
+<br />
+March 2021 · <em>Journal of Geophysical Research: Biogeosciences</em></p>
 
-&lt;p align=&quot;justify&quot;&gt;
-Wetlands export chromophoric dissolved organic matter (CDOM) to estuaries, 
-where CDOM is removed and transformed through biotic and abiotic process, subsequently 
-impacting nutrient cycling, light availability, ecosystem metabolism, and phytoplankton 
-activity. We examined the bioavailability and photoreactivity of CDOM exported from four 
-Chesapeake Bay tidal marshes across three seasons and along an estuarine salinity gradient 
-using three incubation treatments: 14‐day microbial (MD), 7‐day combined 
-photochemical/microbial (PB+MD), and 7‐day microbial incubation after photobleaching 
-(MD after PB). CDOM absorption at 300 nm (aCDOM300) and dissolved organic carbon (DOC) 
-concentrations showed strong seasonality, with minima in winter, but CDOM quality 
-(absorption spectral slopes, fluorescence component ratios) was less variable seasonally. 
-PB+MD over 7 days decreased aCDOM300 (–56.0%), humic‐like fluorescence (–67.6%), 
-and DOC (–17.8%), but increased the spectral slope ratio SR (=S275‐295/S300‐350) (+94.8%), 
-suggesting a decrease in CDOM molecular weight. Photochemistry dominated the PB+MD 
-treatment. Photoreactivity was greater during the winter and in marsh/watershed versus 
-down‐estuary sites, likely due to less previous light exposure. Prior photobleaching 
-increased the bioavailability of marsh‐exported CDOM, resulting in a greater loss of 
-aCDOM300 and DOC, and a greater increase in humic‐like fluorescence (–6.0%, –5.9%, and 
-+18.4% change, respectively, over 7‐day MD after PB incubations, versus –2.8%, –5.5%, and 
-+2.6% change, respectively, over 14‐day MD incubations). CDOM exported from a marsh 
-downstream of a major wastewater treatment plant showed the greatest photoreactivity 
-and bioavailability. This highlights the significance of human activity on estuarine 
+<p><img src="/assets/images/GCReW.png" alt="" /></p>
+
+<p align="justify">
+Wetlands export chromophoric dissolved organic matter (CDOM) to estuaries,
+where CDOM is removed and transformed through biotic and abiotic process, subsequently
+impacting nutrient cycling, light availability, ecosystem metabolism, and phytoplankton
+activity. We examined the bioavailability and photoreactivity of CDOM exported from four
+Chesapeake Bay tidal marshes across three seasons and along an estuarine salinity gradient
+using three incubation treatments: 14‐day microbial (MD), 7‐day combined
+photochemical/microbial (PB+MD), and 7‐day microbial incubation after photobleaching
+(MD after PB). CDOM absorption at 300 nm (a<sub>CDOM</sub>300) and dissolved organic carbon (DOC)
+concentrations showed strong seasonality, with minima in winter, but CDOM quality
+(absorption spectral slopes, fluorescence component ratios) was less variable seasonally.
+PB+MD over 7 days decreased a<sub>CDOM</sub>300 (–56.0%), humic‐like fluorescence (–67.6%),
+and DOC (–17.8%), but increased the spectral slope ratio SR (=S<sub>275‐295</sub>/S<sub>300‐350</sub>) (+94.8%),
+suggesting a decrease in CDOM molecular weight. Photochemistry dominated the PB+MD
+treatment. Photoreactivity was greater during the winter and in marsh/watershed versus
+down‐estuary sites, likely due to less previous light exposure. Prior photobleaching
+increased the bioavailability of marsh‐exported CDOM, resulting in a greater loss of
+a<sub>CDOM</sub>300 and DOC, and a greater increase in humic‐like fluorescence (–6.0%, –5.9%, and
++18.4% change, respectively, over 7‐day MD after PB incubations, versus –2.8%, –5.5%, and
++2.6% change, respectively, over 14‐day MD incubations). CDOM exported from a marsh
+downstream of a major wastewater treatment plant showed the greatest photoreactivity
+and bioavailability. This highlights the significance of human activity on estuarine
 CDOM quality and biogeochemical cycles.
-&lt;/p&gt;
+</p>
 
-&lt;p&gt;&lt;a href=&quot;https://doi.org/10.1029/2020JG005744&quot; target=&quot;_blank&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+<p><a class="btn btn--primary" href="https://doi.org/10.1029/2020JG005744" target="_blank">Read more <i class="fa-solid fa-arrow-up-right-from-square"></i></a></p>
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;</content><author><name>lauralogozzo</name></author><category term="Publications" /><summary type="html">Logozzo, L., Tzortziou, M., Neale, P., Clark, B. March 2021 · Journal of Geophysical Research: Biogeosciences Wetlands export chromophoric dissolved organic matter (CDOM) to estuaries, where CDOM is removed and transformed through biotic and abiotic process, subsequently impacting nutrient cycling, light availability, ecosystem metabolism, and phytoplankton activity. We examined the bioavailability and photoreactivity of CDOM exported from four Chesapeake Bay tidal marshes across three seasons and along an estuarine salinity gradient using three incubation treatments: 14‐day microbial (MD), 7‐day combined photochemical/microbial (PB+MD), and 7‐day microbial incubation after photobleaching (MD after PB). CDOM absorption at 300 nm (aCDOM300) and dissolved organic carbon (DOC) concentrations showed strong seasonality, with minima in winter, but CDOM quality (absorption spectral slopes, fluorescence component ratios) was less variable seasonally. PB+MD over 7 days decreased aCDOM300 (–56.0%), humic‐like fluorescence (–67.6%), and DOC (–17.8%), but increased the spectral slope ratio SR (=S275‐295/S300‐350) (+94.8%), suggesting a decrease in CDOM molecular weight. Photochemistry dominated the PB+MD treatment. Photoreactivity was greater during the winter and in marsh/watershed versus down‐estuary sites, likely due to less previous light exposure. Prior photobleaching increased the bioavailability of marsh‐exported CDOM, resulting in a greater loss of aCDOM300 and DOC, and a greater increase in humic‐like fluorescence (–6.0%, –5.9%, and +18.4% change, respectively, over 7‐day MD after PB incubations, versus –2.8%, –5.5%, and +2.6% change, respectively, over 14‐day MD incubations). CDOM exported from a marsh downstream of a major wastewater treatment plant showed the greatest photoreactivity and bioavailability. This highlights the significance of human activity on estuarine CDOM quality and biogeochemical cycles. Read more</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/GCReW.png" /><media:content medium="image" url="http://localhost:4000/images/GCReW.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">The Effects of Trace Narasin on the Biogeochemical N-Cycle in a Cultivated Sandy Loam</title><link href="http://localhost:4000/publications/2020/05/10/DeVries/" rel="alternate" type="text/html" title="The Effects of Trace Narasin on the Biogeochemical N-Cycle in a Cultivated Sandy Loam" /><published>2020-05-10T00:00:00+00:00</published><updated>2020-05-10T00:00:00+00:00</updated><id>http://localhost:4000/publications/2020/05/10/DeVries</id><content type="html" xml:base="http://localhost:4000/publications/2020/05/10/DeVries/">&lt;h5 id=&quot;devries-s-loving-m--logozzo-l-zhang-p-block-k-&quot;&gt;DeVries, S., Loving, M.,  &lt;strong&gt;Logozzo, L.&lt;/strong&gt;, Zhang, P., Block, K. &lt;br /&gt;&lt;/h5&gt;
-&lt;h6 id=&quot;may-2020--science-of-the-total-environment&quot;&gt;May 2020 · &lt;em&gt;Science of the Total Environment&lt;/em&gt;&lt;/h6&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;figure class=&quot;figure  figure--center&quot;&gt; 
-  
-  &lt;img class=&quot;image&quot; src=&quot;https://ars.els-cdn.com/content/image/1-s2.0-S0048969720305416-ga1_lrg.jpg&quot; alt=&quot;&quot; width=&quot;&quot; height=&quot;&quot; /&gt;
-  
-  &lt;figcaption class=&quot;caption&quot;&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
+<p><br /></p>]]></content><author><name> </name><email>laura.ann.logozzo@gmail.com</email></author><category term="Publications" /><summary type="html"><![CDATA[Logozzo, L.A., M. Tzortziou, P.J. Neale, J.B. Clark March 2021 · Journal of Geophysical Research: Biogeosciences]]></summary></entry><entry><title type="html">The Effects of Trace Narasin on the Biogeochemical N-Cycle in a Cultivated Sandy Loam</title><link href="http://localhost:4000/publications/DeVries/" rel="alternate" type="text/html" title="The Effects of Trace Narasin on the Biogeochemical N-Cycle in a Cultivated Sandy Loam" /><published>2020-05-10T00:00:00-04:00</published><updated>2020-05-10T00:00:00-04:00</updated><id>http://localhost:4000/publications/DeVries</id><content type="html" xml:base="http://localhost:4000/publications/DeVries/"><![CDATA[<h5 id="devries-s-loving-m--logozzo-l-zhang-p-block-k-">DeVries, S., Loving, M.,  <strong>Logozzo, L.</strong>, Zhang, P., Block, K. <br /></h5>
+<h6 id="may-2020--science-of-the-total-environment">May 2020 · <em>Science of the Total Environment</em></h6>
 
-&lt;p align=&quot;justify&quot;&gt;
-Narasin is an antibiotic administered to broiler chickens to prevent coccidiosis. 
-After storage, excreta containing parent narasin compounds is commonly spread as nitrogen fertilizer, 
-yielding initial soil concentrations in the low μg·kg−1 range. In soil, antibiotics have 
-been found to modify one or more pathways in the biogeochemical nitrogen cycle. The concentrations 
-tested are often too high to be considered environmentally relevant, despite evidence that 
-sub-therapeutic doses may also be disruptive. We conducted soil mesocosm experiments to 
-determine the overall impact of trace narasin on major nitrogen pools and fluxes in soils 
-treated with 0, 1, 10, 100, or 1000 ng·kg−1 narasin. Water content in the mesocosms varied 
-from 40% to 80% water-filled pore space (WFPS), simulating a range of different redox 
-conditions. Under aerobic conditions (40% WFPS), exposure to narasin inhibited nitrification, 
-yielding increases in soil ammonium by up to 76%, perhaps by targeting nitrifying fungi. 
-Under the same conditions, narasin caused soil nitrate concentrations to decline 17–39%. 
-When the soil was near saturation (80% WFPS), nitrate increased by an average of 30%. 
-Mass balances and isotopic enrichment of N2O indicate that NAR may also affect anammox and 
-the rate of nitrifier nitrification/denitrification. In aerobic soils, N2O flux increased 
-with antibiotic dose and the rise in flux strongly correlates to the N2O:N2 product ratio 
-from dentification. This relationship suggests that N2O flux may increase in soils exposed 
-to narasin even when total denitrification is modestly inhibited. We conclude that trace 
-concentrations of narasin can significantly modify biogeochemical activities in soil on 
-short timescales. Our results indicate the potential for extremely low concentrations of 
-antibiotics to impact agricultural productivity, terrestrial N2O flux, and non-point source 
+<p align="justify">
+Narasin is an antibiotic administered to broiler chickens to prevent coccidiosis.
+After storage, excreta containing parent narasin compounds is commonly spread as nitrogen fertilizer,
+yielding initial soil concentrations in the low μg·kg<sup>−1</sup> range. In soil, antibiotics have
+been found to modify one or more pathways in the biogeochemical nitrogen cycle. The concentrations
+tested are often too high to be considered environmentally relevant, despite evidence that
+sub-therapeutic doses may also be disruptive. We conducted soil mesocosm experiments to
+determine the overall impact of trace narasin on major nitrogen pools and fluxes in soils
+treated with 0, 1, 10, 100, or 1000 ng·kg<sup>−1</sup> narasin. Water content in the mesocosms varied
+from 40% to 80% water-filled pore space (WFPS), simulating a range of different redox
+conditions. Under aerobic conditions (40% WFPS), exposure to narasin inhibited nitrification,
+yielding increases in soil ammonium by up to 76%, perhaps by targeting nitrifying fungi.
+Under the same conditions, narasin caused soil nitrate concentrations to decline 17–39%.
+When the soil was near saturation (80% WFPS), nitrate increased by an average of 30%.
+Mass balances and isotopic enrichment of N<sub>2</sub>O indicate that NAR may also affect anammox and
+the rate of nitrifier nitrification/denitrification. In aerobic soils, N<sub>2</sub>O flux increased
+with antibiotic dose and the rise in flux strongly correlates to the N2O:N2 product ratio
+from dentification. This relationship suggests that N2O flux may increase in soils exposed
+to narasin even when total denitrification is modestly inhibited. We conclude that trace
+concentrations of narasin can significantly modify biogeochemical activities in soil on
+short timescales. Our results indicate the potential for extremely low concentrations of
+antibiotics to impact agricultural productivity, terrestrial N&lt;sub&lt;2&lt;/sub&gt;O flux, and non-point source
 nitrogen pollution.
-&lt;/p&gt;
+</p>
 
-&lt;p&gt;&lt;a href=&quot;https://www.sciencedirect.com/science/article/pii/S0048969720305416?via%3Dihub&quot; target=&quot;_blank&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+<p><a href="https://www.sciencedirect.com/science/article/pii/S0048969720305416?via%3Dihub" target="_blank">Read more</a></p>
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;</content><author><name>lauralogozzo</name></author><category term="Publications" /><summary type="html">DeVries, S., Loving, M., Logozzo, L., Zhang, P., Block, K. May 2020 · Science of the Total Environment Narasin is an antibiotic administered to broiler chickens to prevent coccidiosis. After storage, excreta containing parent narasin compounds is commonly spread as nitrogen fertilizer, yielding initial soil concentrations in the low μg·kg−1 range. In soil, antibiotics have been found to modify one or more pathways in the biogeochemical nitrogen cycle. The concentrations tested are often too high to be considered environmentally relevant, despite evidence that sub-therapeutic doses may also be disruptive. We conducted soil mesocosm experiments to determine the overall impact of trace narasin on major nitrogen pools and fluxes in soils treated with 0, 1, 10, 100, or 1000 ng·kg−1 narasin. Water content in the mesocosms varied from 40% to 80% water-filled pore space (WFPS), simulating a range of different redox conditions. Under aerobic conditions (40% WFPS), exposure to narasin inhibited nitrification, yielding increases in soil ammonium by up to 76%, perhaps by targeting nitrifying fungi. Under the same conditions, narasin caused soil nitrate concentrations to decline 17–39%. When the soil was near saturation (80% WFPS), nitrate increased by an average of 30%. Mass balances and isotopic enrichment of N2O indicate that NAR may also affect anammox and the rate of nitrifier nitrification/denitrification. In aerobic soils, N2O flux increased with antibiotic dose and the rise in flux strongly correlates to the N2O:N2 product ratio from dentification. This relationship suggests that N2O flux may increase in soils exposed to narasin even when total denitrification is modestly inhibited. We conclude that trace concentrations of narasin can significantly modify biogeochemical activities in soil on short timescales. Our results indicate the potential for extremely low concentrations of antibiotics to impact agricultural productivity, terrestrial N2O flux, and non-point source nitrogen pollution. Read more</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/Laura_Portrait2.jpg" /><media:content medium="image" url="http://localhost:4000/images/Laura_Portrait2.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+<p><br /></p>]]></content><author><name> </name><email>laura.ann.logozzo@gmail.com</email></author><category term="Publications" /><summary type="html"><![CDATA[DeVries, S., Loving, M., Logozzo, L., Zhang, P., Block, K. May 2020 · Science of the Total Environment]]></summary></entry></feed>
