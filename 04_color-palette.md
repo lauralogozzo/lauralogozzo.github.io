@@ -122,6 +122,8 @@ ggplot(data=iris, aes(Petal.Length,Sepal.Length, color = Species)) +
   </code>
 </pre>
 
+<img src="/assets/images/ggplot-Example.svg" caption="Plotted species (categorical) by color using the chosen palette - ggplot" width="100%">
+
 An example of a gradient palette for continuous data in <em>ggplot</em>:
 <pre>
   <code>
@@ -139,4 +141,8 @@ ggplot(data=iris, aes(Petal.Length,Sepal.Length, color = Petal.Width)) +
 
   </code>
 </pre>
+
+<img src="/assets/images/ggplot-Scale-Example.svg" caption="Plotted petal width (continuous) by color using the chosen palette - ggplot" 
+width="100%">
+
 

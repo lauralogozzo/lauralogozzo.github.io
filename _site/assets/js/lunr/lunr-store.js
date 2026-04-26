@@ -45,5 +45,5 @@ var store = [{
         "excerpt":"Logozzo, L.A., C. Soued, L.E. Bortolotti, P. Badiou, P. Kowal, B. Page, M.J. Bogard Mar 2025 · Global Biogeochemical Cycles The Prairie Pothole Region (PPR) is the largest wetland complex in North America, with millions of wetlands punctuating the landscapes of Canada and the United States. Here, wetlands have been...","categories": ["Publications"],
         "tags": ["sticky"],
         "url": "/publications/Logozzo2025gbc/",
-        "teaser": "/assets/images/gcb%20graphical%20abstract.svg"
+        "teaser": "/assets/images/gcb%20graphical%20abstract.jpg"
       }]
