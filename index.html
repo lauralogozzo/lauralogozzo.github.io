@@ -10,19 +10,33 @@ header:
 feature_row:
   - image_path: "/assets/images/gcb graphical abstract.svg"
     alt: "placeholder image 1"
-    excerpt: "Agricultural land use impacts aquatic greenhouse gas emissions from wetlands in the Canadian Prairie Pothole Region"
+    title: "Agricultural land use impacts aquatic greenhouse gas emissions from wetlands in the Canadian Prairie Pothole Region"
     url: /publications/Logozzo2025gbc/
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: "/assets/images/THOM-thumbnail.PNG"
     alt: "placeholder image 2"
-    excerpt: "Distinct drivers of two fractions of operationally dissolved iron in a temperate river"
+    title: "Distinct drivers of two fractions of operationally dissolved iron in a temperate river"
     url: /publications/Logozzo2023lo/
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: "/assets/images/FARM-fall-cropped.JPG"
-    excerpt: "Contributions of Fe(III) to UV–Vis absorbance in river water: a case study on the Connecticut River and argument for the systematic tandem measurement of Fe(III) and CDOM"
+    title: "Contributions of Fe(III) to UV–Vis absorbance in river water: a case study on the Connecticut River and argument for the systematic tandem measurement of Fe(III) and CDOM"
     url: /publications/Logozzo2022bgc/
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+    
+feature_row2:
+  - image_path: "/assets/images/Laura CT Winter Cropped.jpg"
+    title: Exploring the Depths of Water's Role in Climate Change
+    excerpt: Aquatic ecosystems play an essential role in the greenhouse gas emissions cycle. Water bodies can sequester carbon – and they can also release emissions. Reducing these emissions and exploring ways of increasing their potential for carbon uptake is at the center of new climate research at YSE.
+    url: "https://environment.yale.edu/canopy/2022/feature/exploring-depths-waters-role-climate-change"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+  - image_path: "https://environment.yale.edu/sites/default/files/styles/large/public/content/images/4136/new-haven-promise-2.jpg?itok=Xdd3SHxl"
+    title: New Haven Promise Inspires New 'Champions' for the Environment
+    excerpt: For Johnae McArthur, a University of Connecticut undergraduate and one of five New Haven Promise interns at F&ES this past summer, the experience was more than just a crash course in biogeochemistry or a chance to explore the woods near her hometown. It also set her on a new career path.
+    url: "https://environment.yale.edu/sites/default/files/styles/large/public/content/images/4136/new-haven-promise-2.jpg?itok=Xdd3SHxl"
     btn_label: "Read More"
     btn_class: "btn--inverse"
 ---
@@ -52,18 +66,4 @@ and greenhouse gas emissions.
 {% include feature_row %}
 
 <h1> News </h1>
-
-<img src="/assets/images/Laura CT Winter Cropped.jpg" caption="" position="left" align="left" width="30%"
-style="padding: 0px 15px 0px 0px;
-clip-path: rect(5% 90% 95% 0 round 5px);">
-<a href="https://environment.yale.edu/canopy/2022/feature/exploring-depths-waters-role-climate-change" target = "_blank"> <h3> Exploring the Depths of Water's Role in Climate Change</h3></a>
-<i> Canopy Magazine </i> &middot; Spring 2022<br>
-{{ "Aquatic ecosystems play an essential role in the greenhouse gas emissions cycle. Water bodies can sequester carbon – and they can also release emissions. Reducing these emissions and exploring ways of increasing their potential for carbon uptake is at the center of new climate research at YSE." | strip_html | strip_newlines | truncate: 140 }}
-
-<br><br><br><br>
-<img src="https://environment.yale.edu/sites/default/files/styles/large/public/content/images/4136/new-haven-promise-2.jpg?itok=Xdd3SHxl" caption="" position="left" align="left" width="30%"
-style="padding: 0px 15px 0px 0px;
-clip-path: rect(5% 90% 95% 0 round 5px);">
-<a href="https://environment.yale.edu/news/article/new-haven-promise-introduces-students-to-environmental-studies/" target = "_blank_"><h3>New Haven Promise Inspires New 'Champions' for the Environment</h3></a>
-{{ "For Johnae McArthur, a University of Connecticut undergraduate and one of five New Haven Promise interns at F&ES this past summer, the experience was more than just a crash course in biogeochemistry or a chance to explore the woods near her hometown. It also set her on a new career path."
- | strip_html | strip_newlines | truncate: 140 }}
+{% include feature_row id="feature_row2" type="left" %}
