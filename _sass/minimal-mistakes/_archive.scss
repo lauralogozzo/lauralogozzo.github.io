@@ -244,14 +244,11 @@
 
   .archive__item-title {
     margin-bottom: 0;
-    font-size: 0.7em;
-    font-weight: normal;
   }
 }
 
 .feature__item {
   position: relative;
-  margin-bottom: 2em;
   font-size: 1em;
 
   @include breakpoint($small) {
@@ -273,7 +270,7 @@
       clear: none;
       margin-inline-start: gutter(of 12);
     }
-
+ 
     .feature__item-teaser {
       max-height: 200px;
       overflow: hidden;
